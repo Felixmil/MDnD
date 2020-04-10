@@ -3,10 +3,9 @@ name: Rencontre Nocture
 slug: rencontre-nocturne
 pagebreak: h1,h2,h3
 ---
+# Rencontre nocturne
 
-![heading](./ressources/phlan.jpg){.size-cover}
-
-# Introduction
+![cover](./ressources/phlan.jpg){.size-cover}
 
 Le groupe va se voir confier une mission de la part d’un agent des Ménestrels.
 
@@ -22,7 +21,7 @@ Le groupe va se voir confier une mission de la part d’un agent des Ménestrels
 
 Reece ne peut pas en dire plus, alors que le mystérieux étranger en bas garde sa tête bien recouverte par sa capuche.
 
-# Aider les Ménestrels
+## Aider les Ménestrels
 
 Lorsque les personnages redescendent à la salle commune, ils voient une silhouette encapuchonnée seule à une grande table. La personne les observe alors qu’ils descendent les escaliers.
 Une fois assis à la table, le mystérieux étranger, qui conserve son visage caché par sa capuche, commence à parler à voix basse, de toute évidence en la transformant. S’il doit se révéler, c’est un demi-elfe âgé avec des cheveux gris coupés ras.
@@ -47,7 +46,7 @@ Les "diamants" sont essentiellement sans valeur, mais assez bien fait pour pouvo
 S’ils acceptent, l'agent donne alors aux personnages le petit sac de faux diamants, la broche en argent magique, et l’adresse d'une grange abandonnée à la périphérie nord de Phlan.
 La réunion est prévue pour maintenant, il n'y a donc pas de temps pour planifier beaucoup plus. Les personnages doivent se dépêcher !
 
-# Rencontre à la grange
+## Rencontre à la grange
 
 La grange se trouve à 20 minutes à pied, à l'ouest sur Iron Route. Lorsque les personnages arrivent, les vendeurs
 attendent déjà dans le lieu abandonné.
@@ -74,7 +73,7 @@ Un succès au jet d’Escamotage indique qu'un personnage a réussi à placer la
 Si à un moment l'elfe sent qu'elle est en danger, elle laisse tout simplement tomber l'œuf et fuit avec ses gardes. Elle essaie de prendre les diamants, si possible, mais pas au péril de sa vie. L'elfe et les gardes ne se battent que s’ils sont obligés de le faire.
 L'œuf est un faux, mais les personnages ne s’en apercevront qu’après avoir pris possession du sac à dos et l’avoir observé de près. Ils devront même réussir un jet d’Intelligence DD 20 (Nature) pour mettre en doute son authenticité. Si l'œuf est jeté à terre, il produit un flash de lumière, accompagné d'une petite détonation, qui aveugle jusqu'à la fin de leur prochain tour toutes les créatures à moins de 15 mètres et qui échouent à un jet de sauvegarde de Constitution DD 13. L'elfe et ses gardes sont à l'abri de cela car ils connaissent cet effet et fermeront les yeux à temps.
 
-# Des invités innatendus
+## Des invités innatendus
 
 Que la vente se passe bien ou mal, les membres de la guilde de voleurs de Phlan sortiront de la clandestinité pour tenter de voler l'œuf (ils ne se soucient pas des diamants ou d'autres objets de valeur, ils sont seulement intéressés par l'œuf).
 Le meilleur moment pour faire intervenir les Accueillants est après que l'échange ait eu lieu. Juste après que les personnages aient tenté le jet de Nature pour se rendre compte que l'œuf est un faux. Cela permet aux vendeurs de quitter (ou fuir) la grange et ainsi de les faire rester en dehors du combat. Cela donne aussi aux personnages la possibilité de tout simplement remettre l'œuf, évitant ainsi le combat.
@@ -88,13 +87,13 @@ Ce qui suit part du fait que les Accueillants arrivent après que l’elfe et se
 L'homme à l'entrée est un malfrat demi-orque qui clairement est le chef de ce petit gang de bandits. En plus du boss, quatre autres bandits sont présents : les deux précités cachés dans le grenier, et deux autres qui attendaient à l'extérieur de la grange et qui sont maintenant positionnés de chaque côté de l'entrée.
 Les deux bandits dans le grenier à foin sont, en plus de leur équipement normal, armés de filets. Ils peuvent les lancer à travers des trous depuis le grenier au prix d’une action, essayant ainsi d’entraver un personnage. Un personnage doit réussir un jet de sauvegarde de Dextérité DD 10 pour éviter un filet. En cas d'échec à la sauvegarde, la créature ciblée est entravée. Pour se débarrasser de cette condition, le personnage doit utiliser une action pour réaliser un jet de Force (Athlétisme) DD 10 ou infliger 5 points de dégâts tranchants au filet.
 
-# Rendre l'oeuf
+## Rendre l'oeuf
 
 Les personnages peuvent s’être rendu compte que l'œuf est un faux, et donc ils pourraient simplement le donner aux Accueillants. Si tel est le cas, les bandits sont d'abord méfiants, mais finalement acceptent leur bonne fortune d’éviter un combat. Ils questionneront les personnages afin de savoir pourquoi ils voulaient l'œuf et essayeront de les intimider afin de les dissuader de tenter de les suivre, puis les laisseront finalement en paix.
 
 Si les personnages abandonnent l'œuf sans combattre, ce n’est pas un problème. Mais si vous pensez que les joueurs vont être déçus de ne pas avoir eu la chance de se battre, faites que les quatre bandits (mais pas leur chef) les suivent lors de leur retour à Phlan, et tentent de les intercepter avant d'atteindre la ville. Les bandits pourraient avoir réalisé que l'œuf était un faux et pensé que les personnages cachent le vrai quelque part.
 
-# Conclusion
+## Conclusion
 
 Le Ménestrel attend les personnages, comme promis, dans l'écurie derrière la Bouilloire de madame Freona. Si les personnages ont planté avec succès la broche et ont l'œuf, l’agent se rendra rapidement compte qu’il s’agit d’un faux. Il leur donne alors l'or promis ainsi qu'une potion de soins.
 Si les personnages reviennent sans l'œuf, mais qu’ils se sont rendu compte qu’il était faux, le Ménestrel leur donne l'argent promis, mais pas la potion. De même s’ils ont l'œuf mais ont échoué à planter la broche.

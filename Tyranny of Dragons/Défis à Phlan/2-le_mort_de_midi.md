@@ -3,27 +3,20 @@ name: Le Mort de Midi
 slug: le_mort_de_midi
 pagebreak: h1,h2,h3
 ---
+# La mort de Midi
 
-![heading](./ressources/mausoleum.png){.size-cover}
+![cover](./ressources/mausoleum.png){.size-cover}
 
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
-- [(Introduction) La mort de Midi](#introduction-la-mort-de-midi)
-- [Le Gardien des morts](#le-gardien-des-morts)
-- [La crypte de Xandria](#la-crypte-de-xandria)
-- [L'intérieur de la crypte](#lintérieur-de-la-crypte)
-  - [Le piège et le passage secret](#le-piège-et-le-passage-secret)
-    - [Activation du piège](#activation-du-piège)
-    - [Solution](#solution)
-  - [La Garde d'honneur](#la-garde-dhonneur)
-  - [La Chambre de Réanimation](#la-chambre-de-réanimation)
-  - [Le Cercle de téléportation](#le-cercle-de-téléportation)
-- [(Conclusion) Informer le Frère Keefe](#conclusion-informer-le-frère-keefe)
+- [La mort de Midi](#la-mort-de-midi)
+  - [Le Gardien des morts](#le-gardien-des-morts)
+  - [Le Mausolée Xandria](#le-mausolée-xandria)
+  - [Sous la Crypte](#sous-la-crypte)
+    - [La Garde d'honneur](#la-garde-dhonneur)
+    - [La Chambre de Réanimation](#la-chambre-de-réanimation)
+    - [Le Cercle de téléportation](#le-cercle-de-téléportation)
+  - [Informer le Frère Keefe](#informer-le-frère-keefe)
 <!-- TOC END -->
-
-
-
-
-# (Introduction) La mort de Midi
 
 Un prêtre du cimetière de Valhingen s'entretient avec les personnages d'un problème inquiétant.
 
@@ -32,7 +25,7 @@ Un prêtre du cimetière de Valhingen s'entretient avec les personnages d'un pro
 > Il enlève alors son chapeau haut de forme noir, révélant ainsi sa calvitie : « Je suis désolé de vous déranger » dit-il d'une voix monotone mais profonde. « Je suppose que vous êtes des aventuriers qu'on peut embaucher, et je sollicite votre expertise pour une petite affaire »
 {.read}
 
-# Le Gardien des morts
+## Le Gardien des morts
 
 ![frere keefe](./ressources/frere-keefe.jpg)
 
@@ -55,13 +48,7 @@ Si les personnages sont satisfaits de l'explication et des modalités, Frère Ke
 > Il vous conduit jusqu'à un mausolé fait de marbre noir nervuré (d'environ 7.5m de coté) sur lequel est inscrit __"Crypte Welltran"__.
 {.read}
 
-# La crypte de Xandria
-
-| Types           | Description                                                                |
-| --------------- | -------------------------------------------------------------------------- |
-| **Plafonds**        | Dans les pièces sous la crypte, tous les plafonds sont à 3 mètres de haut. |
-| **Lumière**         | Aucune des zones sous la crypte n'est éclairée.                            |
-| **Portes secrètes** | Trois portes secrètes sont cachées dans la paroi en spirale. Elles peuvent être remarquées en cas de réussite à un jet de Sagesse (Perception) DD 15. Les êtres vivants qui passent à travers prennent 2 (1d4) dégâts nécrotiques. Les morts-vivants qui les traversent récupèrent 2 points (1d4) points de vie. Les morts-vivants connaissent leur présence mais ne les utilisent que pour des fins tactiques, par pour reprendre des pv.                                                                           |
+## Le Mausolée Xandria
 
 > Frère Keefe introduit une clef pour en ouvrir la porte.
 > L'intérieur est tout aussi bien d'apparence. Les murs sont sculptés et peints, représentant différentes scènes qui montrent une jolie femme humaine dans différents endroits :
@@ -77,11 +64,9 @@ Pendant que les joueurs examinent ces sculptures, le Frère Keefe ouvre le couve
 - il contient un tas d'os confus. (🔎 Medecine DD12) Ce ne sont pas des os humains, nombre d'entre eux semblent draconiques. On peut aussi remarquer qu'il en manque au moins la moitié)
 - Il y a aussi 5 minuscules petites pierres précieuses: un rubis, une émeraude, un opale noire, un diamant blanc et un saphir.
 
+#### Le piège et le passage secret
 
-# L'intérieur de la crypte
-## Le piège et le passage secret
-
-### Activation du piège
+**Activation du piège**
 
 Peu de temps après que les restes aient été dérangés et analysé:
 
@@ -96,7 +81,7 @@ Peu de temps après que les restes aient été dérangés et analysé:
 3. Après deux tours, le gaz inflige 3 (1d6) points de dégâts de poison. Réussir un jet de sauvegarde de Constitution DD 12 réduit les dégâts de moitié. Après cela, c'est Frère Keefe qui se rendra compte que les pierres précieuses pourraient entrer dans ces orifices.
 4. S'ils mettent les mauvaises pierre au mauvaiset endroit: un seul autre jet de sauvegarde avant que Frère Keefe ne leur fournisse suffisamment d'indices pour parvenir à résoudre le puzzle correctement.
 
-### Solution
+**Solution**
 
 Chaque pierre doit être placé à un emplacement précis (correspondance sur la couleur)
 
@@ -114,7 +99,20 @@ Lorsque les gemmes sont correctement insérées:
 
 Frere Keefe refuse d'entrer dans les cavités inférieures.
 
-## La Garde d'honneur
+## Sous la Crypte
+
+| Types           | Description                                                                |
+| --------------- | -------------------------------------------------------------------------- |
+| **Plafonds**        | Dans les pièces sous la crypte, tous les plafonds sont à 3 mètres de haut. |
+| **Lumière**         | Aucune des zones sous la crypte n'est éclairée.                            |
+| **Portes secrètes** | Trois portes secrètes sont cachées dans la paroi en spirale. Elles peuvent être remarquées en cas de réussite à un jet de Sagesse (Perception) DD 15. Les êtres vivants qui passent à travers prennent 2 (1d4) dégâts nécrotiques. Les morts-vivants qui les traversent récupèrent 2 points (1d4) points de vie. Les morts-vivants connaissent leur présence mais ne les utilisent que pour des fins tactiques, par pour reprendre des pv.                                                                           |
+
+##### MJ
+![map](./ressources/DDEX1-1_defiance-in-phlan_the-under-crypt.png)
+##### Player friendly
+![map](./ressources/DDEX1-1_defiance-in-phlan_the-under-crypt_player-friendly.png)
+
+### La Garde d'honneur
 
 > Le passage débouche dans une pièce. Trois étranges squelettes humanoïdes, surmontés de crânes draconiques, s'y tiennent droit, tenant des épées. Au fond de la pièce se trouve un grand fauteuil en forme de trône, actuellement vide, sur une estrade acajou.
 {.read}
@@ -135,7 +133,7 @@ Frere Keefe refuse d'entrer dans les cavités inférieures.
     - Une tourmaline (petite pierre precieuse, 50po)
     - un parchemin de [comprehension des langues](/spell/comprehend-languages)
 
-## La Chambre de Réanimation
+### La Chambre de Réanimation
 
 > Le passage en spirale continue de descendre en légère pente, jusqu'à atteindre une autre pièce.
 > Cette pièce est équipée comme un petit laboratoire. Les tables tout autour sont recouvertes de fioles, de livres, de chaudrons, de casseroles et de pleins d'autres outils d'alchimie.
@@ -148,7 +146,7 @@ Frere Keefe refuse d'entrer dans les cavités inférieures.
   - **boire la potion**: Un personnage assez fou pour boire de la potion doit réussir un jet de sauvegarde de Constitution DD 20 ou prendre 21 (6d6) dégâts de poison.
   - **Sortir le materiel de la crypte**: Tout ce matériel est maudit magiquement. S'il est extrait du complexe souterrain, il se dissout.
 
-## Le Cercle de téléportation
+### Le Cercle de téléportation
 
 >La légère spirale continue en pente et débouche sur une nouvelle salle.
 >
@@ -181,10 +179,14 @@ Frere Keefe refuse d'entrer dans les cavités inférieures.
   - Le cercle de téléportation peut être facilement effacé pour le rendre inutilisable.
   - (🔎 Arcanes DD 15) Le cercle de téléportation est probablement lié à un cercle semblable ailleurs, et une puissante magie est nécessaire pour utiliser les cercles.
 
+## Informer le Frère Keefe
 
-# (Conclusion) Informer le Frère Keefe
+Le frère Keefe cherche à savoir ce que les aventuriers ont pu découvrir. 
+>A la sortie du mausolée, vous voyez le frère Keene soulagé de vous voir. Il se précipite vers vous. J’ai entendu des bruits atroces venant de la crypte ! Oh Kelemvor tu as entendu mes prières !
+>tu n’as pas emporté ces valeureux aventuriers trop tot dans ton royaume des morts, merci. Alors, vous avez trouver quelquechose ? Qu’est-ce qu’il se trame là dessous ?
+{.read}
 
-En supposant que les personnages aient libéré la crypte de tous ses dangers, Frère Keefe leur demande de lui montrer ce qu'ils ont trouvé. Si les personnages n'ont pas encore fait le lien entre la nécromancie et les motifs de dragons, il les informe qu'il est possible que quelqu'un essaie de créer une dracoliche.
+ Si les personnages font le lien entre la nécromancie et les différents aspects draconiens, il suggère que quelqu’un essaie de créer une dracoliche. Sinon il leur demande de l’accompagner pour qu’il puisse étudier la crypte et leur transmet la même information.
 
-
-À ce stade, Frère Keefe révèle qu'il est membre de l'Alliance des Seigneurs, un groupe qui cherche à maintenir la stabilité à Phlan, mais pas au prix de la tyrannie actuelle. Il admet que les rumeurs sur la nature draconienne de Xandria Welltran proviennent d'une source au sein de l'Alliance des Seigneurs, laquelle lui a également révélé que les Accueillants, la guilde de voleurs de Phlan, ont enquêté sur divers sujets concernant les dragons ce mois-ci. Les Accueillants sont peut-être impliqués dans tout ceci...
+> Le frère Keefe paie les joueurs. Vous etes des personnes de confiance, et courageux en plus ! Je suppose que je peux vous reveler quelque chose en plus de ce modeste paiement: voyez vous, je suis membre de l’Alliance des Seigneurs. Ma mission à Phlan est de maintenir sa stabilité ... mais pas au prix de la tyrannie actuelle que subit la ville. C'est de l'Alliance des Seigneurs que je tenais cette information. Ils m'ont aussi transmis leur dernier rapport d'enquête: les Acceuillants (guilde de voleur de Phlan) mis leurs nez dans divers sujets concernant les dragons ce mois-ci. Ils sont peut-être impliqués dans tout ceci… 
+{.read}
