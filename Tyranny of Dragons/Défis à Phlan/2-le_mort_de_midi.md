@@ -1,22 +1,26 @@
 ---
-name: Le Mort de Midi
+name: 2 - Le Mort de Midi
 slug: le_mort_de_midi
 pagebreak: h1,h2,h3
 ---
 # La mort de Midi
 
+
 ![cover](./ressources/mausoleum.png){.size-cover}
 
-<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
-- [La mort de Midi](#la-mort-de-midi)
-  - [Le Gardien des morts](#le-gardien-des-morts)
-  - [Le Mausolée Xandria](#le-mausolée-xandria)
-  - [Sous la Crypte](#sous-la-crypte)
-    - [La Garde d'honneur](#la-garde-dhonneur)
-    - [La Chambre de Réanimation](#la-chambre-de-réanimation)
-    - [Le Cercle de téléportation](#le-cercle-de-téléportation)
-  - [Informer le Frère Keefe](#informer-le-frère-keefe)
+___
+
+<!-- TOC START min:2 max:3 link:true asterisk:false update:false -->
+- [Le Gardien des morts](le-gardien-des-morts)
+- [Le Mausolee Xandria](le-mausolee-xandria)
+- [Sous la Crypte](sous-la-crypte)
+  - [La Garde d'honneur](la-garde-dhonneur)
+  - [La Chambre de Reanimation](la-chambre-de-reanimation)
+  - [Le Cercle de teleportation](le-cercle-de-teleportation)
+- [Informer le Frere Keefe](informer-le-frere-keefe)
 <!-- TOC END -->
+
+___
 
 Un prêtre du cimetière de Valhingen s'entretient avec les personnages d'un problème inquiétant.
 
@@ -48,15 +52,15 @@ Si les personnages sont satisfaits de l'explication et des modalités, Frère Ke
 > Il vous conduit jusqu'à un mausolé fait de marbre noir nervuré (d'environ 7.5m de coté) sur lequel est inscrit __"Crypte Welltran"__.
 {.read}
 
-## Le Mausolée Xandria
+## Le Mausolee Xandria
 
 > Frère Keefe introduit une clef pour en ouvrir la porte.
 > L'intérieur est tout aussi bien d'apparence. Les murs sont sculptés et peints, représentant différentes scènes qui montrent une jolie femme humaine dans différents endroits :
 > * regardant vers un pic enneigé,
 > * debout sous la pluie d'un orage,
 > * assise dans une chambre confortable auprès d'un feu de cheminée,
-> * tenant un serpent venimeux dans un jardin et travaillant avec des flacons dans un laboratoire.
->
+> * tenant un serpent venimeux dans un jardin et
+> * travaillant avec des flacons dans un laboratoire.
 > Le couvercle du sarcophage de marbre au centre de la pièce est sculpté à l'effigie de la même femme humaine dans la fleur de sa vie.
 {.read}
 
@@ -72,6 +76,8 @@ Peu de temps après que les restes aient été dérangés et analysé:
 
 > Quelques instants après que le couvercle ait est retiré et le contenu du sarcophage examiné, un raclement résonne dans la crypte. La porte se ferme et se verrouille, et un bruit de sifflement vous fait prendre conscience qu'un gaz entre dans la crypte. Il n'a pas une odeur agréable.
 {.read}
+
+🎵 Ambiance sonore : https://www.youtube.com/watch?v=JYFU_RiefKk
 
 1. Lancer l'initiative (Laisser 2 tours avant que le gaz de fasse effet)
 2. Leur laisser ce temps pour investiguer la pièce:
@@ -100,6 +106,8 @@ Lorsque les gemmes sont correctement insérées:
 Frere Keefe refuse d'entrer dans les cavités inférieures.
 
 ## Sous la Crypte
+
+Ambiance: https://www.youtube.com/watch?v=a483kj0sR4c
 
 | Types           | Description                                                                |
 | --------------- | -------------------------------------------------------------------------- |
@@ -133,7 +141,7 @@ Frere Keefe refuse d'entrer dans les cavités inférieures.
     - Une tourmaline (petite pierre precieuse, 50po)
     - un parchemin de [comprehension des langues](/spell/comprehend-languages)
 
-### La Chambre de Réanimation
+### La Chambre de Reanimation
 
 > Le passage en spirale continue de descendre en légère pente, jusqu'à atteindre une autre pièce.
 > Cette pièce est équipée comme un petit laboratoire. Les tables tout autour sont recouvertes de fioles, de livres, de chaudrons, de casseroles et de pleins d'autres outils d'alchimie.
@@ -146,7 +154,7 @@ Frere Keefe refuse d'entrer dans les cavités inférieures.
   - **boire la potion**: Un personnage assez fou pour boire de la potion doit réussir un jet de sauvegarde de Constitution DD 20 ou prendre 21 (6d6) dégâts de poison.
   - **Sortir le materiel de la crypte**: Tout ce matériel est maudit magiquement. S'il est extrait du complexe souterrain, il se dissout.
 
-### Le Cercle de téléportation
+### Le Cercle de teleportation
 
 >La légère spirale continue en pente et débouche sur une nouvelle salle.
 >
@@ -179,7 +187,7 @@ Frere Keefe refuse d'entrer dans les cavités inférieures.
   - Le cercle de téléportation peut être facilement effacé pour le rendre inutilisable.
   - (🔎 Arcanes DD 15) Le cercle de téléportation est probablement lié à un cercle semblable ailleurs, et une puissante magie est nécessaire pour utiliser les cercles.
 
-## Informer le Frère Keefe
+## Informer le Frere Keefe
 
 Le frère Keefe cherche à savoir ce que les aventuriers ont pu découvrir. 
 >A la sortie du mausolée, vous voyez le frère Keene soulagé de vous voir. Il se précipite vers vous. J’ai entendu des bruits atroces venant de la crypte ! Oh Kelemvor tu as entendu mes prières !
@@ -188,5 +196,5 @@ Le frère Keefe cherche à savoir ce que les aventuriers ont pu découvrir. 
 
  Si les personnages font le lien entre la nécromancie et les différents aspects draconiens, il suggère que quelqu’un essaie de créer une dracoliche. Sinon il leur demande de l’accompagner pour qu’il puisse étudier la crypte et leur transmet la même information.
 
-> Le frère Keefe paie les joueurs. Vous etes des personnes de confiance, et courageux en plus ! Je suppose que je peux vous reveler quelque chose en plus de ce modeste paiement: voyez vous, je suis membre de l’Alliance des Seigneurs. Ma mission à Phlan est de maintenir sa stabilité ... mais pas au prix de la tyrannie actuelle que subit la ville. C'est de l'Alliance des Seigneurs que je tenais cette information. Ils m'ont aussi transmis leur dernier rapport d'enquête: les Acceuillants (guilde de voleur de Phlan) mis leurs nez dans divers sujets concernant les dragons ce mois-ci. Ils sont peut-être impliqués dans tout ceci… 
+>  Le frère Keefe paie les joueurs. Vous etes des personnes de confiance, et courageux en plus ! Je suppose que je peux vous reveler quelque chose en plus de ce modeste paiement: voyez vous, je suis membre de l’Alliance des Seigneurs. Ma mission à Phlan est de maintenir sa stabilité ... mais pas au prix de la tyrannie actuelle que subit la ville. C'est de l'Alliance des Seigneurs que je tenais cette information. Ils m'ont aussi transmis leur dernier rapport d'enquête: les Acceuillants (guilde de voleur de Phlan) mis leurs nez dans divers sujets concernant les dragons ce mois-ci. Ils sont peut-être impliqués dans tout ceci… 
 {.read}
