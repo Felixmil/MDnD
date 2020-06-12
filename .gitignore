@@ -4,3 +4,5 @@
 assets/
 *.xml
 module-packer/
+*.DS_Store
+*.campaign
