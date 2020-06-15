@@ -17,7 +17,7 @@ pagebreak: h1
 > Des sons et odeurs d'un plat qui mijote sortent de la cuisine derrière le bar. Vous reconnaissez une forte odeur de chou.
 > A cette heure-ci, il n'y a que quelques convives mais la taverne n'est pas completement vide avec ses quelques clients qui sont installés dans les différents coins de la pièce.
 > Au bar, une fine humaine au long cheveux noirs est en train de nettoyer des une ardoise tandis qu'un gros bonhomme se dirige vers la cuisine avec gros panier de fruit sur l'épaule. En vous remarquant, il vous crie
-> _"Installez vous ou vous voulez ! Enfin, partout sauf à l'étage, j'arrive dans un instant"_
+>*« Installez vous ou vous voulez ! Enfin, partout sauf à l’étage, j’arrive dans un instant »*
 {.read}
 
 ## Les tenanciers
@@ -39,8 +39,8 @@ pagebreak: h1
 | **préoccupation** | Le service doit se dérouler sans encombres. Toujours occupée mais attentive aux besoins des clients. |
 
 Phrases clés:
-- _(parlant de Gros Mar) "Il devrait garder son gros nez en dehors des affaires des autres..."_
-- _"Si vous n'avez besoin de rien d'autre..."_
+- *(parlant de Gros Mar) "Il devrait garder son gros nez en dehors des affaires des autres..."*
+- *"Si vous n'avez besoin de rien d'autre..."*
 
 
 
@@ -61,13 +61,13 @@ Phrases clés:
 - il met du temps a arriver mais prend la commande légérement essouflé. Il dit d'un ton très chaleureux _"Bonjour, je suis Markoth Bouffetang. Quelle folle journée aujourd'hui, désolé pour l'attente, que puis-je vous servir ?"_
 - Après après avoir pris la commande: "_Excellent choix ! Profitez du poisson frais tant que les bateaux ne se perdent pas dans le brouillard. Avec le phare eteint, ça risque de pas durer très longtemps"_.
 - Markoth a entendu plusieurs rumeurs qu'il peut partager si les joueurs discuttent avec lui:
-  1. _"Le phare de la forteresse de Sokom, sur l'île de Thorn est éteint depuis 2 jours."_
-  2. _"Le fort est très vieux, il a été détruit plusieurs fois, tout comme phlan d'ailleurs."_
-  3. **[Wisdom (Insight) DD10]** _"Une légende raconte qu'il y avait un temple sur l'ile et que le fantome d'un prêtre hanterai un trésors caché sous le fort."_
-  4. _"C'est la Maison Sokol qui détient le fort. C'est une maison assez récente, fondée et protégée par le premier Lord Protecteur."_
-  5. _"La seule raison pour laquelle cette maison s'embête encore avec le cette île sans interet, c'est le phare. C'est une source de revenue sûre et vu l'état du commerce en ce moment..."_
-  6. _"Un vaisseau pirates venu des enfers attaquerai des villages sur les cotes de la moonsea... Si c'est le cas, le fort Sokol serait les premieres lignes de défense de la ville"_
-- Si les joueurs veulent en savoir plus, il montre discrètement deux femmes dans un recoin sombre de la taverne. _"Elles sont amies avec des Poings Noirs qui auraient disparu et qui étaient en poste sur l'île, enfin, il parrait..."_
+  1. *« Le phare de la forteresse de Sokom, sur l'île de Thorn est éteint depuis 2 jours."*
+  2. *« Le fort est très vieux, il a été détruit plusieurs fois, tout comme phlan d'ailleurs."*
+  3. **[Wisdom (Insight) DD10]** *« Une légende raconte qu'il y avait un temple sur l'ile et que le fantome d'un prêtre hanterai un trésors caché sous le fort."_
+  4. *« C'est la Maison Sokol qui détient le fort. C'est une maison assez récente, fondée et protégée par le premier Lord Protecteur."*
+  5. *« La seule raison pour laquelle cette maison s'embête encore avec le cette île sans interet, c'est le phare. C'est une source de revenue sûre et vu l'état du commerce en ce moment..."*
+  6. *« Un vaisseau pirates venu des enfers attaquerai des villages sur les cotes de la moonsea... Si c'est le cas, le fort Sokol serait les premieres lignes de défense de la ville"*
+- Si les joueurs veulent en savoir plus, il montre discrètement deux femmes dans un recoin sombre de la taverne. *"Elles sont amies avec des Poings Noirs qui auraient disparu et qui étaient en poste sur l'île, enfin, il parrait..."*
 
 # Les Convives
 
@@ -80,7 +80,7 @@ Si les joueurs laissent trainer leurs orreiles vers les tables aux alentours:
 Si ce ne sont pas les tenanciers, alors l'un des convives suppose que les joueurs pourrait peut être faire quelquechose
 
 ## Ortal Gruk
-Demi-orc, un marin tatoué et plein de piercing. Il boit seul dans un coin. Quiconque lui payant un verre à droit à une histoire à propos d'un _"esprit vengeur qui vit sous le Fort Sokol, c'est lui qui a eteint le phare pour attirer de nouvelles victimes_
+Demi-orc, un marin tatoué et plein de piercing. Il boit seul dans un coin. Quiconque lui payant un verre à droit à une histoire à propos d'un *"esprit vengeur qui vit sous le Fort Sokol, c'est lui qui a eteint le phare pour attirer de nouvelles victimes*
 
 ## Welby & Grent
 Deux halfelins marchands de cordages, bois et nourritures séchée venant des terres de Dales à l'ouest. Ils ont principalement bloqués ici par la situation actuelle et ils perdent de l'argent à chaque minute de plus passé ici.
@@ -121,18 +121,18 @@ Après quelques minutes d'interractions avec les NPC, ou bien si les joueurs ne 
 ## Rumeurs
 
 ### Keria & Aravele
-- _"Sergent Grim est un gars temeraire et un peu timbré. Il a l'habitude de se fourrer dans les mauvais coups et doit souvent de l'argent à des gens douteux. Il passe son temps a chercher des combines pour de l'argent facile."_
-- _"Grim s'est recemment rapproché de Ian Sokol, le quartier-maitre en charge du fort et du phare."_
-- _"Grim a parlé d'un trésor caché sous le fort et racontait qu'il était l'aurait bientot trouvé."_
-- _"Les poings noirs recrutent largement suite aux rumeurs d'un vaisseau fantome attaquant la côte."_
-- _**"Allez parler au Sergent Hurn au poste des Poings Noirs des docks. Il pourras donner plus d'info."**_
+- *"Sergent Grim est un gars temeraire et un peu timbré. Il a l'habitude de se fourrer dans les mauvais coups et doit souvent de l'argent à des gens douteux. Il passe son temps a chercher des combines pour de l'argent facile."*
+- *"Grim s'est recemment rapproché de Ian Sokol, le quartier-maitre en charge du fort et du phare."*
+- *"Grim a parlé d'un trésor caché sous le fort et racontait qu'il était l'aurait bientot trouvé."*
+- *"Les poings noirs recrutent largement suite aux rumeurs d'un vaisseau fantome attaquant la côte."*
+- ***"Allez parler au Sergent Hurn au poste des Poings Noirs des docks. Il pourras donner plus d'info."***
 
 ### Les dockers
 
-- _"Le fort est hanté par l'esprit d'un clerc mort il y a 101 ans"_
-- _"Le fort était un temple pour un dieux..." L'un dit "Thorm, l'autre Tyr et un troisième assure que c'était un culte païen local"_
-- _"Il y a un vaisseau fantome  qui attaque les village du coin. Rallumer le phare est une priorité pour s'en proteger !"_
-- **_"Liela est l'administratice de la maison Sokol, elle a un bureau aux docks. C'est une noble dame, c'est grace a elle que la plupart d'entre nous avons du boulot."_**
+- *"Le fort est hanté par l'esprit d'un clerc mort il y a 101 ans"*
+- *"Le fort était un temple pour un dieux..." L'un dit "Thorm, l'autre Tyr et un troisième assure que c'était un culte païen local"*
+- *"Il y a un vaisseau fantome  qui attaque les village du coin. Rallumer le phare est une priorité pour s'en proteger !"*
+- ***"Liela est l'administratice de la maison Sokol, elle a un bureau aux docks. C'est une noble dame, c'est grace a elle que la plupart d'entre nous avons du boulot."***
 
 Après ces discussions, une petite troupe de Poings Noirs arrivent et les dockers se dispèrsent.
 
