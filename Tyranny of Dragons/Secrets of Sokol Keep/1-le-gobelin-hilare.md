@@ -21,11 +21,12 @@ pagebreak: h1
 {.read}
 
 ## Les tenanciers
-- Ils peuvent proposer
-  - le plat du jour: un soupe de chou, servie avec un belle tranche de pain frais et du fromage
-  - Un ragout de poissons de roches
-  - La pêche du jour, de la perche grillée aux herbes.
-  - Toutes sortes de boissons mais le vin n'est pas particulièrement bon ces temps ci.
+- Ils peuvent proposer:
+
+    - le plat du jour: un soupe de chou, servie avec un belle tranche de pain frais et du fromage
+    - Un ragout de poissons de roches
+    - La pêche du jour, de la perche grillée aux herbes.
+    - Toutes sortes de boissons mais le vin n'est pas particulièrement bon ces temps ci.
 
 **le repas coute 3 pièces d'argent.**
 
@@ -58,7 +59,7 @@ Phrases clés:
 
 
 
-- il met du temps a arriver mais prend la commande légérement essouflé. Il dit d'un ton très chaleureux _"Bonjour, je suis Markoth Bouffetang. Quelle folle journée aujourd'hui, désolé pour l'attente, que puis-je vous servir ?"_
+- il met du temps a arriver mais prend la commande légérement essouflé. Il dit d'un ton très chaleureux *”Bonjour, je suis Markoth Bouffetang. Quelle folle journée aujourd'hui, désolé pour l'attente, que puis-je vous servir ?"*
 - Après après avoir pris la commande: "_Excellent choix ! Profitez du poisson frais tant que les bateaux ne se perdent pas dans le brouillard. Avec le phare eteint, ça risque de pas durer très longtemps"_.
 - Markoth a entendu plusieurs rumeurs qu'il peut partager si les joueurs discuttent avec lui:
   1. *« Le phare de la forteresse de Sokom, sur l'île de Thorn est éteint depuis 2 jours."*
@@ -74,8 +75,9 @@ Phrases clés:
 ## rumeurs
 
 Si les joueurs laissent trainer leurs orreiles vers les tables aux alentours:
-> Le fait que le phare soit éteint est clairement le sujet du moment. Ni la maison Sokol ni les Poings Noirs ne savent ce qu'il s'est passé. Certains penses que les autorités savent ce qu'ils s'est passé mais que ces lâches sont ont trop peur d'aller voir eux-même.
-> Ce qui est sûr c'est que quelqu'un doit s'en occuper bientôt, sinon quelquechose va mal tourner aux docks...
+
+>  Le fait que le phare soit éteint est clairement le sujet du moment. Ni la maison Sokol ni les Poings Noirs ne savent ce qu'il s'est passé. Certains penses que les autorités savent ce qu'ils s'est passé mais que ces lâches sont ont trop peur d'aller voir eux-même.
+>  Ce qui est sûr c'est que quelqu'un doit s'en occuper bientôt, sinon quelquechose va mal tourner aux docks...
 
 Si ce ne sont pas les tenanciers, alors l'un des convives suppose que les joueurs pourrait peut être faire quelquechose
 
