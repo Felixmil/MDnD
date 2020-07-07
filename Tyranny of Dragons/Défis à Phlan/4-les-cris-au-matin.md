@@ -5,8 +5,7 @@ pagebreak: h1,h2,h3
 ---
 # Des Cris au matin
 
-
-![cover](./ressources/gobs.jpg){.size-cover}
+![cover](gobs.jpg)
 
 
 ___
@@ -42,7 +41,7 @@ Un cri inquiétant perturbe le déjeuner des personnages à la Bouilloire de mad
 
 ## La Capitaine Des Poings Noirs
 
-![Hilda](./ressources/hilda.jpg)
+![Hilda](hilda.jpg)
 
 | **nom**           | Hilda Svendottir                                         |
 | ----------------- | -------------------------------------------------------- |
@@ -79,7 +78,7 @@ Après avoir traversé les tourbières pendant au moins 1H (ajuster en fonction 
 > Vous arrivez au terme de la piste. Le sentier vous a mené à flanc de colline jusque dans une petite cuvette se terminant par la bouche d'une grotte. Vous vous etes plus ou moins caché dans la végétation dense.
 {.read}
 
-![entree-repaire](./ressources/vieux-monoi.jpg)
+![entree-repaire](vieux-monoi.jpg)
 
 > Au bout de quelque temps, vous voyez sortir un individus de taille humaine, vétu d'une grande cape, sortir de la pénombre sa capuche masquant son visage et accompagné d'un gobelin.
 >
@@ -204,4 +203,4 @@ Si les personnages quittent la zone immédiatement, ils ne rencontrent pas plus 
   > J'allais m'échapper lorsque j'ai été attaqué. Depuis, j'ai pu voir qe les gobelins étaient en pourparlers avec des humains pour securiser les environs de la grotte. Malheureusement, je n'en sais pas plus sur leur relation.
   {.read}
 
-![](./ressources/zhentarim.png)
+![](zhentarim.png)

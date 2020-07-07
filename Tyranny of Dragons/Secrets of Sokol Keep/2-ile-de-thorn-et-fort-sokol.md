@@ -1,13 +1,12 @@
 ---
-name: 2 - L'Ile de Thorn et le Fort Sokol
-slug: ddex1-2-ile-de-thorn-et-fort-sokol
-pagebreak: h1
+name: L'Ile de Thorn et le Fort Sokol
+slug: ddex01-02-ile-de-thorn-et-fort-sokol
+pagebreak: h1,h2,h3
 ---
-
-![chateau](ressources/chateau_if.jpg)
+<!-- ![chateau](chateau_if.jpg) -->
+# L'ile de Thorn et le Fort Sokol
 
 Le fort de Sokol était originairement un temple dédié à Ty. Construit 200 ans plus tot, il a été détruit durant plusieurs fois, tout comme Phlan.
-
 
 > **Tyr**,  God of Justice
 > (PHB p294)
@@ -22,15 +21,14 @@ Le fort de Sokol était originairement un temple dédié à Ty. Construit 200 an
 >
 > Symbol: Balanced scales resting on a warhammer
 
+## Traversée vers l'ile de Thorn
 
-# Traversée vers l'ile de Thorn
+## Enquête au Fort Sokol
 
-# Enquête au Fort Sokol
+### Quartier d'Igan
 
-## Quartier d'Igan
+### Phare
 
-## Phare
+### Tour Est
 
-##Tour Est
-
-## Tour Ouest
+### Tour Ouest

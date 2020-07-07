@@ -6,7 +6,7 @@ pagebreak: h1,h2,h3
 
 # Rencontre nocturne
 
-![cover](./ressources/phlan.jpg){.size-cover}
+![cover](phlan.jpg)
 
 Le groupe va se voir confier une mission de la part d’un agent des Ménestrels.
 

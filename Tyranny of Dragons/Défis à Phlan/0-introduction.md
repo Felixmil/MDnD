@@ -1,9 +1,10 @@
 ---
 name: 0 - Bienvenue à Phlan
+slug: ddex01-01-introduction
 ---
 # Bienvenue à Phlan
 
-![heading](./ressources/phlan.jpg){.size-cover}
+![heading](phlan.jpg)
 
 
 ## La Bouilloire de madame Freona
@@ -13,7 +14,7 @@ Les personnages donc ont entendu dire que l’auberge de la Bouilloire de madame
 
 ## Carte de la ville de phlan
 
-![carte](./ressources/phlan-map.jpg)
+![carte](phlan-map.jpg)
 *source: https://www.reddit.com/r/dndmaps/comments/64ty6a/city_of_phlan_available_at_dms_guild/*
 
 ## Ambiance

@@ -6,7 +6,7 @@ pagebreak: h1,h2,h3
 # La mort de Midi
 
 
-![cover](./ressources/mausoleum.png){.size-cover}
+![cover](mausoleum.png)
 
 ___
 
@@ -31,7 +31,7 @@ Un prêtre du cimetière de Valhingen s'entretient avec les personnages d'un pro
 
 ## Le Gardien des morts
 
-![frere keefe](./ressources/frere-keefe.jpg)
+![frere keefe](frere-keefe.jpg)
 
 - L'homme est Frère Keefe, prêtre de Kelemvor
 - Gardien des Morts au cimetière de Valhingen à Phlan / Surveillant des résidents permanents du cimetière de Valhingen.
@@ -116,9 +116,9 @@ Ambiance: https://www.youtube.com/watch?v=a483kj0sR4c
 | **Portes secrètes** | Trois portes secrètes sont cachées dans la paroi en spirale. Elles peuvent être remarquées en cas de réussite à un jet de Sagesse (Perception) DD 15. Les êtres vivants qui passent à travers prennent 2 (1d4) dégâts nécrotiques. Les morts-vivants qui les traversent récupèrent 2 points (1d4) points de vie. Les morts-vivants connaissent leur présence mais ne les utilisent que pour des fins tactiques, par pour reprendre des pv.                                                                           |
 
 ##### MJ
-![map](./ressources/DDEX1-1_defiance-in-phlan_the-under-crypt.png)
+![map](DDEX1-1_defiance-in-phlan_the-under-crypt.png)
 ##### Player friendly
-![map](./ressources/DDEX1-1_defiance-in-phlan_the-under-crypt_player-friendly.png)
+![map](DDEX1-1_defiance-in-phlan_the-under-crypt_player-friendly.png)
 
 ### La Garde d'honneur
 
