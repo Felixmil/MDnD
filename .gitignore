@@ -6,3 +6,4 @@ assets/
 module-packer/
 *.DS_Store
 *.campaign
+ModuleBuild/
