@@ -30,6 +30,7 @@ pagebreak: h1,h2,h3
 > Des sons et odeurs d'un plat qui mijote sortent de la cuisine derrière le bar. Vous reconnaissez une forte odeur de chou.
 > A cette heure-ci, il n'y a que quelques convives mais la taverne n'est pas completement vide avec ses quelques clients qui sont installés dans les différents coins de la pièce.
 > Au bar, une fine humaine au long cheveux noirs est en train de nettoyer des une ardoise tandis qu'un gros bonhomme se dirige vers la cuisine avec gros panier de fruit sur l'épaule. En vous remarquant, il vous crie
+<<<<<<< HEAD
 > *"Installez vous ou vous voulez ! Enfin, partout sauf à l'étage, j'arrive dans un instant"*
 {.read}
 
@@ -42,10 +43,38 @@ pagebreak: h1,h2,h3
   - Un ragout de poissons de roches
   - La pêche du jour, de la perche grillée aux herbes.
   - Toutes sortes de boissons mais le vin n'est pas particulièrement bon ces temps ci.
+=======
+>*« Installez vous ou vous voulez ! Enfin, partout sauf à l’étage, j’arrive dans un instant »*
+{.read}
+
+## Les tenanciers
+- Ils peuvent proposer:
+
+    - le plat du jour: un soupe de chou, servie avec un belle tranche de pain frais et du fromage
+    - Un ragout de poissons de roches
+    - La pêche du jour, de la perche grillée aux herbes.
+    - Toutes sortes de boissons mais le vin n'est pas particulièrement bon ces temps ci.
+>>>>>>> 0003052a50f9a269db4e8ca51031794102e1590c
 
 **le repas coute 3 pièces d'argent.**
 
 ### Imizael
+<<<<<<< HEAD
+=======
+![Imizael](./ressources/imizael.JPG)
+
+| **nom**           | Imizael                                                                                             |
+| ----------------- | --------------------------------------------------------------------------------------------------- |
+| **description**   | Humaine, 25 ans, traits délicat et yeux de biche verts. d'aspect à la fois bohème et soignée.       |
+| **comportement**  | Douce, concise mais polie                                                                           |
+| **préoccupation** | Le service doit se dérouler sans encombres. Toujours occupée mais attentive aux besoins des clients. |
+
+Phrases clés:
+- *(parlant de Gros Mar) "Il devrait garder son gros nez en dehors des affaires des autres..."*
+- *"Si vous n'avez besoin de rien d'autre..."*
+
+
+>>>>>>> 0003052a50f9a269db4e8ca51031794102e1590c
 
 
 |Imizael||
@@ -71,6 +100,7 @@ Phrases clés:
 | **préoccupation**            | Souhaite savoir ce que les PJ font dans la vie et est heureux de partager les derniers ragots |
 {.statblock}
 
+<<<<<<< HEAD
 - il met du temps a arriver mais prend la commande légérement essouflé. Il dit d'un ton très chaleureux *"Bonjour, je suis Markoth Bouffetang. Quelle folle journée aujourd'hui, désolé pour l'attente, que puis-je vous servir ?"*
 - Après après avoir pris la commande: "*Excellent choix ! Profitez du poisson frais tant que les bateaux ne se perdent pas dans le brouillard. Avec le phare eteint, ça risque de pas durer très longtemps"*.
 - Markoth a entendu plusieurs rumeurs qu'il peut partager si les joueurs discuttent avec lui:
@@ -80,6 +110,17 @@ Phrases clés:
   4. *"C'est la Maison Sokol qui détient le fort. C'est une maison assez récente, fondée et protégée par le premier Lord Protecteur."*
   5. *"La seule raison pour laquelle cette maison s'embête encore avec le cette île sans interet, c'est le phare. C'est une source de revenue sûre et vu l'état du commerce en ce moment..."*
   6. *"Un vaisseau pirates venu des enfers attaquerai des villages sur les cotes de la moonsea... Si c'est le cas, le fort Sokol serait les premieres lignes de défense de la ville"*
+=======
+- il met du temps a arriver mais prend la commande légérement essouflé. Il dit d'un ton très chaleureux *”Bonjour, je suis Markoth Bouffetang. Quelle folle journée aujourd'hui, désolé pour l'attente, que puis-je vous servir ?"*
+- Après après avoir pris la commande: "_Excellent choix ! Profitez du poisson frais tant que les bateaux ne se perdent pas dans le brouillard. Avec le phare eteint, ça risque de pas durer très longtemps"_.
+- Markoth a entendu plusieurs rumeurs qu'il peut partager si les joueurs discuttent avec lui:
+  1. *« Le phare de la forteresse de Sokom, sur l'île de Thorn est éteint depuis 2 jours."*
+  2. *« Le fort est très vieux, il a été détruit plusieurs fois, tout comme phlan d'ailleurs."*
+  3. **[Wisdom (Insight) DD10]** *« Une légende raconte qu'il y avait un temple sur l'ile et que le fantome d'un prêtre hanterai un trésors caché sous le fort."_
+  4. *« C'est la Maison Sokol qui détient le fort. C'est une maison assez récente, fondée et protégée par le premier Lord Protecteur."*
+  5. *« La seule raison pour laquelle cette maison s'embête encore avec le cette île sans interet, c'est le phare. C'est une source de revenue sûre et vu l'état du commerce en ce moment..."*
+  6. *« Un vaisseau pirates venu des enfers attaquerai des villages sur les cotes de la moonsea... Si c'est le cas, le fort Sokol serait les premieres lignes de défense de la ville"*
+>>>>>>> 0003052a50f9a269db4e8ca51031794102e1590c
 - Si les joueurs veulent en savoir plus, il montre discrètement deux femmes dans un recoin sombre de la taverne. *"Elles sont amies avec des Poings Noirs qui auraient disparu et qui étaient en poste sur l'île, enfin, il parrait..."*
 
 ## Les Convives
@@ -88,12 +129,21 @@ Plusieurs clients sont présents dans la taverne.
 
 Si les joueurs laissent trainer leurs orreiles vers les tables aux alentours:
 
+<<<<<<< HEAD
 > Le fait que le phare soit éteint est clairement le sujet du moment. Ni la maison Sokol ni les Poings Noirs ne savent ce qu'il s'est passé. Certains penses que les autorités savent ce qu'ils s'est passé mais que ces lâches sont ont trop peur d'aller voir eux-même.
 > Ce qui est sûr c'est que quelqu'un doit s'en occuper bientôt, sinon quelquechose va mal tourner aux docks...
 
 Si ce ne sont pas les tenanciers, alors l'un des convives suppose que les joueurs pourrait peut être faire quelquechose
 
 #### Ortal Gruk
+=======
+>  Le fait que le phare soit éteint est clairement le sujet du moment. Ni la maison Sokol ni les Poings Noirs ne savent ce qu'il s'est passé. Certains penses que les autorités savent ce qu'ils s'est passé mais que ces lâches sont ont trop peur d'aller voir eux-même.
+>  Ce qui est sûr c'est que quelqu'un doit s'en occuper bientôt, sinon quelquechose va mal tourner aux docks...
+
+Si ce ne sont pas les tenanciers, alors l'un des convives suppose que les joueurs pourrait peut être faire quelquechose
+
+## Ortal Gruk
+>>>>>>> 0003052a50f9a269db4e8ca51031794102e1590c
 Demi-orc, un marin tatoué et plein de piercing. Il boit seul dans un coin. Quiconque lui payant un verre à droit à une histoire à propos d'un *"esprit vengeur qui vit sous le Fort Sokol, c'est lui qui a eteint le phare pour attirer de nouvelles victimes*
 
 #### Welby & Grent
@@ -135,10 +185,20 @@ Le combat s'arrête lorsque tous les NPC ennemis soient KO. Alors Imizael pousse
 
 ## Debrief après la castagne
 
+<<<<<<< HEAD
 Après le combat, les deux camps sont dehors à lecher leur blessure. 
+=======
+### Keria & Aravele
+- *"Sergent Grim est un gars temeraire et un peu timbré. Il a l'habitude de se fourrer dans les mauvais coups et doit souvent de l'argent à des gens douteux. Il passe son temps a chercher des combines pour de l'argent facile."*
+- *"Grim s'est recemment rapproché de Ian Sokol, le quartier-maitre en charge du fort et du phare."*
+- *"Grim a parlé d'un trésor caché sous le fort et racontait qu'il était l'aurait bientot trouvé."*
+- *"Les poings noirs recrutent largement suite aux rumeurs d'un vaisseau fantome attaquant la côte."*
+- ***"Allez parler au Sergent Hurn au poste des Poings Noirs des docks. Il pourras donner plus d'info."***
+>>>>>>> 0003052a50f9a269db4e8ca51031794102e1590c
 
 Le camp allié remercie les joueurs en partageant les infos qu'ils ont sur le fort Sokol.
 
+<<<<<<< HEAD
 S'ils vont voir l'autre camps, il doivent reussir [Charmise (Persuasion) DD10] avec desavantage pour reussir à obtenir leurs informations.
 
 #### Keria & Aravele
@@ -150,6 +210,8 @@ S'ils vont voir l'autre camps, il doivent reussir [Charmise (Persuasion) DD10] a
 
 #### Les dockers
 
+=======
+>>>>>>> 0003052a50f9a269db4e8ca51031794102e1590c
 - *"Le fort est hanté par l'esprit d'un clerc mort il y a 101 ans"*
 - *"Le fort était un temple pour un dieux..." L'un dit "Thorm, l'autre Tyr et un troisième assure que c'était un culte païen local"*
 - *"Il y a un vaisseau fantome  qui attaque les village du coin. Rallumer le phare est une priorité pour s'en proteger !"*
