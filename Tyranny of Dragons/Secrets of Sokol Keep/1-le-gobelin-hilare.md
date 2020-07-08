@@ -29,7 +29,7 @@ pagebreak: h1,h2,h3
 >
 > Des sons et odeurs d'un plat qui mijote sortent de la cuisine derrière le bar. Vous reconnaissez une forte odeur de chou.
 > A cette heure-ci, il n'y a que quelques convives mais la taverne n'est pas completement vide avec ses quelques clients qui sont installés dans les différents coins de la pièce.
-> Au bar, une fine humaine au long cheveux noirs est en train de nettoyer des une ardoise tandis qu'un gros bonhomme se dirige vers la cuisine avec gros panier de fruit sur l'épaule. En vous remarquant, il vous crie
+> Au bar, une fine humaine au long cheveux noirs est en train de nettoyer des une ardoise tandis qu'un gros bonhomme se dirige vers la cuisine avec gros panier de fruit sur l'épaule. En vous remarquant, il vous crie:
 > *"Installez vous ou vous voulez ! Enfin, partout sauf à l'étage, j'arrive dans un instant"*
 {.read}
 
