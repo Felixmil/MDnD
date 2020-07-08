@@ -103,7 +103,7 @@ Deux halfelins marchands de cordages, bois et nourritures séchée venant des te
 Trois humains tachés d'encre sur leur bras et leurs vetements. Ils partagent un diner et parlent à voix basse entre eux. Ils ignorent toutes interruptions et se remettent à parler à voix basse.
 
 #### Keria & Aravele
-Deux femmes qui semblent être des mercenaires portant des brassard Poings Noirs. Elles s'inquiètent pour Grim lui aussi enrrolé recemment chez Poings Noirs et qui a disparu.
+Deux femmes qui semblent être des mercenaires portant des brassard Poings Noirs. Elles s'inquiètent pour Arthurus, lui aussi enrrolé recemment chez Poings Noirs et qui a disparu.
 
 
 ## Bagarre
