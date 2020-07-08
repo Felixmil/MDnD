@@ -1,5 +1,7 @@
 # Tyranny of Dragons (DDEX01)
 
+ ## Synopsis
+
 A white dragon plunders caravans heading north to Icewind Dale. In the Silver Marches, a scornful red dragon torches a town that refuses to pay a king's ransom. Elsewhere, dragon-worshiping barbarians in Viking longships attack merchant vessels leaving Neverwinter, while masked heathens infiltrate a noble villa in Waterdeep, murder its lord, and steal a draconic artifact.
 
 Dragons and their allies are threatening the Sword Coast and the North, but why now, and to what end?
@@ -20,4 +22,9 @@ The situation is dire. However, the Sword Coast is far from defenseless. Powerfu
 
 ## Resources:
 
+### carte de Phlan
 ![Carte de Phlan](phlan-map.jpg)
+
+### Factions
+
+https://www.aidedd.org/univers/organisations/
