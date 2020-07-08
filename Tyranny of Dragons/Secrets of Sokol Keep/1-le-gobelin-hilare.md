@@ -49,7 +49,7 @@ pagebreak: h1,h2,h3
 
 
 |Imizael||
-|:------------------:|
+|-|-|
 | ![Imizael](imizael.jpg) ||
 | **description**         | Humaine, 25 ans, traits délicat et yeux de biche verts. d'aspect à la fois bohème et soignée.        |
 | **comportement**        | Douce, concise mais polie                                                                            |
@@ -64,7 +64,7 @@ Phrases clés:
 ### Gros Mar
 
 | Markoth Boufétant <br>(Gros Mar)||
-|:------------------:|
+|-|-|
 |![Markoth](markoth.jpeg)||
 | **description**              | Humain, 30 ans, Souriant, bien bedonnant et un sacré double menton                            |
 | **comportement**             | Amical, curieux et Familier                                                                   |
@@ -168,7 +168,7 @@ Les PJ peuvent se rendre à deux endroits pour obtenir des informations:
 ### Le Bureau Admistratif des Sokol
 
 |Liela Sokol ||
-|:------------------:|
+|-|-|
 | ![Liela](Liela.jpeg) ||
 | **description**      | Humaine, fin de la 30aine, grande, fine aux cheveux noirs de jaix. Un visage plutot sévères et un regard vif. |
 | **comportement**     | Protocolaire, Prudente, Organisée et Directe                                                                  |
@@ -186,7 +186,7 @@ Les PJ peuvent se rendre à deux endroits pour obtenir des informations:
 ### Le poste de garde des docks
 
 |Sergant Hurn ||
-|:------------------:|
+|-|-|
 | ![Hurn](hurn.jpg) ||
 | **description**   | Vieux Nain au nez rouge,cheveux et barbe grise, pleinne de miettes, son odeur suggère l'alcoolisme |
 | **comportement**  | Négligé, alcoolisé mais fièr                                                                       |
