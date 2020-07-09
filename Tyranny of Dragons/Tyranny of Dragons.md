@@ -1,6 +1,6 @@
 # Tyranny of Dragons (DDEX01)
 
- ## Synopsis
+## Synopsis
 
 A white dragon plunders caravans heading north to Icewind Dale. In the Silver Marches, a scornful red dragon torches a town that refuses to pay a king's ransom. Elsewhere, dragon-worshiping barbarians in Viking longships attack merchant vessels leaving Neverwinter, while masked heathens infiltrate a noble villa in Waterdeep, murder its lord, and steal a draconic artifact.
 
@@ -15,9 +15,9 @@ Meanwhile, evil dragons in cahoots with the cult seek to amass a treasure hoard 
 The situation is dire. However, the Sword Coast is far from defenseless. Powerful factions are ready to rise up and put an end to the tyranny of dragons. Adventurers throughout the Realms must join forces to face Tiamat, destroy the Cult of the Dragon, and prevent the rise of a new dragon empire. In their hands, the future lies.
 
 ## Aventures
-- DDEX01-01 : [Défis à Phlan]("defis-a-phlan/0-introduction")
+- DDEX01-01 : [Défis à Phlan]("/defis-a-phlan/0-introduction")
 
-- DDEX01-02 : [Les secret du Fort Sokol]("secrets-of-sokol-keep/0-preparation)
+- DDEX01-02 : [Les secret du Fort Sokol]("/secrets-of-sokol-keep/0-preparation)
 
 
 ## Resources:
