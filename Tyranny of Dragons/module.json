@@ -6,6 +6,6 @@
   "category": "adventure",
   "author": "Felix MIL",
   "code": "ddex01",
-  "version": 43,
-  "autoIncrementVersion": true
+  "version": 1,
+  "autoIncrementVersion": false
 }
