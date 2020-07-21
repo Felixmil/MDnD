@@ -1,5 +1,5 @@
 ---
-name: 4 - Des Cris au matin
+name: Des Cris au matin
 slug: des-cris-au-matin
 pagebreak: h1,h2,h3
 ---

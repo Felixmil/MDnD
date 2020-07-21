@@ -1,5 +1,5 @@
 ---
-name: 0 - Bienvenue à Phlan
+name: Bienvenue à Phlan
 slug: ddex01-01-introduction
 ---
 # Bienvenue à Phlan

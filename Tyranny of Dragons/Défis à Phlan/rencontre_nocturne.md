@@ -1,5 +1,5 @@
 ---
-name: 1 - Rencontre Nocture
+name: Rencontre Nocture
 slug: rencontre-nocturne
 pagebreak: h1,h2,h3
 ---
