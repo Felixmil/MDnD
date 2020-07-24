@@ -1,5 +1,5 @@
 ---
-name: 2 - Le Mort de Midi
+name: Le Mort de Midi
 slug: le_mort_de_midi
 pagebreak: h1,h2,h3
 ---
@@ -189,12 +189,12 @@ Ambiance: https://www.youtube.com/watch?v=a483kj0sR4c
 
 ## Informer le Frere Keefe
 
-Le frère Keefe cherche à savoir ce que les aventuriers ont pu découvrir. 
->A la sortie du mausolée, vous voyez le frère Keene soulagé de vous voir. Il se précipite vers vous. J’ai entendu des bruits atroces venant de la crypte ! Oh Kelemvor tu as entendu mes prières !
+Le frère Keefe cherche à savoir ce que les aventuriers ont pu découvrir.
+>A la sortie du mausolée, vous voyez le frère Keene soulagé de vous voir. Il se précipite vers vous.J’ai entendu des bruits atroces venant de la crypte ! Oh Kelemvor tu as entendu mes prières !
 >tu n’as pas emporté ces valeureux aventuriers trop tot dans ton royaume des morts, merci. Alors, vous avez trouver quelquechose ? Qu’est-ce qu’il se trame là dessous ?
 {.read}
 
- Si les personnages font le lien entre la nécromancie et les différents aspects draconiens, il suggère que quelqu’un essaie de créer une dracoliche. Sinon il leur demande de l’accompagner pour qu’il puisse étudier la crypte et leur transmet la même information.
+Si les personnages font le lien entre la nécromancie et les différents aspects draconiens, il suggère que quelqu’un essaie de créer une dracoliche. Sinon il leur demande de l’accompagner pour qu’il puisse étudier la crypte et leur transmet la même information.
 
->  Le frère Keefe paie les joueurs. Vous etes des personnes de confiance, et courageux en plus ! Je suppose que je peux vous reveler quelque chose en plus de ce modeste paiement: voyez vous, je suis membre de l’Alliance des Seigneurs. Ma mission à Phlan est de maintenir sa stabilité ... mais pas au prix de la tyrannie actuelle que subit la ville. C'est de l'Alliance des Seigneurs que je tenais cette information. Ils m'ont aussi transmis leur dernier rapport d'enquête: les Acceuillants (guilde de voleur de Phlan) mis leurs nez dans divers sujets concernant les dragons ce mois-ci. Ils sont peut-être impliqués dans tout ceci… 
+> Le frère Keefe paie les joueurs. Vous etes des personnes de confiance, et courageux en plus ! Je suppose que je peux vous reveler quelque chose en plus de ce modeste paiement: voyez vous, je suis membre de l’Alliance des Seigneurs. Ma mission à Phlan est de maintenir sa stabilité ... mais pas au prix de la tyrannie actuelle que subit la ville. C'est de l'Alliance des Seigneurs que je tenais cette information. Ils m'ont aussi transmis leur dernier rapport d'enquête: les Acceuillants (guilde de voleur de Phlan) mis leurs nez dans divers sujets concernant les dragons ce mois-ci. Ils sont peut-être impliqués dans tout ceci…
 {.read}
