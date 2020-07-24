@@ -6,10 +6,6 @@ pagebreak: h1,h2,h3
 <!-- ![chateau](chateau_if.jpg) -->
 # L'ile de Thorn et le Fort Sokol
 
-<br>
-<br>
-<br>
-<br>
 
 Le fort de Sokol était originairement un temple dédié à Tyr. Construit 200 ans plus tot, il a été détruit durant plusieurs fois, tout comme Phlan.
 
