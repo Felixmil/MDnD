@@ -167,9 +167,9 @@ Les PJ peuvent se rendre à deux endroits pour obtenir des informations:
 
 ### Le Bureau Admistratif des Sokol
 
-| Liela Sokol          |                                                                                                               |
-| -------------------- | ------------------------------------------------------------------------------------------------------------- |
-| ![Liela](Liela.jpeg) |                                                                                                               |
+| Liela Sokol   ||
+| ----- | ------ |
+| ![Liela](ressources/Liela.jpeg) ||
 | **description**      | Humaine, fin de la 30aine, grande, fine aux cheveux noirs de jaix. Un visage plutot sévères et un regard vif. |
 | **comportement**     | Protocolaire, Prudente, Organisée et Directe                                                                  |
 | **préoccupation**    | Maintenir les affaires de la maison et eviter tous problème pouvant impacter le commerce                      |
@@ -177,17 +177,20 @@ Les PJ peuvent se rendre à deux endroits pour obtenir des informations:
 
 - Liela est méfiante. Explication par les PC: donne la permission d'enquêter sur l'Ile.
 - **[Cha (Deception / Persuasion) DD10]**: se relaxe et ecrit un laisser passer à donner à Karst, le passeur.
-- Elle sait:
-  - Le fort est géré par Ian Sokol, un jeune déscendant de la maison Sokol.
-  - Il y a deux servants: Darvag & Shandra, ils travaillent sur l'ile depuis un moment...,
-  - Un contingent de Poings Noirs sont sur place. "Six, si je me souviens bien",
-  - Le représentant en charge de ce contingent se trouve au poste de garde des docks,
+ 
+> Ce que Liela sait:
+> 
+> - Le fort est géré par Ian Sokol, un jeune déscendant de la maison Sokol.
+> - Il y a deux servants: Darvag & Shandra, ils travaillent sur l'ile depuis un moment...,
+> - Un contingent de Poings Noirs sont sur place. "Six, si je me souviens bien",
+> - Le représentant en charge de ce contingent se trouve au poste de garde des docks
+> {.paper}
 
 ### Le poste de garde des docks
 
-| Sergant Hurn      |                                                                                                    |
-| ----------------- | -------------------------------------------------------------------------------------------------- |
-| ![Hurn](hurn.jpg) |                                                                                                    |
+| Sergant Hurn      ||
+| --------- | ---- |
+| ![Hurn](ressources/hurn.jpg) ||
 | **description**   | Vieux Nain au nez rouge,cheveux et barbe grise, pleinne de miettes, son odeur suggère l'alcoolisme |
 | **comportement**  | Négligé, alcoolisé mais fièr                                                                       |
 | **préoccupation** | Bientôt à la retraite, plus que 2 ans.                                                             |
