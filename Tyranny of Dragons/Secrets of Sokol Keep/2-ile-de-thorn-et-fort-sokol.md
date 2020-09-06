@@ -10,13 +10,16 @@ pagebreak: h1,h2,h3
 
 Le fort de Sokol était originairement un temple dédié à Tyr. Construit 200 ans plus tot, il a été détruit durant plusieurs fois, tout comme Phlan.
 
-> **Tyr**,  God of Justice (PHB p294)
+> **Tyr**,  God of Justice (PHB p294) 
 > 
 > - Alignment: lawful good
 > 
 > - Domains: Order, War
 > 
 > - Symbol: Balanced scales resting on a warhammer 
+> 
+> plus d'info: [aidedd](https://www.aidedd.org/univers/pantheon/tyr/)
+{.paper}
 
 ## Traversée vers l'ile de Thorn
 
@@ -57,11 +60,38 @@ Le fort de Sokol était originairement un temple dédié à Tyr. Construit 200 a
 
 ## Enquête au Fort Sokol
 
+### PNJ
+ 
+#### Les Gardiens
 
+**Darvarg** (Humain), **Shandra** (Humaine) et leur fils **Rorin** sont les gardiens. Il sont en charge de la maintenance du fort: Darvarg s'occupe de l'exterieur et Shandra de l'interieur, leur fils les aide en fonction des tâches.
+
+
+
+#### Harae
+
+#### La garnison de Poings Noirs
 
 ### Le Fort
 
+>  
+> - Domine l'île,
+> - 4 tours dans chaque coins, plus le phare à l'arrière du fort, flanqué contre la falaise,
+> - Rudimentaire mais robuste,
+> - Malgré les traces de réparation et d'occupation, donne une impression d'abandon,
+> - Une grille rouillée, levée au dessus d'une large entrée en pierre taillée donne sur un cour en terre battue
+>
+> .
+{.read}
+
 #### La cour
+
+> - Au centre, au fond de la cour, se trouve un Manoir construit en pierre, sur 2 étages et addossé au murrailles ouest de la foreresse. Son architecture dénote du reste du fort: de grande fenetres, quelques gravures, des volets peints. Au contraire du fort, ce batiment n'est pas vraiment défendable.
+> - A gauche, un grange en bois en très mauvaise état
+> - A droite, quelques tentes sont plantées autour d'un feu de camp et d'un etabli. Non loin se trouve quelques manequins d'entrenement et un ratelier protégé par un petit préau.
+> 
+> .
+{.read}
 
 #### Le Manoir
 
