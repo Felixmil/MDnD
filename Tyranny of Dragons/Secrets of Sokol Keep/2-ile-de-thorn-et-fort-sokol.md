@@ -64,13 +64,46 @@ Le fort de Sokol était originairement un temple dédié à Tyr. Construit 200 a
  
 #### Les Gardiens
 
+
 **Darvarg** (Humain), **Shandra** (Humaine) et leur fils **Rorin** sont les gardiens. Il sont en charge de la maintenance du fort: Darvarg s'occupe de l'exterieur et Shandra de l'interieur, leur fils les aide en fonction des tâches.
 
+Ils sont effrayés par les recents evennements:
+- Le superviseur et représentant de la maison Sokol: Igan Sokol a disparu,
+- La garnison des Poings Noirs à elle aussi disparu,
+- Un fantôme hante le fort et a éteint le phare.
+
+
+> #### Ce que savent les gardiens
+> A propos des **Poings Noirs**:
+>   - Les gardes changent regulièrement, le seul dont ils connaissent le nom est **Grim**,
+>   - Les gardes voyait l'affectation à cette garnison comme une punition,
+>   - le Sergent Grim gere les différentes garnisons depuis 1 mois, il est resté sur place,
+>   - Grim semble être un gars sympas, aimable et respectueux. Il avait l'air de vraiment bien aimer Igan.
+> 
+> A propos d'**Igan Sokol**:
+>   - Igan et le Sergent Grim était souvent ensemble, un peu à l'ecart et tenaient de longues conversations,
+>   -  Igan est un jeune homme passionné: il lit beaucoup et est passioné par une rumeur d'un trésor qui serai caché qqpart dans le fort. Ce ne serait pas surprenant s'il se mettait à retirer les briques du fort une par une.
+>   - [DC 15 - Charisma (Persuasion)] : 
+>     - Igan passait beaucoup de temps dans les tours Est et Ouest du fort.
+>     - Il y a quelques jours, Igan semblait tout excité cherchait partout le sergent Grim. Il semblait vraiment embété lorsqu'il a apprit que le sergent avait dû se rendre au port pour faire venir des vivres pour la garnison
+> 
+> A propos du **Fort**:
+>   - La lumière du phare est d'origine magique. Ils ne savent pas comment ça fonctionne. Ils *suggèrent que les quartiers d'Igan doivent bien contenir un document qui l'explique.*
+>   - La plupart des portes du fort sont fermées. *Shandra fournit une clé aux PJ*
+> - [DC 15 - Charisma (Persuasion)] : 
+>     - Le soir où le fort s'est eteint, ils ont entendu un gémissement surnaturel qui semblait venir de l'ile entière.
+>     - Depuis, plein de choses étranges se sont passées: des objets qui tombent sans raison, des bruits inconnus, des grincements. Le pire endroit est vers la Tour Est où, un soir, la lanterne de Shandra s'est éteinte soudainement et où les phénomènes sont plus fréquents encore.
 
 
 #### Harae
 
+
+
 #### La garnison de Poings Noirs
+
+La garnison des Poings Noirs est en poste ici pour proteger le phare, qui est très important pour la ville. Son importance en fait une cible privilégiée pour les manoeuvres politiques des puissants de Phlan.
+
+Contrairement aux croyance, ce sont les soldats les plus disciplinés qui sont envoyés ici. Les soldats sont remplacés tous les 3 jours environ. Grim a payé son propre superviseur pour etre assigné de façon répété à la garnison du Fort Sokol.
 
 ### Le Fort
 
@@ -81,17 +114,13 @@ Le fort de Sokol était originairement un temple dédié à Tyr. Construit 200 a
 > - Malgré les traces de réparation et d'occupation, donne une impression d'abandon,
 > - Une grille rouillée, levée au dessus d'une large entrée en pierre taillée donne sur un cour en terre battue
 >
-> .
-{.read}
+
 
 #### La cour
 
 > - Au centre, au fond de la cour, se trouve un Manoir construit en pierre, sur 2 étages et addossé au murrailles ouest de la foreresse. Son architecture dénote du reste du fort: de grande fenetres, quelques gravures, des volets peints. Au contraire du fort, ce batiment n'est pas vraiment défendable.
 > - A gauche, un grange en bois en très mauvaise état
 > - A droite, quelques tentes sont plantées autour d'un feu de camp et d'un etabli. Non loin se trouve quelques manequins d'entrenement et un ratelier protégé par un petit préau.
-> 
-> .
-{.read}
 
 #### Le Manoir
 
