@@ -1,0 +1,623 @@
+{
+	"sync": {},
+	"async": {
+		"EXCLUDES_STORAGE": [
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "ALCurseOfStrahd"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "ALElementalEvil"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "ALRageOfDemons"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "AWM"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "IMR"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "LLK"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "LR"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "Mag"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "OGA"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "PSA"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "PSD"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "PSI"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "PSK"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "PSX"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "PSZ"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "SADS"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "Stream"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "TTP"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "Twitter"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UA2020Feats"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UA2020PsionicOptionsRevisited"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UA2020SpellsAndMagicTattoos"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UA2020SubclassesPt1"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UA2020SubclassesPt2"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UA2020SubclassesPt3"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UA2020SubclassesPt4"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UA2020SubclassesRevisited"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAATrioOfSubclasses"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAArtificer"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAArtificerRevisited"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UABarbarianAndMonk"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UABarbarianPrimalPaths"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UABardAndPaladin"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UABardBardColleges"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UACentaursMinotaurs"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAClassFeatureVariants"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAClericDivineDomains"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAClericDruidWizard"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UADruid"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAEberron"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAEladrinAndGith"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAElfSubraces"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAFeats"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAFeatsForRaces"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAFeatsForSkills"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAFiendishOptions"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAFighter"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAFighterRangerRogue"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAFighterRogueWizard"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAGiantSoulSorcerer"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAGothicHeroes"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAGreyhawkInitiative"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAKitsOfOld"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UALightDarkUnderdark"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAMassCombat"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAModernMagic"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAModifyingClasses"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAMonk"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAOfShipsAndSea"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAOrderDomain"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAPaladin"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAPrestigeClassesRunMagic"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UARacesOfEberron"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UARacesOfRavnica"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UARanger"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UARangerAndRogue"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UARevisedClassOptions"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UARevisedSubclasses"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UASidekicks"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UASorcerer"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UASorcererAndWarlock"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAStarterSpells"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAThatOldBlackMagic"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UATheFaithful"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UATheMysticClass"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UATheRangerRevised"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAThreePillarExperience"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAThreeSubclasses"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAVariantRules"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAWGE"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAWarlockAndWizard"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAWaterborneAdventures"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "UAWizardRevisited"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "ERLW"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "KKW"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "MOT"
+			},
+			{
+				"displayName": "*",
+				"hash": "*",
+				"category": "*",
+				"source": "RMBRE"
+			}
+		],
+		"brewbuilderSettings_makebrew.html": {
+			"activeBuilder": "creatureBuilder"
+		},
+		"converterState_converter.html": {
+			"state": {
+				"hasAppended": false,
+				"converter": "Creature",
+				"sourceJson": "",
+				"inputSeparator": "===",
+				"availableSources": []
+			},
+			"Creature": {
+				"state": {
+					"mode": "txt",
+					"page": 0,
+					"isTitleCase": false,
+					"source": ""
+				}
+			},
+			"Item": {
+				"state": {
+					"mode": "txt",
+					"page": 0,
+					"isTitleCase": false,
+					"source": ""
+				}
+			},
+			"Feat": {
+				"state": {
+					"mode": "txt",
+					"page": 0,
+					"isTitleCase": false,
+					"source": ""
+				}
+			},
+			"Spell": {
+				"state": {
+					"mode": "txt",
+					"page": 0,
+					"isTitleCase": false,
+					"source": ""
+				}
+			},
+			"Table": {
+				"state": {
+					"mode": "html"
+				}
+			}
+		},
+		"converterInput_converter.html": "bwjskwbwks jsbsjs\nvsjsjsbsbs",
+		"filterBoxState_tables.html": {
+			"box": {
+				"meta": {
+					"modeCombineFilters": "and",
+					"isSummaryHidden": false,
+					"isBrewDefaultHidden": false
+				},
+				"minisHidden": {},
+				"combineAs": {}
+			},
+			"filters": {
+				"Source": {
+					"meta": {
+						"combineBlue": "or",
+						"combineRed": "or",
+						"isHidden": false,
+						"isMobileHeaderHidden": true,
+						"isIncludeOtherSources": false
+					},
+					"state": {
+						"SKT": 1,
+						"PHB": 1,
+						"MM": 1,
+						"DMG": 1,
+						"Screen": 1,
+						"SCAG": 1,
+						"AL": 0,
+						"VGM": 1,
+						"XGE": 1,
+						"MTF": 1,
+						"GGR": 1,
+						"SAC": 1,
+						"AI": 1,
+						"ERLW": 0,
+						"RMR": 0,
+						"EGW": 1,
+						"MOT": 0,
+						"GoS": 1
+					},
+					"nestsHidden": {}
+				}
+			}
+		},
+		"SUBLIST_RESIZE_tables.html": "130px"
+	}
+}
