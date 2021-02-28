@@ -6,8 +6,7 @@ assets/
 module-packer/
 *.DS_Store
 *.campaign
-ModuleBuild/
+*ModuleBuild/
 /books
-/Dragon of Icespire Peak.pdf
-/Lost Mines of Phandelver.pdf
-/Sword Coast Adventurer's Guide.pdf
+.vscode/
+*.icloud
