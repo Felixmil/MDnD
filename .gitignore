@@ -10,3 +10,4 @@ module-packer/
 /books
 .vscode/
 *.icloud
+/.MWebMetaData/*
