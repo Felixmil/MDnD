@@ -23,4 +23,8 @@ En passant devant le cimetière de ce village abandonné, le groupe se fait atta
 * [ ] Bowgentle’s spellbook, Agatha tells them that she traded the book to a necromancer named Tsernoth from the city of Iriaebor
 * [ ] Old Owl Well is a ruined watchtower Built thousands of years ago by a long-vanished empire
 * [ ] The orcs are scouts of the Many Arrows tribe. These orcs often roam into the more civilized areas of the North, spying out human settlements, waylaying travelers, and looting and plundering as opportunities present themselves
+* [ ] A character who succeeds on a DC 10 Intelligence (Arcana) check recognizes Kost's tattoo as a necromantic symbol. A successful DC 10 Intelligence (History) check verifies the garb as that usual for Thay, a land far to the east where wizards pattern their flesh with tattoos. The tattoo on the head represents a wizard's school of magic. Kost's school is necromancy.
+* [ ] Le mage qui a construit la tour au puy du vieux Hibou est Arthindol.
+* [ ] Le vieux druide s'apelle Reidoth
+* [ ] Le vieux druide se trouve à FoudreChêne
 -------
