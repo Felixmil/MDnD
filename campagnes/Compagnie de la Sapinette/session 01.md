@@ -15,7 +15,7 @@ En passant devant le cimetière de ce village abandonné, le groupe se fait atta
 ## Scenes
 * [x] Agatha répond a une question des PJ
 * [x] Hamun Kost demande aux joueurs de nettoyer le rocher aux wyvern des orcs qui l’occupe ou bien d’obtenir des information sur le puy aupres d’Agatha.
-* [ ] Combat avec les orcs du rocher aux wyvern
+* [x] Combat avec les orcs du rocher aux wyvern
 
 ## Secrets et clues
 * [x] La ville de Conyberry a été raidé il y a plusieurs années par des barbares venus du nord et est résté en ruine depuis.
