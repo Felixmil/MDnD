@@ -17,11 +17,16 @@
 echelle: 1 hex = 5 miles
 vitesse de base: 30 ft
 
+
+
 | Durée   | distance      |
 | ------- | ------------- |
-| 1 heure | 2,5 (0,5 hex) |
-| 1 watch | 10  (2 hex)   |
-| 1 march | 25 (5 hex)    |
+| 1 heure | 2,5 miles (0,5 hex) |
+| 1 watch | 10 miles (2 hex)   |
+| 1 march | 25 miles (5 hex)    |
+
+#TODO la distance de base parcourue en une journée est trop courte (25 miles = 8 km). Il faudrait la passer à 15 km (10 hex), c'est aussi plus facile à diviser par 2 ou par 3 en fonction des différents rythmes.
+
 
 
 #### Rythmes
@@ -43,9 +48,11 @@ effets décrit pour 1 watch
 | Terrain | Danger | Navigation | Ressources | Discovery |
 | ------- | ------ | ---------- | ---------- | --------- |
 | Plains  | 1      | 10         | 10         | 1         |
-| Forest  | 2      | 16         | 12         | 2         |
+| Forest  | 2      | 14         | 12         | 2         |
 
+#TODO Le systeme de "etre perdu" n'est pas très interessant à utiliser avec une carte qui se revele petit à petit. Il faut tester un mecanisme ou l'echec du jet de navigation REDUIT la distance parcouru (represente le fait que les PJ tournent en rond, ou doivent retourner sur leurs pas.)
 
+#TODO Ajouter un modificateur de distance à chaque terrain. Si les personnages se perdent, ce modificateur est appliqué plusieurs fois.
 
 #### Mecanisme
 
@@ -71,11 +78,12 @@ Durant chaque watch
 
 ## Scenes
 
-* [ ] Petit Dejeuner macabre:
+* [x] Hamun Kost donne un **ring of protection** pour avoir nettoyé le Rocher aux Wyverns
+
+* [x] Petit Dejeuner macabre:
     Les squelettes de Hamound reveillent les joueurs et leur servent un petit dejeuner copieux tandis que le mage dort toujours. 
 
-* [ ] Arrivée a Foudrechene: 
-
+* [x] Arrivée a Foudrechene: 
     > Peu à peu, le sentier se transforme en vieille route pavée qui serpente entre des bâtiments délabrés, envahis par les vignes et les broussailles. Devant vous, au milieu du village, s’élève une colline escarpée sur laquelle se dresse une tour en pierre au toit partiellement effondré et un chalet attenant. Un chemin de terre longe la base de la colline et se faufile entre de vieilles maisons en pierre, dont beaucoup sont des ruines sans toit dont les intérieurs sont completement ouverts aux intempéries. D’autres bâtiments semblent plus ou moins intacts. L’ensemble de l’endroit est sinistrement silencieux.
     > 
     > Un panneau en bois est cloué sur un poteau à proximité. On peut y lire : « DANGER ! Monstres végétaux ET zombies ! Faites demi-tour maintenant ! »
@@ -87,9 +95,11 @@ Durant chaque watch
 - [ ] Reidoth demande une faveur:
     Si les personnages interrogent Reidoth sur la grotte de l'Écho des vagues, il ne divulguera pas son emplacement mais proposera au groupe de l'y guider en échange d'une faveur : il veut qu'ils chassent le dragon de la zone 7. S'ils réussissent, Reidoth honorera sa part de l'accord mais n'accompagnera pas le groupe à l'intérieur de la mine.
 
+- [ ] L'eveil de 
 
 ## Secret and clues
 
+* [x] Le vieux druide se trouve à FoudreChêne
 * [ ]  Autrefois, c'était une communauté prospère à la périphérie de la forêt, riche du travail de ses bûcherons et trappeurs. Puis, il y a trente ans, l'éruption du Mont Hotenow, au nord, a dévasté Thundertree.
 * [ ] The druid Reidoth (see area 4) visits Thundertree from time to time, keeping a wary eye on its dangers.
 * [ ] Cultists have also arrived recently (see area 13) to treat with a dragon that claims Thundertree as its domain (see area 7).
