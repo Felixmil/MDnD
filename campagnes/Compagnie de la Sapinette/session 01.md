@@ -14,14 +14,18 @@ Retardés par les preparatifs et le recrutement de Timrinn et Alkanor, c’est s
 En passant devant le cimetière de ce village abandonné, le groupe se fait attaquer par 3 ghoules.
 
 ## Scenes
-* [ ] Agatha apparait et demande de s’occuper des orcs au rocher aux wyvern
-* [ ] Agatha répond a une question des PJ
-* [ ] Hamun Kost demande aux joueurs de nettoyer le rocher aux wyvern des orcs qui l’occupe ou bien d’obtenir des information sur le puy aupres d’Agatha.
-* [ ] Combat avec les orcs du rocher aux wyvern
+* [x] Agatha répond a une question des PJ
+* [x] Hamun Kost demande aux joueurs de nettoyer le rocher aux wyvern des orcs qui l’occupe ou bien d’obtenir des information sur le puy aupres d’Agatha.
+* [x] Combat avec les orcs du rocher aux wyvern
 
 ## Secrets et clues
-* [ ] The town of Conyberry was sacked by barbarians coming from the north years ago
-* [ ] Bowgentle’s spellbook, Agatha tells them that she traded the book to a necromancer named Tsernoth from the city of Iriaebor
+* [x] La ville de Conyberry a été raidé il y a plusieurs années par des barbares venus du nord et est résté en ruine depuis.
 * [ ] Old Owl Well is a ruined watchtower Built thousands of years ago by a long-vanished empire
 * [ ] The orcs are scouts of the Many Arrows tribe. These orcs often roam into the more civilized areas of the North, spying out human settlements, waylaying travelers, and looting and plundering as opportunities present themselves
 
+* [ x A character who succeeds on a DC 10 Intelligence (Arcana) check recognizes Kost's tattoo as a necromantic symbol. 
+* [ ] A successful DC 10 Intelligence (History) check verifies the garb as that usual for Thay, a land far to the east where wizards pattern their flesh with tattoos. The tattoo on the head represents a wizard's school of magic. Kost's school is necromancy.
+* [x] Le mage qui a construit la tour au puy du vieux Hibou est Arthindol.
+* [ ] Le vieux druide s'apelle Reidoth
+* [ ] Le vieux druide se trouve à FoudreChêne
+-------
