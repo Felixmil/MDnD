@@ -1,6 +1,7 @@
-# Session 01 - 29-03-2021
+# Session 01
+### 29-03-2021
 
--------
+##
 
 ## Personnages
 
@@ -23,4 +24,4 @@ En passant devant le cimetière de ce village abandonné, le groupe se fait atta
 * [ ] Bowgentle’s spellbook, Agatha tells them that she traded the book to a necromancer named Tsernoth from the city of Iriaebor
 * [ ] Old Owl Well is a ruined watchtower Built thousands of years ago by a long-vanished empire
 * [ ] The orcs are scouts of the Many Arrows tribe. These orcs often roam into the more civilized areas of the North, spying out human settlements, waylaying travelers, and looting and plundering as opportunities present themselves
--------
+
