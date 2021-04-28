@@ -95,8 +95,6 @@ Durant chaque watch
 - [ ] Reidoth demande une faveur:
     Si les personnages interrogent Reidoth sur la grotte de l'Écho des vagues, il ne divulguera pas son emplacement mais proposera au groupe de l'y guider en échange d'une faveur : il veut qu'ils chassent le dragon de la zone 7. S'ils réussissent, Reidoth honorera sa part de l'accord mais n'accompagnera pas le groupe à l'intérieur de la mine.
 
-- [ ] L'eveil de 
-
 ## Secret and clues
 
 * [x] Le vieux druide se trouve à FoudreChêne
