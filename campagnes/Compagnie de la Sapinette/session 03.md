@@ -19,10 +19,7 @@ Si les personnages interrogent Reidoth sur la grotte de l'Écho des vagues, il n
     ![](reidoth.JPG)
 - [x] les PJ trouvent « Fendeuse ». Timrinn a a deja entendu se nom...
 - [x] Sur la route, Reidoth demande aux joueurs s’ils ont vu qqchose de particulier sur le trajet vers Foudrechene. La presence d’anomalie au sanctuaire le trouble, il propose aux joueurs de le retrouver
-- [ ] Rencontre avec Favrik, le chef des adorateurs du dragon. 
-    - [ ] si les PJ n’ont pas encore chassé le dragon, il propose une alliance pour négocier le départ du dragon avec celui ci. Il rompra l’alliance une fois devant le dragon en faisant des PJ une offrande.
-    - [ ] si Favrik apprend que le dragon est parti, il attaque les PJ avec ses semblables sous en les accusant d’avoir entravé les projets du culte du Dragon. Les autres membres fuient si Favrik est hors combats, sauf si le dragon a été tué.
-- [ ] Reidoth en a fini avec Foudrechene pour le moment, il propose aux joueurs de retourner avec eux a Phandalin avant de les mener discrètement jusqu’a la grotte aux echos de la mer.
+
 
 ## Secret & Clues
 
@@ -32,4 +29,3 @@ la fondation de Thundertree. Un personnage qui étudie la statue reconnaît la r
 - [x] Histoire DC 10 Fendeuse: Le créateur de la hache était un forgeron nain qui se disputait avec les dryades d'une forêt où il coupait du bois de chauffage.
 - [x] Celui qui porte Fendeuse se sent mal à l'aise lorsqu'il traverse une forêt.
 - [ ] Les fidèles du culte des dragons sont là pour gagner la faveur de Croc-Venin.
-- [ ] La statue adossée mesure trois mètres de haut, socle compris. Elle représente un ancien héros de Neverwinter nommé Palien, qui aurait vaincu plusieurs monstres dans le bois de Neverwinter lors de 
