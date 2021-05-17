@@ -1,5 +1,4 @@
-# MarkDown&Dragons
-This repo gathers all documents and ressources I use to manage my DnD games
+This repo (MarkDown&Dragons) gathers all documents and ressources I use to manage my DnD games
 
 ## Rules Notes
 These are short notes explaining in details some aspects and mechanics of the game
