@@ -12,7 +12,7 @@ These are short notes explaining in details some aspects and mechanics of the ga
 - My personnal pdf collection: [google drive](https://drive.google.com/drive/folders/1UG_oDEpwV1EgzwlVToeorw-EO0wOmHTI)
 
 ### CheatSheets
-- players cheatsheet: https://crobi.github.io/dnd5e-quickref/preview/quickref.html
+- [players cheatsheet](https://crobi.github.io/dnd5e-quickref/preview/quickref.html)
 
 ## Tools
 - Transalation: [deepl](deepl.com)
