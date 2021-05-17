@@ -17,3 +17,7 @@ Certains matériaux sont rares et ne pourrons pas être achetés, il faudra alor
 
 La durée de confection de l'objet dépend directement de sa valeur. Chaque journée (de 8 heures complètes) passées à fabriquer un objet correspond à 5po de la valeure finale de l'objet.
 Par exemple, pour forger une épée à 2 mains d'une  valeur de 50po, il faudra passer 10 jours complets.
+
+
+## Improvisation (règle maison)
+Afin de raccourcir le temps de confection ou substituer un ingrédient, il est possible d'improviser. Pour cela un test est réalisée avec la compétence maitrise vs un degré de difficulté détérminé par le MJ. Le degrès de reussi determinera le temps gagnée ou la valeur d'ingrédient economisée (par tranche d'une journée/5po)
