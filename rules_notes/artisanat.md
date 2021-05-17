@@ -4,8 +4,12 @@ L'artisanat est l'une des actions disponible lors des périodes intermèdes (dow
 Cette action permet de confectionner des objets, armes, potions, [poisons](./poisons.md) ou oeuvres d'art.
 
 Pour une création artisanale il faut:
+  - de la maitrise
   - des matériaux
   - du temps
+
+## Maitrise
+La maitrise d'outils est necessaire pour l'artisanat. Cette maitrise dépend de l'objet ciblé: outils de forgeron pour une épée longue, kit d'empoisoneur pour un poison, verrerie d'alchimiste pour des potions, etc.
 
 ## Matériaux
 En général, les matériaux peuvent être achetés. Il faut dépenser un montant égal à la moitié de la valeur finale de l'objet. 
