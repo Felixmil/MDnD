@@ -3,7 +3,7 @@ This repo gathers all documents and ressources I use to manage my DnD games
 
 ## Rules Notes
 These are short notes explaining in details some aspects and mechanics of the game
-- [Poisons]("./rules_notes/poisons.html")
+- [Poisons](./rules_notes/poisons.html)
 
 ## Useful External ressources
 
