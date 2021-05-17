@@ -2,7 +2,7 @@ This repo (MarkDown&Dragons) gathers all documents and ressources I use to manag
 
 ## Rules Notes
 These are short notes explaining in details some aspects and mechanics of the game
-- [Poisons](./rules_notes/poisons.html)
+- [Poisons](./rules_notes/poisons.md)
 
 ## Useful External ressources
 
