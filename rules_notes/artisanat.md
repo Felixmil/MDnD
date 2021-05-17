@@ -24,4 +24,4 @@ Par exemple, pour forger une épée à 2 mains d'une  valeur de 50po, il faudra 
 
 
 ## Improvisation (règle maison)
-Afin de raccourcir le temps de confection ou substituer un ingrédient, il est possible d'improviser. Pour cela un test est réalisée avec la compétence maitrise vs un degré de difficulté détérminé par le MJ. Le degrès de reussi determinera le temps gagnée ou la valeur d'ingrédient economisée (par tranche d'une journée/5po)
+Afin de raccourcir le temps de confection ou substituer un ingrédient, il est possible d'improviser. Pour cela un test est réalisé avec la compétence maitrisée vs un degré de difficulté détérminé par le MJ. Le degré de reussite determinera le temps gagné ou la valeur de composants economisée (par tranche d'une journée pour le temps ou de 5po pour les composants)
