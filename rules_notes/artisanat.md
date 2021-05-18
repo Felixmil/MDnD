@@ -1,6 +1,6 @@
 # Artisanat
 
-L'artisanat est l'une des actions disponible lors des périodes intermèdes (downtime, entre deux aventures). 
+L'artisanat est l'une des actions disponible lors des [périodes intermèdes ](downtime.md)(downtime, entre deux aventures). 
 Cette action permet de confectionner des objets, armes, potions, [poisons](./poisons.md) ou oeuvres d'art.
 
 Pour une création artisanale il faut:

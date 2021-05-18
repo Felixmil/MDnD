@@ -1,3 +1,3 @@
 # DownTime
 
-Les Downtime ou temps intermèdes prennent généralement place entre 2 aventures.
+Les Downtimes ou periodes intermèdes prennent généralement place entre 2 aventures.
