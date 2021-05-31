@@ -25,14 +25,48 @@ Culte du Dragon
 # Traversée des montagnes
 Les PJ seront confrontés a differents types d’obstacles: le terrain, la meteo, la température, finalement la nature et les monstres.
 
+
+## Scènes:
+
 La traversée est organisée en 3 paliers:
-1. Vallée,
-2. Basse montagne,
-3. Haute montagne
+1. Vallée du Vénéon,
+2. Plateaux d'intermediaires
+3. Col de la Chavade (Haute montagne)
 
-Scènes:
 
-* [ ] Sentier qui serpente entre la mousse et les sapins jusqu’au fond de la vallée. Tous le long, le bruit blanc apaison d’un torrent se fait entendre au loin. Au fond de la vallée verdoyante, une cabane est adossée a flanc de falaise et bordant d’un petit lac, rempli continuellement par une cascade vertigineuse. Cette falaise est comme fendue en deux, un sentier se dessine, serpentant a travers les éboulis et rochers qui constituent un abrupt pierrier. Mais pour  l’ateindre, il faut empreinter un pont de corde au dessus des profondes gorges, creusées par l’eau torentielle, pourtant si calme dans le lac.
-    Le pont de corde est en tres mauvais etat, il est detendu, certains cordages sont presque coupés, d’autres recouvert de mousse, nécessite DEX 10. Si echec, JdS DEX DD10 pour se rattraper. Si chute dans l’eau, athetics DD15 pour garder la tete au dessus de la surface et voir un tronc/branche pour s’y accrocher et remonter.
-* [x] 
-* [ ] 
+### Vallée
+
+#### Les gorges du Vénéon
+
+**Durée: 4H**
+Un sentier qui serpente entre la mousse et les sapins jusqu’au fond de la vallée. Tous le long, le bruit blanc apaison d’un torrent se fait entendre au loin. Au fond de la vallée verdoyante, une cabane abandonnée est adossée a flanc de falaise et bordant d’un petit lac, rempli continuellement par une cascade vertigineuse. 
+La falaise derrière la cabane est comme fendue en deux, un sentier se dessine, serpentant a travers les éboulis et rochers qui constituent un abrupt pierrier. Mais pour l’ateindre, il faut marcher sur un tronc d'un chêne gigantesque (6m de diamètre), allongé en travers des des profondes gorges, creusées par l’eau torentielle, pourtant si calme dans le lac. 
+
+**Obstable**: Le tronc est humide, recouvert de mousse: glissant nécessite DEX 10. Si echec, JdS DEX DD10 pour se rattraper. Si chute dans l’eau, athetics DD15 pour garder la tete au dessus de la surface et voir un tronc/branche pour s’y accrocher puis remonter. Une créature [peux rester 1+CON mod minutes sans respirer](https://5e.tools/book.html#phb,8,suffocating,0).
+
+#### Le Pierrier
+**Durée: 2H**
+Si le sentier est correctement tracé dans le pierrier en bas de ce dernier, le chemin devient vite un tas de cailloux instable et glissant. L'ascenscion du pierrier est dangereux et difficile, surtout avec beaucoup d'équipement. 
+**Obstable**: Test d'Athletisme ou Dexterité brute DD10. Si echec, le PJ glisse en contrebas et perd beaucoup d'energie pour remonter: 1 point de fatigue.
+
+
+**Obstable**: Pierres Animées. Un chapelet de pierres etrangement blanches et rondes s'anime en levitant. Considéré comme un [animated object (large)](https://5e.tools/bestiary.html#animated%20object%20(large)_phb).
+
+
+### Plateau
+
+* [ ] **Attaque de Géants de Pierres**
+    - **Description**: Un couple de deux jeunes Géants des Pierres, recemmments installés dans la région essaient de surprendre les joueurs au detour d'une piste.
+    ![](https://i.redd.it/qmf7dykaf3731.png)
+    - **Obstacle**: 
+    Les deux Géants de Pierre sont jeune, leur [Challenge Rating est réduit à 3](https://5e.tools/bestiary.html#stone%20giant_mm,scaled:3)
+    ![](cr3_stone_giant_statblock.png)
+    - **Durée**: NA
+* [ ] **Above Treeline**
+    - **Description**: Les joueurs arrivent au dessus de la limite d'altitude des arbres ~2500m. Les arbres, déjà petit, laissent place à des herbes basses et petits buissons tandis que le sol se fait de plus en plus rocailleux. La principale verticalitée est désormais les rocher qui sont plantés là.
+* [ ] **Tourbières Embrumées**
+    - Un ["Monticule Ambulant"](https://5e.tools/bestiary.html#shambling%20mound_mm) se déplace furtivement sous le brouillard pour absorber par surprise les PJ.
+
+### Le col de la Chavade
+
+* [ ] Orages
