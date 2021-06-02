@@ -17,5 +17,5 @@ These are short notes explaining in details some aspects and mechanics of the ga
 - [players cheatsheet](https://crobi.github.io/dnd5e-quickref/preview/quickref.html)
 
 ## Tools
-- Transalation: [deepl](deepl.com)
+- Translation: [deepl](deepl.com)
 
