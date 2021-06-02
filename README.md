@@ -18,4 +18,6 @@ These are short notes explaining in details some aspects and mechanics of the ga
 
 ## Tools
 - Translation: [deepl](deepl.com)
+- FightClub5
+- Encounter+
 
