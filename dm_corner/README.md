@@ -1,5 +1,12 @@
 # DM resources
 
+
+## Improvisation ressources
+- [PNJ Names](https://github.com/Felixmil/MDnD/issues/1#issue-919883236)
+    - [From DM Guide](https://github.com/Felixmil/MDnD/issues/1#issuecomment-860271454)
+- Tavern Names
+- City and Village Names
+
 ## World building
 
 * [Mountains](world_building-mountain.md)
