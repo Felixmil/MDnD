@@ -18,7 +18,7 @@ Si les personnages interrogent Reidoth sur la grotte de l'Écho des vagues, il n
     - Chasser les cultistes qui se sont installés au sud Est du village.
     ![](reidoth.JPG)
 - [x] les PJ trouvent « Fendeuse ». Timrinn a a deja entendu se nom...
-- [x] Sur la route, Reidoth demande aux joueurs s’ils ont vu qqchose de particulier sur le trajet vers Foudrechene. La presence d’anomalie au sanctuaire le trouble, il propose aux joueurs de le retrouver
+- [x] Sur la route, Reidoth demande aux joueurs s’ils ont vu qqchose de particulier sur le trajet vers Foudrechene. 
 
 
 ## Secret & Clues
