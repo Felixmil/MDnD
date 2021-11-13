@@ -5,6 +5,7 @@ These are short notes explaining some aspects and mechanics of the game as well 
 - [Downtime](./rules_notes/downtime.md)
 - [Artisanat](./rules_notes/artisanat.md)
 - [Poisons](./rules_notes/poisons.md)
+- [[rules_notes/poisons#Poisons]]
 
 ## Useful External ressources
 
