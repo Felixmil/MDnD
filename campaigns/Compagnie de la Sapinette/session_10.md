@@ -2,7 +2,12 @@
 
 ## Strong Start
 
-Combat contre les deux jeunes géants de Pierre
+>  Vous reprenez doucement vos esprits, votre vision se clarifie tandis les miliers d'étincelles bleues de la magie de de Reidoth semblent se déposent autours de vous pour déssiner les contours de la réalité du plan materiel.
+> Tous OK sauf Timrinn qui, au moment ou il ouvre les yeux, voit une enorme paire de main grises et anguleuses s'approcher de lui, essayant de le saisir.
+>{.read}
+
+- Ability Check Acrobatics/Athletisme vs Athletisme Géant. + Initiative pour tous.
+
 
 ## Scenes
 
@@ -41,7 +46,7 @@ La liberté. N'est-ce pas le plus grand des appels ?*
 - [Les hauts plateaux](locations/hauts_plateaux.md)
 - [La tourbière embruméee](locations/tourbière_embrumée.md)
 
-## NPCse
+## NPCs
 
 - [Reidoth](npcs/reidoth.md)
 
