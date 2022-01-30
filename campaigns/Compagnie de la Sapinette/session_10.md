@@ -2,6 +2,8 @@
 
 ## Session Notes
 
+- Philémon joue Reidoth
+
 ## Strong Start
 
 >  Vous reprenez doucement vos esprits, votre vision se clarifie tandis les miliers d'étincelles bleues de la magie de de Reidoth semblent se déposent autours de vous pour déssiner les contours de la réalité du plan materiel.
@@ -15,13 +17,14 @@
 - [ ] Deux 💀 **[Jeunes géants de pierre](#encounter-1)** essaient d'enlever l'un d'eux (pour le manger),
 - [ ] Des 💀 **[bourasques violentes](#bourasques)** de vent menacent de les faire chuter de la falaise,
 - [ ] Ils arrivent sur les 📍 **[Hauts Plateaux](#hauts-plateaux)**,
-- [ ] Alors que tous sont endormis, Reidoth approche **Powh** pour lui parler de **🔎 [l'Enclave D'émeraude](#enclaveemeraude)**
+- [ ] Ils trouvent un **🔎 [Sacoche perdue](#sacoche-perdue)**,
+- [ ] Alors que tous sont endormis, Reidoth approche **Powh** pour lui parler de **🔎 [l'Enclave D'émeraude](#enclaveemeraude)**,
 - [ ] Des 💀 **[Hyenes Géantes](encounter-2)** essaies de voler discretement leurs provisions lors d'un bivouac (ronde 1d4),
 - [ ] Ils trouvent un rocher vertical de 20m complétement sculpté: le  🔎 **[Totem de Gazog](#totem-de-gazog)**,
 - [ ] Ils arrivent dans la 📍 **[Tourbière embrumée](#tourbière-embrumée)**,
 - [ ] Ils se font attaquer par des 💀 **[Croco](#encounter-3)** près d'un étang,
 - [ ] Ils se font attaquer par un 💀 **[Monticule Ambulant](#encounter-4)** alors qu'ils contournent un **[💀syphon de glaise](#syphon-de-glaise)**,
-- [ ] Ils doivent trouver un endroit ou **installer le camp**
+- [ ] Ils doivent trouver un endroit ou **[💀Installer le camp](#installer-le-camp)**.
 
 
 ## 🔎 Secret, Clues & Lore
@@ -105,6 +108,8 @@ JdS de Force DD15
 
 
 ### Syphon de Glaise
+
+### Installer le Camp
 
 
 ## 👥 NPCs
