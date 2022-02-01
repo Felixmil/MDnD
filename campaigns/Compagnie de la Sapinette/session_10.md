@@ -15,11 +15,11 @@
 ## Scenes
 
 - [ ] Deux 💀 **[Jeunes géants de pierre](#encounter-1)** essaient d'enlever l'un d'eux (pour le manger),
-- [ ] Des 💀 **[bourasques violentes](#bourasques)** de vent menacent de les faire chuter de la falaise,
+- [ ] En suivant un sentier creusé dans la falaise, le vent se lève. Des 💀 **[bourasques violentes](#bourasques)** de vent menacent de les faire chuter de la falaise,
 - [ ] Ils arrivent sur les 📍 **[Hauts Plateaux](#hauts-plateaux)**,
 - [ ] Ils trouvent un **🔎 [Sacoche perdue](#sacoche-perdue)**,
 - [ ] Alors que tous sont endormis, Reidoth approche **Powh** pour lui parler de **🔎 [l'Enclave D'émeraude](#enclaveemeraude)**,
-- [ ] Des 💀 **[Hyenes Géantes](encounter-2)** essaies de voler discretement leurs provisions lors d'un bivouac (ronde 1d4),
+- [ ] Des 💀 **[Hyenes Géantes](#encounter-2)** essaies de voler discretement leurs provisions lors d'un bivouac (ronde 1d4),
 - [ ] Ils trouvent un rocher vertical de 20m complétement sculpté: le  🔎 **[Totem de Gazog](#totem-de-gazog)**,
 - [ ] Ils arrivent dans la 📍 **[Tourbière embrumée](#tourbière-embrumée)**,
 - [ ] Ils se font attaquer par des 💀 **[Croco](#encounter-3)** près d'un étang,
@@ -44,6 +44,8 @@ Caché, trouvable avec Perception DD15, on peut appercevoir un petit scintilleme
 ### Totem de Gazog
  > Gazog était un roi Orc qui régnait sur les tribues barbares des hauts plateaux. Mécontent de voir de nombreux étrangers traverser ses terres, il organisait des embucades et autres pièges afin d'empecher tout convoit. Mais, les émissaires et coursiers, bien trop rapide pour que l'organisation approximative et et les plans souvents trop compliqués de Gazog soient efficaces, continuait d'empreinter cet itineraire malgré la menace.
  Les sentiers du col de la chavade vu abandonés, les marécages désormais assechés plus loin le long de la cote au sud ouest permettaient un passage plus rapide et plus sûr. Mais la légende raconte que Gazog, obsédé par ses pièges et stratagèmes, poursuivi frénétiquement ses activité pendant de longue années. Laissant grandir sur ces terres une menace bien plus sombre que sa propre folie qui causa sa perte ainsi que celle de ces clans.
+
+@import "./img/gazog_statue.jpg" {.small-img}
 
 ## 📍 Locations
 
@@ -78,7 +80,7 @@ Un ciel chargé et un crachin fin se met à tomber au reveil.
 
 ### Bourasques
 
-JdS de Force DD15
+2 grosses bourrasques. JdS de Force DD15, si echec repoussé de 5 metres. Si, à la deuxième bourasque echec, JdS de Dexterité DD10 pour se rattraper sur le rebord.
 
 ### Jeunes Géants de Pierre {#encounter-1}
 
@@ -106,8 +108,12 @@ JdS de Force DD15
 | [Monticule Ambulant](https://5e.tools/bestiary.html#shambling%20mound_mm) | 5   | 1      | 153 |
 
 
-
 ### Syphon de Glaise
+
+Terrain difficile.
+A chaque tour, les PJ sont attiré de 5 ft vers le centre du syphon.
+
+
 
 ### Installer le Camp
 
