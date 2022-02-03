@@ -3,6 +3,8 @@
 ## Session Notes
 
 - Philémon joue Reidoth
+- Nombre d'attaque de Powh: de base 2 + 1 bonus action(ou 2 avec déluge de coups[flurry of blows])
+- Ne pas oublier Uncanny Dodge de Haeyn
 
 ## Strong Start
 
@@ -14,13 +16,13 @@
 
 ## Scenes
 
-- [ ] Deux 💀 **[Jeunes géants de pierre](#encounter-1)** essaient d'enlever l'un d'eux (pour le manger),
-- [ ] En suivant un sentier creusé dans la falaise, le vent se lève. Des 💀 **[bourasques violentes](#bourasques)** de vent menacent de les faire chuter de la falaise,
-- [ ] Ils arrivent sur les 📍 **[Hauts Plateaux](#hauts-plateaux)**,
-- [ ] Ils trouvent un **🔎 [Sacoche perdue](#sacoche-perdue)**,
+- [x] Deux 💀 **[Jeunes géants de pierre](#encounter-1)** essaient d'enlever l'un d'eux (pour le manger),
+- [x] En suivant un sentier creusé dans la falaise, le vent se lève. Des 💀 **[bourasques violentes](#bourasques)** de vent menacent de les faire chuter de la falaise,
+- [X] Ils arrivent sur les 📍 **[Hauts Plateaux](#hauts-plateaux)**,
 - [ ] Alors que tous sont endormis, Reidoth approche **Powh** pour lui parler de **🔎 [l'Enclave D'émeraude](#enclaveemeraude)**,
+- [x] Ils trouvent un **🔎 [Sacoche perdue](#sacoche-perdue)**,
 - [ ] Des 💀 **[Hyenes Géantes](#encounter-2)** essaies de voler discretement leurs provisions lors d'un bivouac (ronde 1d4),
-- [ ] Ils trouvent un rocher vertical de 20m complétement sculpté: le  🔎 **[Totem de Gazog](#totem-de-gazog)**,
+- [x] Ils trouvent un rocher vertical de 20m complétement sculpté: le  🔎 **[Totem de Gazog](#totem-de-gazog)**,
 - [ ] Ils arrivent dans la 📍 **[Tourbière embrumée](#tourbière-embrumée)**,
 - [ ] Ils se font attaquer par des 💀 **[Croco](#encounter-3)** près d'un étang,
 - [ ] Ils se font attaquer par un 💀 **[Monticule Ambulant](#encounter-4)** alors qu'ils contournent un **[💀syphon de glaise](#syphon-de-glaise)**,
