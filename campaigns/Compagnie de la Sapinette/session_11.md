@@ -1,21 +1,24 @@
-# Session 10 - ???
+# Session 11 - 2022-02-08
 
 ## Session Notes
 
+- Les hyènes sont vaincues,
+- Boltror est introduit au groupe, il explique vaguement pourquoi il est ici.
 
 
 ## Strong Start
 
-
+**[Hyenes Géantes](#encounter-2)**
 
 
 ## Scenes
 
-- [ ] Des 💀 **[Hyenes Géantes](#encounter-2)** essaies de voler discretement leurs provisions lors d'un bivouac (ronde 1d4),
+- [x] Des 💀 **[Hyenes Géantes](#encounter-2)** essaies de voler discretement leurs provisions lors d'un bivouac,
+- [x] Boltror intervient et les aide à faire fuire les hyènes,
 - [ ] Alors que tous sont endormis, Reidoth approche **Powh** pour lui parler de **🔎 [l'Enclave D'émeraude](#enclaveemeraude)**,
 - [ ] Ils arrivent dans la 📍 **[Tourbière embrumée](#tourbière-embrumée)**,
 - [ ] Ils se font attaquer par des 💀 **[Croco](#encounter-3)** près d'un étang,
-- [ ] Ils se font attaquer par un 💀 **[Monticule Ambulant](#encounter-4)** alors qu'ils contournent un **[💀syphon de glaise](#syphon-de-glaise)**,
+- [ ] Ils se font attaquer par un 💀 **[Monticule Ambulant Mort Vivant](#encounter-4)** alors qu'ils contournent un **[💀syphon de glaise](#syphon-de-glaise)**,
 - [ ] Ils doivent trouver un endroit ou **[💀Installer le camp](#installer-le-camp)**.
 
 
@@ -59,12 +62,14 @@ Un ciel chargé et un crachin fin se met à tomber au reveil.
 | ---------------------------------------------------------------------- | --- | ------ | ------ |
 | [Giant Crocodile](https://5e.tools/bestiary.html#giant%20crocodile_mm) | 5   | 2      | 82, 93 |
 
-### Monticule Ambulant {#encounter-4}
+### [Monticule Ambulant](https://5e.tools/bestiary.html#will-o'-wisp_mm,encounterbuilder:true,encounter:%7b%22p%22%3a%5b%7b%22count%22%3a4%2c%22level%22%3a5%7d%2c%7b%22count%22%3a1%2c%22level%22%3a3%7d%5d%2c%22l%22%3a%7b%22items%22%3a%5b%7b%22h%22%3a%22undead%2520shambling%2520mound_wdmm%22%2c%22c%22%3a1%7d%2c%7b%22h%22%3a%22will-o'-wisp_mm%22%2c%22c%22%3a2%7d%5d%2c%22sources%22%3a%5b%22wdmm%22%2c%22mm%22%5d%7d%2c%22a%22%3afalse%7d) {#encounter-4}
 
 
-| Name                                                                      | CR  | Number | HP  |
-| ------------------------------------------------------------------------- | --- | ------ | --- |
-| [Monticule Ambulant](https://5e.tools/bestiary.html#shambling%20mound_mm) | 5   | 1      | 153 |
+
+| Name                                                                                 | CR  | Number | HP  |
+| ------------------------------------------------------------------------------------ | --- | ------ | --- |
+| [Monticule Ambulant](https://5e.tools/bestiary.html#undead%20shambling%20mound_wdmm) | 5   | 1      | 110 |
+| [Feu follet](https://5e.tools/bestiary.html#will-o'-wisp_mm)                                                                       | 2   | 2      | 27, 23    |
 
 
 ### Syphon de Glaise
