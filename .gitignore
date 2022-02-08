@@ -9,3 +9,4 @@ module-packer/
 .vscode/
 *.icloud
 /.MWebMetaData/*
+/.obsidian/workspace
