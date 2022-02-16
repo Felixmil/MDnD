@@ -3,7 +3,7 @@
 ## Session Notes
 
 - Les hyènes sont vaincues,
-- Boltror est introduit au groupe, il explique vaguement pourquoi il est ici.
+- Boltror est introduit au groupe, il explique vaguement pourquoi il est ici mais le mystère reside.
 
 
 ## Strong Start
