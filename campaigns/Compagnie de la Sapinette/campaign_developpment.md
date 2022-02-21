@@ -16,9 +16,17 @@ Libération du frère de Gundren et elimination de l'araignée Noire dans la [gr
 
 ## Arc 2
 
-Le sanctuaire Elfe a réagit à une explosion de magie qui a eu lieux à plusieurs lieux de là, au [Cercle du Tonnerre](https://5e.tools/adventure.html#dip,3,circle%20of%20thunder,0).
+Cet Arc commence alors que Reidoth interroge les PC sur le sanctuaire elfe a la vegetation corrompue.
 
-Sur place, une faille s'est ouverte dans le multivers. L'alteration de la trame de magie, à la fois aspirée et refoulée par la faille, a provoqué des mutations graves aux végétaux alentours. 
+Alors qu’il les guide vers le col de la chavade, il les fait intervenir au Cercle du Tonnerre pour repousser une invasion de plantes deviantes.
 
-De l'autre coté de la faille, le monde de XXX #TODO Définir le nom.
-Inspiration Japon-Medieval/Toscane où les PJ se retrouvent embarqué dans une    [aventure bien locale](the-spirit-and-the-charlatan.pdf).
+Pendant que les PC accomplissent leur mission dans la grotte aux echos de la mer, Reidoth mène son enquête. Il découvre l’origine de ces mutations: un portail magique entre en interférence avec la trame de magie et altère la Nature.
+
+En realité une faille s’est ouverte entre les royaumes oubliés et un autre continent, plus particulièrement dans le village de **[Kuritori](locations/Kuritori.md)**. Cette faille est le resultat du dechainement de **[Dekishi](npcs/Dekishi.md)**, une âme en peine qui cherche à se venger de **[Anzhong Daku](npcs/Anzhong%20Daku.md)**, le chef du village, possédé par un Tengu appelé **[Visage](npcs/Visage.md)**.
+
+### [Chapitre 3](chapitres/Chapitre%203.md)
+Il est impossible de fermer la faille depuis ce coté, Reidoth demande donc aux PC de voyager et régler le problème.
+
+Pour la suite, voir le scenario:
+![the-spirit-and-the-charlatan](the-spirit-and-the-charlatan.pdf)
+
