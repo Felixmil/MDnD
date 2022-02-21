@@ -21,4 +21,3 @@ ______
 ______
 
 [reidoth](../npcs/reidoth.md)
-[[reidoth]]
