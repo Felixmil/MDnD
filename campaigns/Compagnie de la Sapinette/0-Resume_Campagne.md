@@ -8,7 +8,7 @@ Introduction les mines perdues de Phandalin
 ## Arc 1
 Fin des mines perdues de phandalin.
 
-### [chapitre 1](chapitres/chapitre%201.md)
+### [chapitre 1 bis](chapitres/chapitre%201%20bis.md)
 Pour arriver à la Grotte aux echos de la mer, les PC doivent passer par le [col de la chavade](locations/col%20de%20la%20chavade.md).
 
 ### [chapitre 2](chapitres/chapitre%202.md)
