@@ -28,5 +28,6 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "legacyEditor": false
 }

@@ -1,9 +1,24 @@
-# Chapitre 2: La grotte aux Echos de la Mer
+# Session ___ - Date: ___
+______
 
-> RESUME
+##  📝Notes
+______
+
+
+
+## 🎯 Strong Start
+______
+
+
+
+## ☑ Scenes
+______
+
+
 
 ## 🔎 Secret, Clues & Lore
 ______
+
 
 
 ## 📍 Locations
@@ -18,4 +33,5 @@ ______
 
 ## 👥 NPCs
 ______
+
 

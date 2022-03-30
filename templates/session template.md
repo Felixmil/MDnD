@@ -1,4 +1,4 @@
-# Session ___ - Date: ___
+# Session [#] - Date:  [Date]
 ______
 
 ##  📝Notes
@@ -11,27 +11,8 @@ ______
 
 
 
-## ☑ Scenes
+## ☑ Scènes
 ______
 
-
-
-## 🔎 Secret, Clues & Lore
-______
-
-
-
-## 📍 Locations
-______
-
-
-
-## 💀 Dangers
-______
-
-
-
-## 👥 NPCs
-______
-
-
+- [ ]
+- [ ]

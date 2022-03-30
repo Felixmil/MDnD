@@ -28,5 +28,5 @@ En realité une faille s’est ouverte entre les royaumes oubliés et un autre c
 Il est impossible de fermer la faille depuis ce coté, Reidoth demande donc aux PC de voyager et régler le problème.
 
 Pour la suite, voir le scenario:
-![the-spirit-and-the-charlatan](the-spirit-and-the-charlatan.pdf)
+![the-spirit-and-the-charlatan](resources/the-spirit-and-the-charlatan.pdf)
 

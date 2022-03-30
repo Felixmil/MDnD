@@ -59,7 +59,7 @@ Si le sentier est correctement tracé dans le pierrier en bas de ce dernier, le 
     ![](https://i.redd.it/qmf7dykaf3731.png)
     - **Obstacle**: 
     Les deux Géants de Pierre sont jeune, leur [Challenge Rating est réduit à 3](https://5e.tools/bestiary.html#stone%20giant_mm,scaled:3)
-    ![](cr3_stone_giant_statblock.png)
+    ![](../resources/cr3_stone_giant_statblock.png)
     - **Durée**: NA
 * [ ] **Above Treeline**
     - **Description**: Les joueurs arrivent au dessus de la limite d'altitude des arbres ~2500m. Les arbres, déjà petit, laissent place à des herbes basses et petits buissons tandis que le sol se fait de plus en plus rocailleux. La principale verticalitée est désormais les rocher qui sont plantés là.
