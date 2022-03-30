@@ -9,4 +9,5 @@
 
 ## World building
 
+- [Thief Cant Lexicon](resources/ThievesCantLexiconbyDevenRue.webp)
 * [Mountains](world_building-mountain.md)
