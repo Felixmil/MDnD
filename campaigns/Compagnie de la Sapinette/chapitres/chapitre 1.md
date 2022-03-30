@@ -50,7 +50,7 @@ Obstacles:
   Un couple de deux jeunes Géants des Pierres, recemmments installés dans la région essaient de surprendre les joueurs au detour d'une piste.  Perception DD 12 pour reperer des "rochers étranges surplombant le sentier".  
   Les deux Géants de Pierre sont jeunes, leur [Challenge Rating est réduit à 3](https://5e.tools/bestiary.html#stone%20giant_mm,scaled:3)
 
-  ![statblock](cr3_stone_giant_statblock.png)
+  ![statblock](../resources/cr3_stone_giant_statblock.png)
    
   ![map](https://i.redd.it/qmf7dykaf3731.png)
 
@@ -65,7 +65,7 @@ Obstacles:
 - Reidoth montre au loin, on peut appercevoir les deux pics encadrant le fameux col de la Chavade.
 - Après quelques heures de marches agréable mais très monotone, la nuit tombe.
 
-  ![](grassy_plateau.png)
+  ![](../resources/grassy_plateau.png)
 
 Obstacle:
 - Attaque nocture
@@ -93,7 +93,7 @@ Obstacles:
   
   Un ["Monticule Ambulant"](https://5e.tools/bestiary.html#shambling%20mound_mm,scaled:3) se déplace furtivement sous le brouillard (Perception DD17) pour absorber par surprise les PJ.
 
-![statblock](cr3_shambling_mound_statblock.png)
+![statblock](../resources/cr3_shambling_mound_statblock.png)
 
 - Etablir le camp  
 
@@ -102,7 +102,7 @@ Obstacles:
   Lorsque réussi les joueurs trouvent un monticule de rocher laissant suffisament de place pour s'installer sur un sol dur.  
 
 
-![swamps](swamps.jpeg)
+![swamps](../resources/swamps.jpeg)
 
 
 
