@@ -1,6 +1,5 @@
 # La Traversée Perilleuse
 
-
 Les PJ seront confrontés a differents types d’obstacles: le terrain, la meteo, la température, finalement la nature et les monstres.
 La traversée est organisée en 3 paliers:
 
@@ -124,5 +123,3 @@ Obstacles:
 #### Arrivée au sommet
 
 Scene splendide
-
-## Secrets & Clues
