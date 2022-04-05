@@ -1,6 +1,6 @@
-# Chapitre  3:  
+# Chapitre  3:  Séjour à Kuritori
 
-> RESUME
+>  
 
 ## 🔎 Secret, Clues & Lore
 ______
