@@ -7,7 +7,7 @@
 
 La mort du père de Boltror à été causée indirectement par [Balor](../PNJ/Balor.md) qui a corrompu le cœur de certains membre de sa tribu.
 
-Lors du triste incident, Boltror a vu le traitre porter entre ses main l'une des [Tablettes de Balor](../Lore/Tablettes%20de%20Balor.md). Objet dont il ignore l'implication avant de trouver un exemplaire similaire au [📍Syphon de glaise](../Chapitre%2001/lieux/📍Syphon%20de%20glaise.md)
+Lors du triste incident, Boltror a vu le traitre porter entre ses main l'une des [📜Tablettes de Balor](../lore/📜Tablettes%20de%20Balor.md). Objet dont il ignore l'implication avant de trouver un exemplaire similaire au [📍Syphon de glaise](../chapitre%2001/lieux/📍Syphon%20de%20glaise.md)
 
 
 

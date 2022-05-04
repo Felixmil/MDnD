@@ -10,6 +10,6 @@
 
 ## Lore
 
-Selon la [Légende de Gazog](../../Lore/Légende%20de%20Gazog.md),  la tourbière embrumée est liée à la folie et la disparition du royaume de Gazog.
+Selon la [📜Légende de Gazog](../../lore/📜Légende%20de%20Gazog.md),  la tourbière embrumée est liée à la folie et la disparition du royaume de Gazog.
 
 

@@ -31,7 +31,7 @@
 
 ## 🔎 Secret, Clues & Lore
 
-### [L'Enclave d'Emeraude](../../Lore/Enclave%20d'Emeraude.md) {#enclaveemeraude}
+### [L'Enclave d'Emeraude](../../lore/📜Enclave%20d'Emeraude.md) {#enclaveemeraude}
 
 ### Ancien Itineraire
 Cet itinéraire était empreinté autrefois comme raccourci par les coursiers transportant des messages urgents depuis Eauprofonde et La porte de Baldur verts Padiver.

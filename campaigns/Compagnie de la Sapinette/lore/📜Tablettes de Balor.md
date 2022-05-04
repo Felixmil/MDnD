@@ -9,5 +9,5 @@ Ce sont des tablettes en obsidienne mat sur laquelle des inscriptions en [Abyssa
 En réunissant au moins 3 tablettes, un mage spécialiste de  l'école de [Conjuration](../../../DM%20Corner/Magic%20Schools.md#Conjuration) aura assez d'information pour effectuer un rituel appelant [Balor](../PNJ/Balor.md).
 
 ## Localisation des tablettes
-- [📍Syphon de glaise](../Chapitre%2001/lieux/📍Syphon%20de%20glaise.md)
+- [📍Syphon de glaise](../chapitre%2001/lieux/📍Syphon%20de%20glaise.md)
 - 
