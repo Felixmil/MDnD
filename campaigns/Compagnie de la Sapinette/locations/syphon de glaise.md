@@ -1,5 +1,0 @@
-# Syphon de glaise
-
-## Description
-
-
