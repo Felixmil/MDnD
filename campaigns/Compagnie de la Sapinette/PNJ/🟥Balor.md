@@ -4,4 +4,4 @@ Balor est un [Démon](https://5e.tools/bestiary.html#balor_mm,flstenvironment:sw
 
 Il utilise des artefact à la magie puissante, les [📜Tablettes de Balor](../lore/📜Tablettes%20de%20Balor.md) pour corrompre le plan matériel et capturer les pauvres âmes qui le serviront à jamais sur son plan d'origine.
 
-Balor est à l'origine du drame qui poussa [Boltror](../PJ/Boltror.md) à partir à l'aventure.
+Balor est à l'origine du drame qui poussa [👤Boltror](../PJ/👤Boltror.md) à partir à l'aventure.

@@ -24,7 +24,7 @@
 
 ## 🔎 Secret, Clues & Lore
 
-### [L'Enclave d'Emeraude](../../lore/📜Enclave%20d'Emeraude.md) {#enclaveemeraude}
+### [L'Enclave d'Emeraude](../../lore/📜L'Enclave%20d'Emeraude.md) {#enclaveemeraude}
 
 ### Ancien Itineraire
 Cet itinéraire était empreinté autrefois comme raccourci par les coursiers transportant des messages urgents depuis Eauprofonde et La porte de Baldur verts Padiver.
@@ -84,5 +84,5 @@ A chaque tour, les PJ sont attiré de 5 ft vers le centre du syphon.
 
 ## 👥 NPCs
 
-- [Reidoth](../../PNJ/reidoth.md)
+- [🟦Reidoth](../../PNJ/🟦Reidoth.md)
 

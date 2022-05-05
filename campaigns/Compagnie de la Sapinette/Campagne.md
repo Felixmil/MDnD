@@ -6,8 +6,7 @@ Introduction les mines perdues de Phandalin.
 ## Arc 1
 Fin des mines perdues de phandalin.
 
-### [Chapitre 01](chapitre%2001/Chapitre%2001.md)
-Pour arriver à la Grotte aux echos de la mer, les PC doivent passer par le [📍Col de la chavade](chapitre%2001/lieux/📍Col%20de%20la%20chavade.md).
+![Chapitre 01](chapitre%2001/Chapitre%2001.md)
 
 ### [Chapitre 02](chapitre%2002/Chapitre%2002.md)
 Libération du frère de Gundren et elimination de l'araignée Noire dans la [📍grotte aux echos de la mer](chapitre%2001/lieux/📍grotte%20aux%20echos%20de%20la%20mer.md).

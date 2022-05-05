@@ -6,7 +6,7 @@
 ## Lore
 
 ## Esprit des Marais
-L' [⚔Esprit des marais](../épreuves/⚔Esprit%20des%20marais.md) est la forme qu'a pris la corruption apporté par [Balor](../../PNJ/Balor.md) dans la région. 
+L' [⚔Esprit des marais](../épreuves/⚔Esprit%20des%20marais.md) est la forme qu'a pris la corruption apporté par [🟥Balor](../../PNJ/🟥Balor.md) dans la région. 
 
 ## 🔎Tablette Ancienne
 Il s'agit de l'une des  [📜Tablettes de Balor](../../lore/📜Tablettes%20de%20Balor.md)
