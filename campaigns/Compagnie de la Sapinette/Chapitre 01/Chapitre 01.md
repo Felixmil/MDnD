@@ -12,4 +12,6 @@ Cette route sera difficile, Il faudra:
 
 Enfin, la compagnie arrivera au [📍Col de la Chavade](lieux/📍Col%20de%20la%20Chavade.md), tout prêt de la [📍Grotte aux Echos de la Mer](lieux/📍Grotte%20aux%20Echos%20de%20la%20Mer.md).
 
-Durant ce trajet, [🟦Reidoth](../PNJ/🟦Reidoth.md) proposera à [👤Pohw](../PJ/👤Pohw.md) de rejoindre [📜L'Enclave d'Emeraude](../lore/📜L'Enclave%20d'Emeraude.md). [👤Boltror](../PJ/👤Boltror.md) rejoindra la compagnie et découvrira l'existence d'une [📜Tablettes de Balor](../lore/📜Tablettes%20de%20Balor.md).
+Durant ce trajet:
+- [🟦Reidoth](../PNJ/🟦Reidoth.md) proposera à [👤Pohw](../PJ/👤Pohw.md) de rejoindre [📜L'Enclave d'Emeraude](../lore/📜L'Enclave%20d'Emeraude.md). 
+- [👤Boltror](../PJ/👤Boltror.md) rejoindra la compagnie et découvrira l'existence d'une [📜Tablettes de Balor](../lore/📜Tablettes%20de%20Balor.md).
