@@ -1,4 +1,4 @@
-# Session 13 - Date: ___
+# Session 13 - Date: 2022/06/01
 ______
 
 ##  📝Notes
@@ -8,7 +8,8 @@ ______
 
 ## 🎯 Strong Start
 ______
-
+> [!CITE] Strong Start
+> La marche à travers les marais brumeux 
 
 
 ## ☑ Scènes
