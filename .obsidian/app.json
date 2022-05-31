@@ -18,6 +18,7 @@
     "editor:toggle-highlight",
     "editor:toggle-code",
     "editor:toggle-blockquote",
+    "editor:insert-callout",
     "editor:insert-link",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",

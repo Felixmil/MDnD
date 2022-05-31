@@ -2,20 +2,26 @@
 
 ## Description
 
+> [!QUOTE] 💬
+> description
 
 ## Lore
+Centre nevralgique de la corruption qui s’est étendue a travers les plaines. C’etait autrefois le quartiel général de Gazog.
 
 ## Epreuve
-### [⚔Esprit des marais](../épreuves/⚔Esprit%20des%20marais.md)
-
+  ### Corruption des Marais
+   ![⚔Corruption des marais](../épreuves/⚔Corruption%20des%20marais.md) 
 
 ## Secret & Clues
 ### 🔎Tablette Ancienne
-Il s'agit de l'une des  [📜Tablettes de Balor](../../lore/📜Tablettes%20de%20Balor.md)
->[!QUOTE]  Description
-> Une dalle minérale de 20cmx30 cm et de 3 cm d'épaisseur environ. Elle est taillée dans une sorte d'obsidienne mat et glaciale. Des inscriptions sont gravée sur l'une des faces.
-> 
-> Boltror, tu as déjà vu un objet similaire: entre les mains du traitre qui a trahi ta tribu et assassiné ton père.
+Il s'agit de la [Tablette de la monstruosité](../../lore/📜Tablettes%20de%20Balor.md#Tablette%20de%20la%20monstruosité), l'une des  [📜Tablettes de Balor](../../lore/📜Tablettes%20de%20Balor.md)
+
+![Description](../../lore/📜Tablettes%20de%20Balor.md#Description)
+
+
+>[!QUOTE]  💬
+>  Boltror, tu as déjà vu un objet similaire: entre les mains du traitre nommé Gol’thar qui a trahi ta tribu et assassiné ton père.
+
 
 
 
