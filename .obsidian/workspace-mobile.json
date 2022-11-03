@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "759dd9a0ba1ee387",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2e14353e6df16d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61bc1713d62e7e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Wildemount/One Shot TGF - La Marée de la Vengeance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e23d9cd9f80b2a5c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "38b81d581b14cf7a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8fd4c2abbc6c56fa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6bccc8826acf266a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8c54c61dd8817a3d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Univers/DnD/Wildemount/One Shot TGF - La Marée de la Vengeance.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ]
+  },
+  "active": "d61bc1713d62e7e8",
+  "lastOpenFiles": [
+    "DM Corner/Magic Schools.md",
+    "Univers/Untitled.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/Chapitre 01/Chapitre 01.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/Chapitre 01/épreuves/⚔Esprit des marais.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/Chapitre 01/épreuves/🎲Ascension du Glacier.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/Campagne.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PNJ/🟥Croc Venin.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PNJ/🟦Reidoth.md",
+    "campaigns/Compagnie de la Sapinette/chapitres/chapitre 2.md",
+    "campaigns/Compagnie de la Sapinette/chapitres/chapitre 1 bis.md"
+  ]
+}

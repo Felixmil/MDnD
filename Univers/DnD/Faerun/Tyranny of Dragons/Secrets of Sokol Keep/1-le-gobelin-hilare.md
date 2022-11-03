@@ -50,7 +50,7 @@ pagebreak: h1,h2,h3
 
 | Imizael                 ||
 | ----------- | -------- |
-| ![Imizael](imizael.jpg) ||
+| ![Imizael](ressources/imizael.jpg) ||
 | **description**         | Humaine, 25 ans, traits délicat et yeux de biche verts. d'aspect à la fois bohème et soignée.        |
 | **comportement**        | Douce, concise mais polie                                                                            |
 | **préoccupation**       | Le service doit se dérouler sans encombres. Toujours occupée mais attentive aux besoins des clients. |
@@ -65,7 +65,7 @@ Phrases clés:
 
 | Markoth Boufétant (Gros Mar) ||
 | ---------------- | ---------------- |
-| ![Markoth](markoth.jpeg)         ||
+| ![Markoth](ressources/markoth.jpeg)         ||
 | **description**                  | Humain, 30 ans, Souriant, bien bedonnant et un sacré double menton                            |
 | **comportement**                 | Amical, curieux et Familier                                                                   |
 | **préoccupation**                | Souhaite savoir ce que les PJ font dans la vie et est heureux de partager les derniers ragots |
