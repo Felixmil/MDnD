@@ -30,5 +30,6 @@
     "editor:configure-toolbar"
   ],
   "promptDelete": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "showUnsupportedFiles": true
 }

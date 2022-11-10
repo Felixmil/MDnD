@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "138bd7785de2ca1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "257f8a8f86d8a1ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb3d62c4c8f1eb67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Wildemount/La Marée de la Vengeance/01  - Partie I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7088e4aad715e0bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Wildemount/La Marée de la Vengeance/02 - Partie II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c7c5195778f97fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Wildemount/La Marée de la Vengeance/Ravitaillement au Port.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18d56a68a2c1b08f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Wildemount/La Marée de la Vengeance/A bord du Chassevague.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e24fdc126c9d03fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Wildemount/La Marée de la Vengeance/Le plan de Trois Boucles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db4677d0afa3ee68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Wildemount/La Marée de la Vengeance/bâton de rétribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f245d34b89d7b57",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1a33b31cb935cd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e467acebc7340e65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49c96c73d36ecb7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75803619ff8311a8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5036334991455
+  },
+  "right": {
+    "id": "26f8d80a5b064401",
+    "type": "split",
+    "children": [
+      {
+        "id": "8779be77a8287e46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "200dc93263ec3215",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ca3949df1029bce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Univers/DnD/Wildemount/La Marée de la Vengeance/Ravitaillement au Port.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6a75849261558da",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec7317147a403167",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "14294f1abedf202f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3636e772ea99a6fc",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 501.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "75803619ff8311a8",
+  "lastOpenFiles": [
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/02 - Partie II.md",
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/A bord du Chassevague.md",
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/Le plan de Trois Boucles.md",
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/bâton de rétribution.md",
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/sessions/Session 2.md",
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/sessions/Session 1.md",
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/Le Départ.md",
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/01  - Partie I.md",
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/assets/Pasted image 20221110222228.png",
+    "5etools/Untitled.md"
+  ]
+}

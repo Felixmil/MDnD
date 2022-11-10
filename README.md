@@ -2,9 +2,9 @@ This repo (MarkDown&Dragons) gathers all documents and ressources I use to manag
 
 ## Rules Notes
 These are short notes explaining some aspects and mechanics of the game as well as homebrew rules.
-- [Downtime](./rules_notes/downtime.md)
-- [Artisanat](./rules_notes/artisanat.md)
-- [Poisons](./rules_notes/poisons.md)
+- [Downtime](Univers/DnD/Règles/downtime.md)
+- [Artisanat](Univers/DnD/Règles/artisanat.md)
+- [Poisons](Univers/DnD/Règles/poisons.md)
 
 ## Useful External ressources
 
