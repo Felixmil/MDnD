@@ -4,7 +4,7 @@
   "copyContentButton": true,
   "customFormulas": [],
   "displayFormulaForMod": true,
-  "displayResultsInline": false,
+  "displayResultsInline": true,
   "displayLookupRoll": true,
   "formulas": {},
   "persistResults": false,
@@ -14,9 +14,9 @@
   "renderer": true,
   "renderAllDice": true,
   "renderTime": 2000,
-  "diceColor": "#202020",
-  "textColor": "#ffffff",
+  "diceColor": "#245152",
+  "textColor": "#a3dcff",
   "showLeafOnStartup": true,
-  "showDice": false,
+  "showDice": true,
   "round": "None"
 }

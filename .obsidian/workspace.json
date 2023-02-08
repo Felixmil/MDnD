@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61b9715f88e4a1ad",
+            "id": "dcaa0abfd8d8af19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/⚔La Corruption des marais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfffd7840d27e5f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Alkanor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7468b951d38cc1f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Timrinn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08db04c9c28e7d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Haey.md",
-                "mode": "source",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Grotte aux echos de la mer.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,21 +43,41 @@
             }
           },
           {
+            "id": "df6ed47e2df6f725",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "49c96c73d36ecb7f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#🎲épreuve",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b67cadfc4c421d02",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "717674b5eb8146ae",
@@ -114,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Haey.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Grotte aux echos de la mer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Haey.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Grotte aux echos de la mer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5036334991455
+    "width": 330.5
   },
   "right": {
     "id": "26f8d80a5b064401",
@@ -190,21 +173,28 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8ec4922ed90499de",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b67cadfc4c421d02",
+            "id": "e689e7c9f420ff15",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "initiative-tracker-creature-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 501.5
+    "width": 268.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,20 +204,21 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08db04c9c28e7d35",
+  "active": "b67cadfc4c421d02",
   "lastOpenFiles": [
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/👤Pohw.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Haey.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/📜L'Enclave d'Emeraude.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/Chapitre 01 - Foudrechêne.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/👤Boltror.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Untitled.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Timrinn.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Grotte aux echos de la mer.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/1 - Entrée de la Grotte.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/Chapitre 01 - En direction de la grotte.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Alkanor.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Tourbière Embrumée.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/⚔La Corruption des marais.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Syphon de glaise.md"
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/👤Boltror.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Haey.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Timrinn.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/👤Pohw.md"
   ]
 }

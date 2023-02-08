@@ -4,8 +4,6 @@
 > [!QUOTE] 💬
 > description
 
-## Lore
-Centre névralgique de la corruption qui s’est étendue a travers les plaines. C’etait autrefois le quartiel général de Gazog.
 
 ## Epreuve
    - [⚔La Corruption des marais](../épreuves/⚔La%20Corruption%20des%20marais.md) 

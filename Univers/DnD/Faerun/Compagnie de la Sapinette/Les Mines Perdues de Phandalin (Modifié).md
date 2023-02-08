@@ -4,10 +4,10 @@ Introduction les mines perdues de Phandalin.
 
 ## Arc 1
 
-[Chapitre 01 - Foudrechêne](Chapitre%2001%20-%20Foudrechêne.md) 
+[Chapitre 01 - En direction de la grotte](Chapitre%2001%20-%20En%20direction%20de%20la%20grotte.md) 
 
 ### [Chapitre 02 - La grotte aux Echos de la Mer](Chapitre%2002%20-%20La%20grotte%20aux%20Echos%20de%20la%20Mer.md)
-Libération du frère de Gundren et elimination de l'araignée Noire dans la [📍grotte aux echos de la mer](lieux/📍grotte%20aux%20echos%20de%20la%20mer.md).
+Libération du frère de Gundren et elimination de l'araignée Noire dans la [📍Grotte aux echos de la mer](lieux/📍Grotte%20aux%20echos%20de%20la%20mer.md).
 
 ## Arc 2
 

@@ -1,1 +1,1 @@
-# Légende de Gazog
+[[Gazog]]

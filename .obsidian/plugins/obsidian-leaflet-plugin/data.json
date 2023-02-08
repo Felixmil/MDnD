@@ -1,5 +1,360 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "grotte-aux-echos-de-la-mer",
+      "lastAccessed": 1675874319090,
+      "markers": [
+        {
+          "id": "ID_18e9eaeae96b",
+          "type": "default",
+          "loc": [
+            -10.0625,
+            2.0000713253750506
+          ],
+          "link": "📍Grotte aux echos de la mer#1 - Entrée de la Grotte",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.23111397530520492,
+            0.7668148148148148
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79b8abfbab38",
+          "type": "default",
+          "loc": [
+            -7.96875,
+            2.671837239507326
+          ],
+          "link": "📍Grotte aux echos de la mer#2 - Tunnels",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f90bc8d9c8b8",
+          "type": "default",
+          "loc": [
+            -11.265625,
+            4.3436702834043555
+          ],
+          "link": "📍Grotte aux echos de la mer#4 - Salle des Gardes",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88c888584bfa",
+          "type": "default",
+          "loc": [
+            -11.40625,
+            5.68755873854416
+          ],
+          "link": "📍Grotte aux echos de la mer#5 - Bureau des intendant de la mine",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb6afb38e839",
+          "type": "default",
+          "loc": [
+            -9.84375,
+            4.843754195610297
+          ],
+          "link": "📍Grotte aux echos de la mer#3 - Ancienne Entrée",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abf99b097ad9",
+          "type": "default",
+          "loc": [
+            -8.8125,
+            7.328112413169109
+          ],
+          "link": "📍Grotte aux echos de la mer#8 - Caverne aux Champignons",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7be899f998b8",
+          "type": "default",
+          "loc": [
+            -8.078125,
+            4.8593708043897035
+          ],
+          "link": "📍Grotte aux echos de la mer#6 - Baraquements Suds",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b8b4aa9aa08",
+          "type": "default",
+          "loc": [
+            -8.11962890625,
+            6.1888374875955865
+          ],
+          "link": "📍Grotte aux echos de la mer#7 - Entrepôt en ruine",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b1858090b5b",
+          "type": "default",
+          "loc": [
+            -4.09375,
+            3.515578848286731
+          ],
+          "link": "📍Grotte aux echos de la mer#11 - Baraquements Nords",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9099b091b88",
+          "type": "default",
+          "loc": [
+            -6.403564453125,
+            5.133617601132451
+          ],
+          "link": "📍Grotte aux echos de la mer#9 - Grande Caverne",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b97a680acb78",
+          "type": "default",
+          "loc": [
+            -6.919189453125,
+            8.781075426128073
+          ],
+          "link": "📍Grotte aux echos de la mer#14 - Quartiers des Magiciens",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0928c84a68fa",
+          "type": "default",
+          "loc": [
+            -6.4921875,
+            7.945289424143366
+          ],
+          "link": "📍Grotte aux echos de la mer#13 - Caverne Etoilée",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59b8cb397b88",
+          "type": "default",
+          "loc": [
+            -4.40625,
+            6.110327403537447
+          ],
+          "link": "📍Grotte aux echos de la mer#12 - La Fonderie",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db2bcb697b3b",
+          "type": "default",
+          "loc": [
+            -5.3424072265625,
+            8.554641120264433
+          ],
+          "link": "📍Grotte aux echos de la mer#15 - La Forge aux Sortilèges",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89c869c9bbe8",
+          "type": "default",
+          "loc": [
+            -2.953125,
+            7.406728299573873
+          ],
+          "link": "📍Grotte aux echos de la mer#16 - La Caverne aux Echos",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ab8d98b4a7b",
+          "type": "default",
+          "loc": [
+            -3.79150390625,
+            1.5485103759266838
+          ],
+          "link": "📍Grotte aux echos de la mer#10 - Le Bassin sombre",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a818c8ab8a6a",
+          "type": "default",
+          "loc": [
+            -2.55712890625,
+            3.5635941421983546
+          ],
+          "link": "📍Grotte aux echos de la mer#18 - La Caverne Effondrée",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bbbe9f939da",
+          "type": "default",
+          "loc": [
+            -1.671875,
+            5.843452111668904
+          ],
+          "link": "📍Grotte aux echos de la mer#17 - Ancien lit de ruisseau",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a9ab88a68f8",
+          "type": "default",
+          "loc": [
+            -1.66650390625,
+            1.2673358969120319
+          ],
+          "link": "📍Grotte aux echos de la mer#19 - Le Temple de Dumathoin",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fabbe879f9aa",
+          "type": "default",
+          "loc": [
+            -1.059814453125,
+            2.539758515264725
+          ],
+          "link": "📍Grotte aux echos de la mer#20 - Les Quartiers des Prêtres",
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Grotte aux echos de la mer.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -14,7 +369,7 @@
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
-  "notePreview": false,
+  "notePreview": true,
   "layerMarkers": true,
   "previousVersion": "5.1.2",
   "version": {
@@ -30,7 +385,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {},
   "enableDraw": true,
-  "defaultUnitType": "imperial",
+  "defaultUnitType": "metric",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
   "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
   "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
