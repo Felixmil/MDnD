@@ -1,4 +1,4 @@
-# Balor
+#👥PNJ
 
 Balor est un [Démon](https://5e.tools/bestiary.html#balor_mm,flstenvironment:swamp=1,flopenvironment:extend) ayant réussi à construire un niveau dans le plan des [The Abyss](../../../../../DM%20Corner/Planes.md#The%20Abyss%20https%205e%20tools%20book%20html%20dmg%20-1%20the%2020abyss%200) ou il règne en maître absolu.
 

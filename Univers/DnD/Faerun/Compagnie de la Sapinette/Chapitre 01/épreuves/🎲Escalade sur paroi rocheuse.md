@@ -1,1 +1,0 @@
-# Escalade sur paroi rocheuse

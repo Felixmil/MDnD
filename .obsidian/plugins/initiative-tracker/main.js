@@ -550,6 +550,7 @@ var DEFAULT_SETTINGS = {
   statuses: [...Conditions],
   version: null,
   canUseDiceRoll: false,
+  preferStatblockLink: false,
   initiative: "1d20 + %mod%",
   modifier: null,
   sync: false,
@@ -560,7 +561,8 @@ var DEFAULT_SETTINGS = {
     creatures: [],
     state: false,
     name: null,
-    round: null
+    round: null,
+    logFile: null
   },
   condense: false,
   clamp: true,
@@ -579,7 +581,8 @@ var DEFAULT_SETTINGS = {
   hpOverflow: "ignore",
   additiveTemp: false,
   logging: false,
-  logFolder: "/"
+  logFolder: "/",
+  integrateSRD: true
 };
 var XP_PER_CR = {
   "0": 0,
@@ -2799,6 +2802,18 @@ var InitiativeTrackerSettings = class extends import_obsidian4.PluginSettingTab 
         await this.plugin.saveSettings();
       });
     });
+    new import_obsidian4.Setting(containerEl).setName("Embed statblock-link content in the Creature View").setDesc("Prefer embedded content from a statblock-link attribute when present. Fall back to the TTRPG plugin if the link is missing and the plugin is enabled.").addToggle((t) => {
+      t.setValue(this.plugin.data.preferStatblockLink).onChange(async (v) => {
+        this.plugin.data.preferStatblockLink = v;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian4.Setting(containerEl).setName("Include 5e SRD").setDesc("The 5e SRD will be available for use in the Initiative Tracker.").addToggle((t) => {
+      t.setValue(this.plugin.data.integrateSRD).onChange(async (v) => {
+        this.plugin.data.integrateSRD = v;
+        await this.plugin.saveSettings();
+      });
+    });
   }
   async _displayBattle(additionalContainer) {
     additionalContainer.empty();
@@ -3367,11 +3382,13 @@ var NewPlayerModal = class extends import_obsidian5.Modal {
         this.player.name = modal.file.basename;
         if (!metaData || !metaData.frontmatter)
           return;
-        const { ac, hp, modifier, level } = metaData.frontmatter;
-        this.player = {
-          ...this.player,
-          ...{ ac, hp, modifier, level }
-        };
+        const { ac, hp, modifier, level, name } = metaData.frontmatter;
+        this.player.name = name ? name : this.player.name;
+        this.player.ac = ac;
+        this.player.hp = hp;
+        this.player.level = level;
+        this.player.modifier = modifier;
+        this.plugin.setStatblockLink(this.player, metaData.frontmatter["statblock-link"]);
         this.display();
       };
     });
@@ -3788,6 +3805,7 @@ var Creature = class {
     this.note = creature.note;
     this.level = creature.level;
     this.player = creature.player;
+    this["statblock-link"] = creature["statblock-link"];
     this.marker = creature.marker;
     this.source = creature.source;
   }
@@ -28818,7 +28836,7 @@ function add_css8(target) {
 }
 function get_each_context5(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[12] = list[i];
+  child_ctx[15] = list[i];
   return child_ctx;
 }
 function create_if_block_24(ctx) {
@@ -28962,9 +28980,9 @@ function create_each_block5(ctx) {
   let status;
   let current;
   function remove_handler() {
-    return ctx[8](ctx[12]);
+    return ctx[9](ctx[15]);
   }
-  status = new Status_default({ props: { status: ctx[12] } });
+  status = new Status_default({ props: { status: ctx[15] } });
   status.$on("remove", remove_handler);
   return {
     c() {
@@ -28978,7 +28996,7 @@ function create_each_block5(ctx) {
       ctx = new_ctx;
       const status_changes = {};
       if (dirty & 2)
-        status_changes.status = ctx[12];
+        status_changes.status = ctx[15];
       status.$set(status_changes);
     },
     i(local) {
@@ -29026,7 +29044,7 @@ function create_fragment9(ctx) {
     }
   });
   initiative.$on("click", click_handler2);
-  initiative.$on("initiative", ctx[6]);
+  initiative.$on("initiative", ctx[7]);
   let if_block0 = ctx[0].hidden && create_if_block_24(ctx);
   function select_block_type(ctx2, dirty) {
     if (ctx2[0].player)
@@ -29043,8 +29061,9 @@ function create_fragment9(ctx) {
     }
   });
   creaturecontrols.$on("click", click_handler_4);
-  creaturecontrols.$on("tag", ctx[9]);
-  creaturecontrols.$on("edit", ctx[10]);
+  creaturecontrols.$on("tag", ctx[10]);
+  creaturecontrols.$on("edit", ctx[11]);
+  creaturecontrols.$on("hp", ctx[12]);
   return {
     c() {
       td0 = element("td");
@@ -29105,8 +29124,9 @@ function create_fragment9(ctx) {
       if (!mounted) {
         dispose = [
           listen(td0, "click", click_handler_1),
-          listen(div0, "click", ctx[7]),
+          listen(div0, "click", ctx[8]),
           listen(div0, "mouseenter", ctx[5]),
+          listen(div0, "mouseleave", ctx[6]),
           listen(div1, "click", click_handler_3)
         ];
         mounted = true;
@@ -29234,16 +29254,22 @@ function instance9($$self, $$props, $$invalidate) {
   const hiddenIcon = (div) => {
     (0, import_obsidian15.setIcon)(div, "eye-off");
   };
+  let hoverTimeout = null;
   const tryHover = (evt) => {
-    if (creature["statblock-link"]) {
-      let link = creature["statblock-link"];
-      if (/\[.+\]\(.+\)/.test(link)) {
-        [, link] = link.match(/\[.+?\]\((.+?)\)/);
-      } else if (/\[\[.+\]\]/.test(link)) {
-        [, link] = link.match(/\[\[(.+?)(?:\|.+?)?\]\]/);
+    hoverTimeout = setTimeout(() => {
+      if (creature["statblock-link"]) {
+        let link = creature["statblock-link"];
+        if (/\[.+\]\(.+\)/.test(link)) {
+          [, link] = link.match(/\[.+?\]\((.+?)\)/);
+        } else if (/\[\[.+\]\]/.test(link)) {
+          [, link] = link.match(/\[\[(.+?)(?:\|.+?)?\]\]/);
+        }
+        app.workspace.trigger("link-hover", {}, evt.target, link, "initiative-tracker ");
       }
-      app.workspace.trigger("link-hover", {}, evt.target, link, "initiative-tracker ");
-    }
+    }, 1e3);
+  };
+  const cancelHover = (evt) => {
+    clearTimeout(hoverTimeout);
   };
   const initiative_handler = (e) => {
     view.updateCreature(creature, { initiative: Number(e.detail) });
@@ -29256,6 +29282,9 @@ function instance9($$self, $$props, $$invalidate) {
     bubble.call(this, $$self, event);
   }
   function edit_handler(event) {
+    bubble.call(this, $$self, event);
+  }
+  function hp_handler(event) {
     bubble.call(this, $$self, event);
   }
   $$self.$$set = ($$props2) => {
@@ -29275,11 +29304,13 @@ function instance9($$self, $$props, $$invalidate) {
     name,
     hiddenIcon,
     tryHover,
+    cancelHover,
     initiative_handler,
     click_handler_2,
     remove_handler,
     tag_handler,
-    edit_handler
+    edit_handler,
+    hp_handler
   ];
 }
 var Creature3 = class extends SvelteComponent {
@@ -32476,7 +32507,7 @@ var TrackerView = class extends import_obsidian22.ItemView {
       this.app.workspace.offref(ref);
     });
     this.registerEvent(ref);
-    this.plugin.combatant.render(creature);
+    await this.plugin.combatant.render(creature);
   }
   get pcs() {
     return this.players;
@@ -32541,7 +32572,7 @@ var TrackerView = class extends import_obsidian22.ItemView {
       this.creatures.forEach((creature, _, arr) => {
         const equiv = arr.filter((c) => equivalent(c, creature));
         equiv.forEach((eq) => {
-          eq.initiative = Math.max(...equiv.map((i) => i.initiative));
+          eq.initiative = equiv[0].initiative;
         });
       });
     }
@@ -33011,17 +33042,19 @@ var CreatureView = class extends import_obsidian22.ItemView {
     this.statblockEl = this.contentEl.createDiv("creature-statblock-container");
     this.load();
     this.containerEl.addClass("creature-view-container");
+    this.containerEl.on("mouseover", "a.internal-link", (0, import_obsidian22.debounce)((ev) => app.workspace.trigger("link-hover", {}, ev.target, ev.target.dataset.href, "initiative-tracker "), 10));
+    this.containerEl.on("click", "a.internal-link", (ev) => app.workspace.openLinkText(ev.target.dataset.href, "initiative-tracker"));
   }
   onload() {
-    new import_obsidian22.ExtraButtonComponent(this.buttonEl).setIcon("cross").setTooltip("Close Statblock").onClick(() => {
-      this.render();
+    new import_obsidian22.ExtraButtonComponent(this.buttonEl).setIcon("cross").setTooltip("Close Statblock").onClick(async () => {
+      await this.render();
       this.app.workspace.trigger("initiative-tracker:stop-viewing");
     });
   }
   onunload() {
     this.app.workspace.trigger("initiative-tracker:stop-viewing");
   }
-  render(creature) {
+  async render(creature) {
     this.statblockEl.empty();
     if (!creature) {
       this.statblockEl.createEl("em", {
@@ -33029,16 +33062,38 @@ var CreatureView = class extends import_obsidian22.ItemView {
       });
       return;
     }
-    if (this.plugin.canUseStatBlocks && this.plugin.statblockVersion?.major >= 2) {
+    const tryStatblockPlugin = this.plugin.canUseStatBlocks && this.plugin.statblockVersion?.major >= 2;
+    if (creature["statblock-link"] && (this.plugin.data.preferStatblockLink || !tryStatblockPlugin)) {
+      await this.renderEmbed(creature["statblock-link"]);
+    } else if (tryStatblockPlugin) {
       const statblock = this.plugin.statblocks.render(creature, this.statblockEl, creature.display);
-      if (statblock) {
-        this.addChild(statblock);
-      }
+      this.addChild(statblock);
     } else {
       this.statblockEl.createEl("em", {
-        text: "Install the TTRPG Statblocks plugin to use this feature!"
+        text: "Install the TTRPG Statblocks plugin or add a statblock-link to your monster to use this feature!"
       });
     }
+  }
+  async renderEmbed(embedLink) {
+    if (/\[.+\]\(.+\)/.test(embedLink)) {
+      [, embedLink] = embedLink.match(/\[.+?\]\((.+?)\)/);
+    } else if (/\[\[.+\]\]/.test(embedLink)) {
+      [, embedLink] = embedLink.match(/\[\[(.+?)(?:\|.+?)?\]\]/);
+    }
+    const { path, subpath } = (0, import_obsidian22.parseLinktext)(embedLink);
+    const file = this.app.metadataCache.getFirstLinkpathDest(path, "/");
+    const fileContent = await app.vault.cachedRead(file);
+    let content = `Oops! Something is wrong with your statblock-link:<br />${embedLink}`;
+    if (subpath && fileContent) {
+      const cache = app.metadataCache.getFileCache(file);
+      const subpathResult = (0, import_obsidian22.resolveSubpath)(cache, subpath);
+      if (subpathResult) {
+        content = fileContent.slice(subpathResult.start.offset, subpathResult.end.offset);
+      }
+    } else if (fileContent) {
+      content = fileContent;
+    }
+    await import_obsidian22.MarkdownRenderer.renderMarkdown(content, this.statblockEl.createDiv("markdown-rendered"), path, null);
   }
   getDisplayText() {
     return "Combatant";
@@ -34053,7 +34108,7 @@ var InitiativeTracker = class extends import_obsidian25.Plugin {
     return [...this.statblock_creatures, ...this.data.homebrew];
   }
   get bestiary() {
-    return [...BESTIARY, ...this.homebrew];
+    return [...this.data.integrateSRD ? BESTIARY : [], ...this.homebrew];
   }
   get view() {
     const leaves = this.app.workspace.getLeavesOfType(INTIATIVE_TRACKER_VIEW);
@@ -34139,11 +34194,13 @@ Please re-link it in settings.`);
         if (!frontmatter)
           return;
         for (let player of players) {
-          const { ac, hp, modifier, level } = frontmatter;
+          const { ac, hp, modifier, level, name } = frontmatter;
           player.ac = ac;
           player.hp = hp;
           player.modifier = modifier;
           player.level = level;
+          player.name = name ? name : player.name;
+          this.setStatblockLink(player, frontmatter["statblock-link"]);
           this.playerCreatures.set(player.name, Creature.from(player));
           if (this.view) {
             const creature = this.view.ordered.find((c) => c.name == player.name);
@@ -34180,6 +34237,11 @@ Please re-link it in settings.`);
       }));
     });
     console.log("Initiative Tracker v" + this.manifest.version + " loaded");
+  }
+  setStatblockLink(player, newValue) {
+    if (newValue) {
+      player["statblock-link"] = newValue.startsWith("#") ? `[${player.name}](${player.path}${newValue})` : newValue;
+    }
   }
   addCommands() {
     this.addCommand({

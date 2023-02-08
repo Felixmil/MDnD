@@ -15,7 +15,7 @@ En réunissant au moins 3 tablettes, un mage spécialiste de  l'école de [Conju
 ## Tablettes
 ### Tablette de la monstruosité 
 - Histoire: Tablette offerte a gazog pour defendre son royaume et son trône.
-- Localisation : [📍Syphon de glaise](../Chapitre%2001/lieux/📍Syphon%20de%20glaise.md)
+- Localisation : [📍Syphon de glaise](../lieux/📍Syphon%20de%20glaise.md)
 - signification des Inscriptions:
 	>Blabla
 

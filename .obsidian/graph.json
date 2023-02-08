@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:\"campaigns/Compagnie de la Sapinette\"",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -18,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.2588386562181635,
-  "close": false
+  "close": true
 }

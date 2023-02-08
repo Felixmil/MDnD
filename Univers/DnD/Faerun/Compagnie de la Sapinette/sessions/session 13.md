@@ -14,7 +14,7 @@ ______
 
 ## ☑ Scènes
 ______
-- [ ] Combat contre l'[⚔Corruption des marais](../épreuves/⚔Corruption%20des%20marais.md) au [📍Syphon de glaise](../lieux/📍Syphon%20de%20glaise.md)
+- [ ] Combat contre l'[⚔La Corruption des marais](../épreuves/⚔La%20Corruption%20des%20marais.md) au [📍Syphon de glaise](../lieux/📍Syphon%20de%20glaise.md)
 - [ ] Découverte d'une [🔎Tablette Ancienne](../lieux/📍Syphon%20de%20glaise.md#🔎Tablette%20Ancienne)  au [📍Syphon de glaise](../lieux/📍Syphon%20de%20glaise.md)
 - [ ] Installation pour [🎲Camping dans les marecages](../épreuves/🎲Camping%20dans%20les%20marecages.md)
 - [ ] Arrivée en bas de la [📍Paroi Rocheuse](../lieux/📍Paroi%20Rocheuse.md)

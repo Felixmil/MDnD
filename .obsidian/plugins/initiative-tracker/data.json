@@ -54,6 +54,61 @@
       "level": 1,
       "player": true,
       "marker": "default"
+    },
+    {
+      "note": "👤Boltror",
+      "path": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/👤Boltror.md",
+      "name": "Boltror",
+      "level": 3,
+      "hp": 28,
+      "ac": 17,
+      "modifier": 1,
+      "player": true,
+      "marker": "default"
+    },
+    {
+      "note": "👤Pohw",
+      "path": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/👤Pohw.md",
+      "name": "Pohw",
+      "level": 5,
+      "ac": 16,
+      "hp": 38,
+      "modifier": 3,
+      "player": true,
+      "marker": "default"
+    },
+    {
+      "note": "Timrinn",
+      "path": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Timrinn.md",
+      "name": "Timrinn",
+      "level": 5,
+      "hp": 43,
+      "ac": 16,
+      "modifier": 5,
+      "player": true,
+      "marker": "default"
+    },
+    {
+      "note": "Alkanor",
+      "path": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Alkanor.md",
+      "name": "Alkanor",
+      "level": 5,
+      "hp": 37,
+      "ac": 13,
+      "modifier": 0,
+      "player": true,
+      "marker": "default"
+    },
+    {
+      "note": "Haey",
+      "path": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Haey.md",
+      "name": "Haey",
+      "level": 5,
+      "hp": 38,
+      "ac": 16,
+      "modifier": 4,
+      "player": true,
+      "marker": "default"
     }
   ],
   "parties": [
@@ -70,6 +125,16 @@
     {
       "name": "Empty",
       "players": []
+    },
+    {
+      "name": "La Compagnie de la Sapinette",
+      "players": [
+        "Boltror",
+        "Pohw",
+        "Haey",
+        "Alkanor",
+        "Timrinn"
+      ]
     }
   ],
   "defaultParty": null,
@@ -142,6 +207,7 @@
   ],
   "version": null,
   "canUseDiceRoll": false,
+  "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
   "sync": true,
@@ -805,5 +871,6 @@
   "hpOverflow": "ignore",
   "additiveTemp": false,
   "logging": false,
-  "logFolder": "/"
+  "logFolder": "/",
+  "integrateSRD": true
 }
