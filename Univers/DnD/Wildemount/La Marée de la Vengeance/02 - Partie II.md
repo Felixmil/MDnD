@@ -11,7 +11,7 @@
 # Lieux
 
 ___
-Tags: #🌿project 
+Tags: 
 Topics:  [[D&D]], [00 - La Marrée de la Vengeance](00%20-%20La%20Marrée%20de%20la%20Vengeance.md)
 References: 
 

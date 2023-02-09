@@ -1,5 +1,3 @@
-# Session 10 - ???
-
 ## Session Notes
 
 - Philémon joue Reidoth
@@ -19,14 +17,10 @@
 - [x] Deux 💀 **[Jeunes géants de pierre](#encounter-1)** essaient d'enlever l'un d'eux (pour le manger),
 - [x] En suivant un sentier creusé dans la falaise, le vent se lève. Des 💀 **[bourasques violentes](#bourasques)** de vent menacent de les faire chuter de la falaise,
 - [X] Ils arrivent sur les 📍 **[Hauts Plateaux](#hauts-plateaux)**,
-- [ ] Alors que tous sont endormis, Reidoth approche **Powh** pour lui parler de **🔎 [l'Enclave D'émeraude](#enclaveemeraude)**,
 - [x] Ils trouvent un **🔎 [Sacoche perdue](#sacoche-perdue)**,
-- [ ] Des 💀 **[Hyenes Géantes](#encounter-2)** essaies de voler discretement leurs provisions lors d'un bivouac (ronde 1d4),
+
 - [x] Ils trouvent un rocher vertical de 20m complétement sculpté: le  🔎 **[Totem de Gazog](#totem-de-gazog)**,
-- [ ] Ils arrivent dans la 📍 **[Tourbière embrumée](#tourbière-embrumée)**,
-- [ ] Ils se font attaquer par des 💀 **[Croco](#encounter-3)** près d'un étang,
-- [ ] Ils se font attaquer par un 💀 **[Monticule Ambulant](#encounter-4)** alors qu'ils contournent un **[💀syphon de glaise](#syphon-de-glaise)**,
-- [ ] Ils doivent trouver un endroit ou **[💀Installer le camp](#installer-le-camp)**.
+
 
 
 ## 🔎 Secret, Clues & Lore

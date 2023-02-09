@@ -17,7 +17,10 @@ creatures:
 
 > [!QUOTE]  ## Mort de la creature
 > Le mélange gluant de putrefaction perd sa cohesion et fond tandis que le brouillard s’estompe comme absorbé par la terre humide. 
-> Alors que le monticule d’immondice fini de se deliter, vous voyez une sorte de pierre noire angulaire repose en son centre. *Voir [🔎Tablette Ancienne](../lieux/📍Syphon%20de%20glaise.md#🔎Tablette%20Ancienne)*
+> Alors que le monticule d’immondice fini de se deliter, vous voyez une sorte de pierre noire angulaire repose en son centre. 
+
+Découverte d'une [🔎Tablette Ancienne](../découverte/🔎Tablette%20Ancienne.md)
+
 # Lore
 
-Centre névralgique de la corruption qui s’est étendue a travers les plaines. C’etait autrefois le quartiel général de [[Gazog]]. L' esprit des marais est la forme qu'a pris la corruption apporté par [🟥Balor](../PNJ/🟥Balor.md) dans la région. 
+Centre névralgique de la corruption qui s’est étendue a travers les plaines. C’etait autrefois le quartiel général de [Gazog](../lore/📜Légende%20de%20Gazog.md). L' esprit des marais est la forme qu'a pris la corruption apporté par [🟥Balor](../PNJ/🟥Balor.md) dans la région. 

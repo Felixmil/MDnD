@@ -1,12 +1,48 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "path: Compagnie de",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#👤PJ",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
+      }
+    },
+    {
+      "query": "tag:#📍Lieu",
+      "color": {
+        "a": 1,
+        "rgb": 7426784
+      }
+    },
+    {
+      "query": "tag:#🎲épreuve",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#👥PNJ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#📜Lore",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,

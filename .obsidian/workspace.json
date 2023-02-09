@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "fe80a8a2d1dc498f",
+        "id": "b2df1f5bd1ab1910",
         "type": "tabs",
         "children": [
           {
-            "id": "dcaa0abfd8d8af19",
+            "id": "23bf72dd3cd3148c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Grotte aux echos de la mer.md",
-                "mode": "preview",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Pics du duel.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "15fa986207a72f60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "addaa133fa6d32fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82c24dffbf801c33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🎲épreuve",
+                "query": "tag:#👻monster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Grotte aux echos de la mer.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,8 +139,44 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#📍Lieu",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7885536
+                      }
+                    },
+                    {
+                      "query": "tag:#👤PJ tag:#👥PNJ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16777215
+                      }
+                    },
+                    {
+                      "query": "tag:#🎲épreuve",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#📜Lore",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14275734
+                      }
+                    },
+                    {
+                      "query": "tag:#🔎trésor",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14736466
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -120,7 +187,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224422,
+                  "scale": 0.5087618855792588,
                   "close": true
                 }
               }
@@ -132,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Grotte aux echos de la mer.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,15 +277,15 @@
   },
   "active": "b67cadfc4c421d02",
   "lastOpenFiles": [
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Grotte aux echos de la mer.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/1 - Entrée de la Grotte.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/Chapitre 01 - En direction de la grotte.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Alkanor.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Tourbière Embrumée.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/⚔La Corruption des marais.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/👤Boltror.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Haey.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Timrinn.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/👤Pohw.md"
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Pics du duel.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Col de la chavade.md",
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/bandit.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Tablette Ancienne.md",
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/02 - Partie II.md",
+    "Univers/DnD/Wildemount/La Marée de la Vengeance/01  - Partie I.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 13 - 2023 02 27.md"
   ]
 }

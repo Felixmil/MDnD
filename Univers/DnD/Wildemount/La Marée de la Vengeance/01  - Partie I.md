@@ -61,7 +61,6 @@ date: 2022-09-13 23:29:37
 
 ![battlemap palma flora est](assets/battlemap%20palma%20flora%20est.png)
 ___
-Tags: #🌿project 
 Topics:  [[D&D]], [00 - La Marrée de la Vengeance](00%20-%20La%20Marrée%20de%20la%20Vengeance.md)
 References:
 - https://criticalrole.fandom.com/wiki/Palma_Flora

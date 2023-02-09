@@ -1,6 +1,3 @@
-# Session 08 
-
-
 # Strong Start
 
 
