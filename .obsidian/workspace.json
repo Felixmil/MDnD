@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Pics du duel.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/La Compagnie de la sapinette.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b6ab83a977ff1f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "15fa986207a72f60",
@@ -36,21 +49,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "82c24dffbf801c33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,17 +275,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b67cadfc4c421d02",
+  "active": "addaa133fa6d32fd",
   "lastOpenFiles": [
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Pics du duel.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Col de la chavade.md",
-    "Univers/DnD/Wildemount/La Marée de la Vengeance/bandit.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Tablette Ancienne.md",
-    "Univers/DnD/Wildemount/La Marée de la Vengeance/02 - Partie II.md",
-    "Univers/DnD/Wildemount/La Marée de la Vengeance/01  - Partie I.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 13 - 2023 02 27.md"
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/La Compagnie de la sapinette.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/Chapitre 02 - La grotte aux Echos de la Mer.md",
+    "assets/camp.jpg",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 04.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/session 05.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/session 06.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/session 07 - 2021 07 04.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/session 08.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/session 10.md"
   ]
 }

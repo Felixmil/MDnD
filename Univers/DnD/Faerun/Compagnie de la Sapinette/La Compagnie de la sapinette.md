@@ -21,10 +21,9 @@ Durant ce trajet:
 - [🟦Reidoth](PNJ/🟦Reidoth.md) proposera à [👤Pohw](PJ/👤Pohw.md) de rejoindre [📜L'Enclave d'Emeraude](lore/📜L'Enclave%20d'Emeraude.md). 
 - [👤Boltror](PJ/👤Boltror.md) rejoindra la compagnie et découvrira l'existence d'une [📜Tablettes de Balor](lore/📜Tablettes%20de%20Balor.md).
 
-### [Chapitre 02 - La grotte aux Echos de la Mer](Chapitre%2002%20-%20La%20grotte%20aux%20Echos%20de%20la%20Mer.md)
+### Chapitre 02 - La grotte aux Echos de la Mer
 Libération du frère de Gundren et elimination de l'araignée Noire dans la [📍Grotte aux echos de la mer](lieux/📍Grotte%20aux%20echos%20de%20la%20mer.md).
 
-## Chapitre 2: La Grotte aux échos de la mer
 
 # Arc 2
 
