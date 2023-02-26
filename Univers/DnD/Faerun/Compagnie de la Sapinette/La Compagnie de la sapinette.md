@@ -35,9 +35,9 @@ Pendant que les PC accomplissent leur mission dans la grotte aux echos de la mer
 
 En realité une faille s’est ouverte entre les royaumes oubliés et un autre continent, plus particulièrement dans le village de **[Kuritori](lieux/Kuritori.md)**. Cette faille est le resultat du dechainement de **[Dekishi](PNJ/Dekishi.md)**, une âme en peine qui cherche à se venger de **[Anzhong Daku](PNJ/Anzhong%20Daku.md)**, le chef du village, possédé par un Tengu appelé **[Visage](PNJ/Visage.md)**.
 
-### [Chapitre 3](chapitres/Chapitre%203.md)
+
 Il est impossible de fermer la faille depuis ce coté, Reidoth demande donc aux PC de voyager et régler le problème.
 
 Pour la suite, voir le scenario:
-![the-spirit-and-the-charlatan](Chapitre%2001/assets/the-spirit-and-the-charlatan.pdf)
+![the-spirit-and-the-charlatan](assets/the-spirit-and-the-charlatan.pdf)
 

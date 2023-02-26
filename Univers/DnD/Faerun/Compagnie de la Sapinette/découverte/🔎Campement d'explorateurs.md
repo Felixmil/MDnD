@@ -12,4 +12,4 @@
 - Ils proposent des soins `Prayer of Healing`: `dice: 2d8 + 1d4`
 
 # Choix
-- Les elfes expliquent que pour monter aux pics du duel, il faut soit passer par la [🎲Caverne Gelée](../épreuves/🎲Caverne%20Gelée.md), soit grimper realiser l'[🎲Ascension du Glacier](../épreuves/🎲Ascension%20du%20Glacier.md).
+- Les elfes expliquent que pour monter aux pics du duel, il faut soit passer par la [🎲Caverne Gelée](../épreuves/🎲Caverne%20Gelée.md), soit grimper réaliser l'[🎲Ascension du Glacier](../épreuves/🎲Ascension%20du%20Glacier.md).

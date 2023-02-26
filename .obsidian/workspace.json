@@ -20,31 +20,42 @@
             }
           },
           {
-            "id": "6b6ab83a977ff1f1",
+            "id": "49d01d2f12cdfde6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "380ee8305477fcc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c2ce6e91eddcd21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "15fa986207a72f60",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "addaa133fa6d32fd",
+            "id": "a9e854d0f2745f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
+                "file": "Univers/DnD/Règles/Etats.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#👻monster",
+                "query": "tag:#🎲épreuve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/La Compagnie de la sapinette.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/La Compagnie de la sapinette.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,17 +286,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "addaa133fa6d32fd",
+  "active": "b67cadfc4c421d02",
   "lastOpenFiles": [
     "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/La Compagnie de la sapinette.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/Chapitre 02 - La grotte aux Echos de la Mer.md",
-    "assets/camp.jpg",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 04.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/session 05.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/session 06.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/session 07 - 2021 07 04.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/session 08.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/session 10.md"
+    "Univers/DnD/Règles/Etats.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Pics du duel.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/📜Tablettes de Balor.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Ascension du Glacier.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/⚔La Corruption des marais.md",
+    "DM Corner/World Building/Mountains.md"
   ]
 }

@@ -8,18 +8,18 @@
 
 - Condition de Succès:  si 5 réussites avant 3 échecs.
 - Jet de groupe DC 14 (+/- 4), chacun pouvant utiliser:
-- 
+
 > [!QUOTE] Athletics
-> 		Through sheer physical prowess, you forge ahead through a particularly challenging section of the climb and anchor a piton beyond to help your companions.	
+> 		Par pure prouesse physique, vous vous frayez un chemin à travers une section particulièrement difficile de l'escalade et ancrez un piton au-delà pour aider vos compagnons.
 
 >[!QUOTE] Acrobatics
-> 		 Through a feat of flexibility and balance, you leverage footholds and handholds unreachable by your companions to forge ahead and anchor more pitons.
+> 		 Grâce à un exploit de souplesse et d'équilibre, vous tirez parti de prises de pied et de poignées inaccessibles à vos compagnons pour aller de l'avant et ancrer d'autres pitons.
 
 >[!QUOTE] Nature
-> 		 The PC searches for roots thick and hardy enough to temporarily support a climber's weight.
+> 		 Le PC cherche des racines suffisamment épaisses et résistantes pour supporter temporairement le poids d'un grimpeur.
 
 >[!QUOTE] _**Survival/Perception/Investigation**_
-> 		 Succeeding on this check does not count toward the skill challenge. The PC devotes their turn to searching for weak spots in the rock wall that might break free. If the PC succeeds this check, the next PC gets advantage on their check.
+> 		Réussir ce test ne compte pas pour le défi de compétence. Le PC consacre son tour à la recherche de points faibles dans la paroi rocheuse qui pourraient se détacher. Si le PC réussit ce test, le PC suivant bénéficie d'un avantage sur son test.
 
 - En cas d'échecs:
 	- 1 echec simple: **Setback** sur celui qui a fait le moins bon lancé.
