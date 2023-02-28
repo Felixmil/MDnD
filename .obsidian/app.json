@@ -31,5 +31,12 @@
   ],
   "promptDelete": false,
   "legacyEditor": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "foldIndent": false,
+  "showIndentGuide": false
 }

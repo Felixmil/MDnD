@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "grotte-aux-echos-de-la-mer",
-      "lastAccessed": 1676145175297,
+      "lastAccessed": 1677577767198,
       "markers": [
         {
           "id": "ID_18e9eaeae96b",
@@ -385,6 +385,38 @@
           "loc": [
             -10.19775390625,
             7.172083868425663
+          ],
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a7a78883bea",
+          "type": "default",
+          "loc": [
+            -8.401611328125,
+            6.246454095424748
+          ],
+          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b095b89d84a",
+          "type": "default",
+          "loc": [
+            -2.651611328125,
+            1.635558516929108
           ],
           "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
           "mutable": true,

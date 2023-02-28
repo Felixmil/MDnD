@@ -16,7 +16,7 @@
               "state": {
                 "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 14 - 2023 03 20.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "pinned": true
             }
@@ -27,9 +27,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -258,8 +258,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b67cadfc4c421d02",
+  "active": "49d01d2f12cdfde6",
   "lastOpenFiles": [
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 14 - 2023 03 20.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 13 - 2023 02 27.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/📜Tablettes de Balor.md",
@@ -268,7 +269,6 @@
     "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Camping dans la tourbière.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/⚔La Corruption des marais.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Col de la chavade.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Pics du duel.md"
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Col de la chavade.md"
   ]
 }
