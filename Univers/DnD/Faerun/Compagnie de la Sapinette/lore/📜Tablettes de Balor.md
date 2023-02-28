@@ -3,6 +3,12 @@
 >[!QUOTE] 💬
 > Une dalle minérale de 20cmx30 cm et de 3 cm d'épaisseur environ. Elle est taillée dans une sorte d'obsidienne mat et glaciale. Des inscriptions sont gravée sur l'une des faces.
 
+### Apesanteur
+Les tablettes flottent au dessus du sol et s'orientent vers ceux dont le destin est lié à Balor.
+
+### Comportement Quantique
+Si la tablette est déplacée de son emplacement, elle s'y téléporte dès que la personne interagissant avec la quitte des yeux. Ceci ne se produit pas si le destin de cette personne est lié à Balor.
+
 ## Lore
 Ce sont les artefacts maudits que [🟥Balor](../PNJ/🟥Balor.md) utilise pour corrompre le coeur et la nature des habitants du plan matériel.
 

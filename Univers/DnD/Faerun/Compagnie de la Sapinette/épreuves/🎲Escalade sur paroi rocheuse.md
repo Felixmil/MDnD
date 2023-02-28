@@ -2,7 +2,8 @@
 
 
 > [!QUOTE] Description
-> "Before you stretches a massive, towering cliff face, its rough surface climbing skyward with jagged rocks and steep ledges. The base of the cliff disappears into the mist, the top lost in the clouds. It looms over you, a daunting challenge that will test the limits of your strength and endurance. The only way forward is up, and you'll have to find hand-holds and footholds in the rough terrain to make your ascent. Will you rise to the challenge and scale this towering behemoth, or will you be defeated by its sheer height?"
+> "Devant vous s'étend une falaise massive et imposante, dont la surface rugueuse grimpe vers le ciel avec des rochers déchiquetés et des corniches abruptes. La base de la falaise disparaît dans la brume, le sommet se perd dans les nuages. Elle se dresse au-dessus de vous, un défi intimidant qui testera les limites de votre force et de votre endurance. Le seul moyen d'avancer est de monter, et vous devrez trouver des prises de main et de pied dans le terrain accidenté pour faire votre ascension. Relèverez-vous le défi et escaladerez-vous ce mastodonte, ou serez-vous vaincu par sa hauteur ?"
+
 
 # Escalade
 
@@ -31,10 +32,10 @@
 		- Un pan entier de rocher s'effondre
 		- La suite de la montée est simplifiée et peut etre gravit sans plus de risque.
 
-		| Character Level | Setback | Dangerous | Deadly |
-		| --------------- | ------- | --------- | ------ |
-		| 1st-4th         | 1d10    | 2d10      | 4d10 - # success   |
-		| 5th-10th        | 2d10    | 4d10      | 10d10 - # success x 2  |
+		| Character Level | Setback | Dangerous | Deadly                |
+		| --------------- | ------- | --------- | --------------------- |
+		| 1st-4th         | 1d10    | 2d10      | 4d10 - # success      |
+		| 5th-10th        | 2d10    | 4d10      | 10d10 - # success x 2 |
 	
 
 # Alcôve Secrète

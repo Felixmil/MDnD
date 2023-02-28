@@ -1,7 +1,8 @@
 #📍Lieu
 
 > [!QUOTE] Description
-> 
+> Surplombant votre position, une gigantesque montagne. Son sommets, ou plutôt *ses* sommets sont formées de deux pics pointant l'un vers l'autre et séparé par une crevasse. Reidoth vous explique qu'on l'appel le pic du duel.
+> ![](https://i.pinimg.com/originals/dc/06/da/dc06da2c42a0f28ffc0e603fb94c8e3e.jpg)
 
 # Structure
 ```mermaid
