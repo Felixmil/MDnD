@@ -15,25 +15,50 @@
               "type": "markdown",
               "state": {
                 "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 14 - 2023 03 20.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "070c99363573e075",
+            "id": "520910e98baae262",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
-                "mode": "preview",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a0b89657b294d1a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Ascension du Glacier.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "152097e0a87bc3b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Col de la chavade.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 14 - 2023 03 20.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 14 - 2023 03 20.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,17 +283,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49d01d2f12cdfde6",
+  "active": "520910e98baae262",
   "lastOpenFiles": [
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 14 - 2023 03 20.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Ascension du Glacier.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Col de la chavade.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
+    "Untitled.canvas",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 13 - 2023 02 27.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/📜Tablettes de Balor.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Tablette Ancienne.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Camping dans la tourbière.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/⚔La Corruption des marais.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Col de la chavade.md"
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/⚔La Corruption des marais.md"
   ]
 }
