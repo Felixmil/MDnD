@@ -210,7 +210,12 @@
   "leafletIntegration": true,
   "playerMarker": "default",
   "monsterMarker": "default",
-  "state": null,
+  "state": {
+    "creatures": [],
+    "state": false,
+    "round": 1,
+    "logFile": ""
+  },
   "condense": true,
   "clamp": true,
   "autoStatus": true,
@@ -332,5 +337,8 @@
   "additiveTemp": false,
   "logging": false,
   "logFolder": "/",
-  "integrateSRD": true
+  "useLegacy": false,
+  "integrateSRD": true,
+  "diplayPlayerHPValues": true,
+  "rollHP": false
 }

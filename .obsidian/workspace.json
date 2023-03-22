@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49d01d2f12cdfde6",
+            "id": "36a959b683816592",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 14 - 2023 03 20.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0094d1808e28f112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -28,19 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a0b89657b294d1a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Ascension du Glacier.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -56,9 +54,20 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d94bce0bd1ed3b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 14 - 2023 03 20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 14 - 2023 03 20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +243,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "063c7c9283d55fe4",
+            "id": "170abeba0901a62e",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -242,25 +251,10 @@
             }
           },
           {
-            "id": "c18ba56163bd08ab",
+            "id": "84a9ce5b046d662d",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8ec4922ed90499de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e689e7c9f420ff15",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
               "state": {}
             }
           }
@@ -279,18 +273,23 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "520910e98baae262",
+  "active": "36a959b683816592",
   "lastOpenFiles": [
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/✨Yourte Elfique.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 14 - 2023 03 20.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Ascension du Glacier.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Col de la chavade.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
-    "Untitled.canvas",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Col de la chavade.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Portique de gazog.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/📜Légende de Gazog.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Ascension du Glacier.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/Gazog.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
+    "Untitled.canvas",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 13 - 2023 02 27.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/📜Tablettes de Balor.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Tablette Ancienne.md",

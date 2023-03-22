@@ -7,6 +7,5 @@
 
 ## Le départ de Reidoth
 
-Après une courte pause, [🟦Reidoth](../PNJ/🟦Reidoth.md) quitte le groupe en indiquant qu'il part enquêter sur les évènement troublant qui se sont déroulé au Tertre du Tonnerre. 
-Il indique la suite du chemin en assurant qu'il ne devrait pas y avoir de
+Après une courte pause, [🟦Reidoth](../PNJ/🟦Reidoth.md) quitte le groupe en indiquant qu'il part enquêter sur les évènement troublant qui se sont déroulé au Tertre du Tonnerre.
 
