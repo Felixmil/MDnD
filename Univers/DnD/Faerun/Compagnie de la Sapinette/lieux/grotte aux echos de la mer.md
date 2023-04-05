@@ -7,16 +7,15 @@ image: ../../../../../assets/Pasted%20image%2020230208165202.jpg
 ```
 # Général
 
-## Rencontres aléatoires: `dice: [](📍Grotte%20aux%20echos%20de%20la%20mer.md#^ecounter)`
+## Rencontres aléatoires: 
 
-### Tables
+`dice: [](Grotte%20aux%20Echos%20de%20la%20Mer.md#^ecounter)`
 
 | dice:1d20 | Result                                                                    |
 | --------- | ------------------------------------------------------------------------- |
 | 1–16      | No Encounter                                                              |
-| 17-20     | `dice: [](📍Grotte%20aux%20echos%20de%20la%20mer.md#^wandering-monsters)` |
+| 17-20     | `dice: [](Grotte%20aux%20echos%20de%20la%20mer.md#^wandering-monsters)` |
 ^ecounter
-
 
 | dice: 1d12 | Result                      |
 | ---------- | --------------------------- |
@@ -31,7 +30,7 @@ image: ../../../../../assets/Pasted%20image%2020230208165202.jpg
 
 
 
-## Echo
+## Echos
 
 Partie 1 : Alors que vous traversez Wave Echo Cave, vous commencez à entendre un son qui ne ressemble à rien de ce que vous avez entendu auparavant. Le martèlement rythmique se répercute dans la caverne, devenant plus fort et plus intense à chaque pas. La source du bruit semble venir du nord-est, et vous ne pouvez vous empêcher de penser que quelque chose de vraiment extraordinaire vous attend.
 
