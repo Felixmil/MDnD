@@ -1,3 +1,4 @@
+#session
 # Seance 03 - 2021-05-04
 
 ## Strong Start

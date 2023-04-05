@@ -1,3 +1,4 @@
+#session
 # Session 0 - 18 Mar 2021
 
 ## Introduction Toril / Faerun / Sword Coast

@@ -11,6 +11,6 @@ level: 3
 
 
 
-La mort du père de Boltror à été causée indirectement par [🟥Balor](../PNJ/🟥Balor.md) qui a corrompu le cœur de certains membre de sa tribu.
+La mort du père de Boltror à été causée indirectement par [Balor](../PNJ/Balor.md) qui a corrompu le cœur de certains membre de sa tribu.
 
-Lors du triste incident, Boltror a vu le traitre porter entre ses main l'une des [📜Tablettes de Balor](../lore/📜Tablettes%20de%20Balor.md). Objet dont il ignore l'implication avant de trouver un exemplaire similaire au [📍Syphon de glaise](../lieux/📍Syphon%20de%20glaise.md)
+Lors du triste incident, Boltror a vu le traitre porter entre ses main l'une des [Tablettes de Balor](../lore/Tablettes%20de%20Balor.md). Objet dont il ignore l'implication avant de trouver un exemplaire similaire à celui de [La Corruption des marais](../épreuves/La%20Corruption%20des%20marais.md) dans la [Tourbière Embrumée](../lieux/Tourbière%20Embrumée.md).

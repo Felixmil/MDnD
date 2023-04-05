@@ -7,13 +7,13 @@
 >  
 >  Le vent se lève de nouveaux, mais le brouillard reste. La temperature chute et l'air devient glacial tendi que vos visage sont foutté par les particules d'eau en suspension. Les volutes de brouillard vous laisse entrevoir des petits ruisseau
 
-- [⚔Etang aux croco](../épreuves/⚔Etang%20aux%20croco.md)
-- [⚔La Corruption des marais](../épreuves/⚔La%20Corruption%20des%20marais.md)
-- [🔎Tablette Ancienne](../découverte/🔎Tablette%20Ancienne.md)
-- [🎲Camping dans la tourbière](../épreuves/🎲Camping%20dans%20la%20tourbière.md)
+- [Etang aux croco](../épreuves/Etang%20aux%20croco.md)
+- [La Corruption des marais](../épreuves/La%20Corruption%20des%20marais.md)
+- [Tablette Ancienne](../objets/Tablette%20Ancienne.md)
+- [Camping dans la tourbière](../épreuves/Camping%20dans%20la%20tourbière.md)
 
 ## Lore
 
-Selon la [📜Légende de Gazog](../lore/📜Légende%20de%20Gazog.md),  la tourbière embrumée est liée à la folie et la disparition du royaume de Gazog.
+Selon la  [[Légende de Gazog]],  la tourbière embrumée est liée à la folie et la disparition du royaume de Gazog.
 
 

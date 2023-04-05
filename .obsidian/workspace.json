@@ -4,22 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "b2df1f5bd1ab1910",
+        "id": "1952446cbd0db430",
         "type": "tabs",
         "children": [
           {
-            "id": "36a959b683816592",
+            "id": "17bf72f2f49e5ce4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "659889a99d3300a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/✨Yourte Elfique.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Boltror.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5e3e21b2054cfad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/Portique de gazog.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "49cfa7ebcd2f8618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/La Compagnie de la sapinette.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "65e5cc22d1c53895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/La Corruption des marais.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5951f740fc4f8754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/Tourbière Embrumée.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0ce161ad65da09a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/Tablettes de Balor.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bb268719f0a2f88c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d095eafefff4fcb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/La Corruption des marais.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9c84ee0b14b25d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/Tablettes de Balor.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -59,10 +160,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🎲épreuve",
+                "query": "légende",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -97,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/✨Yourte Elfique.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/Tablettes de Balor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/✨Yourte Elfique.md",
+                "file": "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/Tablettes de Balor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,12 +280,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 623.5
   },
   "right": {
     "id": "26f8d80a5b064401",
@@ -229,24 +329,37 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "36a959b683816592",
+  "active": "b67cadfc4c421d02",
   "lastOpenFiles": [
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 14 - 2023 03 20.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Col de la chavade.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Caverne Gelée.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Campement d'explorateurs.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/✨Yourte Elfique.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍Portique de gazog.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/Tourbière Embrumée.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/La Corruption des marais.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/La Compagnie de la sapinette.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/Portique de gazog.md",
+    "PNJ/Visage.md",
+    "PNJ",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Boltror.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/Esprit des marais.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/Tablettes de Balor.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PNJ/Gundren Chercheroche.md",
+    "lore/📜Légende de Gazog.md",
+    "lore",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/Pics du duel.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/Phandalin.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/grotte aux echos de la mer.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PNJ/Anzhong Daku.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PNJ/Balor.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PNJ/Croc Venin.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PNJ/Dekishi.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PNJ/L'Araignée Noire.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PNJ/Nundro Chercheroche.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PNJ/Reidoth.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Timrinn.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Pohw.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Alkanor.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Haey.md",
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/L'Enclave d'Emeraude.md",
     "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/📜Légende de Gazog.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Ascension du Glacier.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/Gazog.md",
-    "Untitled.canvas",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/sessions/Session 13 - 2023 02 27.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/lore/📜Tablettes de Balor.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/découverte/🔎Tablette Ancienne.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Escalade sur paroi rocheuse.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/🎲Camping dans la tourbière.md",
-    "Univers/DnD/Faerun/Compagnie de la Sapinette/épreuves/⚔La Corruption des marais.md"
+    "Univers/DnD/Faerun/Compagnie de la Sapinette/objets",
+    "Untitled.canvas"
   ]
 }

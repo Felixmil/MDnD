@@ -1,10 +1,10 @@
-#🎲épreuve
+#🎲Epreuve/⚡Environnement
 
 
 > [!QUOTE] Description
 > -   Devant vous s'étend un glacier majestueux. Ses parois de glace bleue étincellent sous les rayons du soleil. Il est immense, ses crevasses sont profondes donnant l'impression d'un labyrinthe mortel. Vous etes envelopé par la fraicheur glaciale qui vous rappelle encore une fois la puissance de la nature.
 
-![Escalade](🎲Escalade%20sur%20paroi%20rocheuse.md#Escalade)
+![Escalade](Escalade%20sur%20paroi%20rocheuse.md#Escalade)
 
 - 3 manches, DC 12, 13, 14, 15 et 16, 3 réussite avant 2 echecs.
 	> [!QUOTE] Description

@@ -1,3 +1,4 @@
+#session
 # Session 06 - 2021-06-09
 
 ## Strong Start

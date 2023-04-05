@@ -1,4 +1,4 @@
-#🎲épreuve
+#🎲Epreuve/⚡Environnement
 
 La navigation devient très difficile et tout le monde est épuisés et trempé, Reidoth suggère de trouver un endroit pour établir le camp.
 

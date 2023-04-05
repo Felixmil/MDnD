@@ -213,6 +213,7 @@
   "state": {
     "creatures": [],
     "state": false,
+    "name": null,
     "round": 1,
     "logFile": ""
   },

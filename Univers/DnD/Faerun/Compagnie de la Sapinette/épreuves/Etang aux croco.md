@@ -1,4 +1,4 @@
-#🎲épreuve
+#🎲Epreuve/⚔️Combat
 
 ## Description
 

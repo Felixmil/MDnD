@@ -1,4 +1,4 @@
-#🔎découverte
+#📍Lieu
 
 
 > [!QUOTE] Description
@@ -7,5 +7,5 @@
 
 ## Le départ de Reidoth
 
-Après une courte pause, [🟦Reidoth](../PNJ/🟦Reidoth.md) quitte le groupe en indiquant qu'il part enquêter sur les évènement troublant qui se sont déroulé au Tertre du Tonnerre.
+Après une courte pause, [Reidoth](../PNJ/Reidoth.md) quitte le groupe en indiquant qu'il part enquêter sur les évènement troublant qui se sont déroulé au Tertre du Tonnerre.
 

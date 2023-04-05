@@ -48,7 +48,7 @@ Partie 3 : Vous atteignez finalement la source du son, et vos yeux s'élargissen
 > La section nord-est de la caverne s'est effondrée, formant une fosse de dix pieds de large et de vingt pieds de profondeur. Une solide corde de chanvre est attachée à une stalagmite voisine et pend sur le côté du puits, au fond duquel se trouve un tunnel grossièrement taillé qui se dirige vers le nord-ouest et l'est.
 
 
-### Gouffre #🎲épreuve 
+### Gouffre #🎲Epreuve 
 
 - Profond de 6m
 - Test de Force (Athletisme) DC 15.
@@ -62,7 +62,7 @@ Partie 3 : Vous atteignez finalement la source du son, et vos yeux s'élargissen
 > [!QUOTE] Description
 > This area consists of numerous intersecting passages. The ceilings here are only six feet high, and several of the passages end in partially excavated rock faces.
 
-### Gelée Ochre #🎲épreuve 
+### Gelée Ochre #🎲Epreuve 
 
 ```encounter
 name: Gelée Ochre
@@ -75,7 +75,7 @@ creatures:
 > [!QUOTE] Description
 > De nombreux tunnels se croisent dans cette caverne naturelle de trente pieds de haut. Les murs sont sculptés de simples reliefs représentant des mineurs nains et gnomes au travail. En dessous d'eux, près de deux douzaines de squelettes portant des débris d'armures rouillées sont éparpillés sur le sol de la caverne. Certains sont des squelettes de nains, d'autres des restes d'orcs. Une demi-douzaine de grandes lanternes en cuivre se trouvent dans des niches ou sur des rebords autour de la caverne, mais aucune n'est allumée.
 
-### Stirges #🎲épreuve 
+### Stirges #🎲Epreuve 
 
 ```encounter
 name: Stirges
@@ -90,7 +90,7 @@ Surprise des PJ. Stirge Discretion: DC 16
 > [!QUOTE] Description
 >  Des bancs de pierre éclatés et des tas de gravats provenant d'un plafond partiellement effondré remplissent cette pièce. Les ossements de plusieurs nains et orcs se trouvent parmi les lits de pierre en ruine et les supports d'armes renversés.
 
-### Squelettes #🎲épreuve 
+### Squelettes #🎲Epreuve 
 ```encounter
 name: Squelettes
 creatures:
@@ -102,18 +102,18 @@ creatures:
 > [!QUOTE] Description
 > Cette pièce était autrefois un bureau ou un entrepôt. Un grand comptoir en pierre divise la pièce en deux, avec trois balances poussiéreuses en fer. Des renfoncements creusés dans le mur nord sont remplis de bouts de papier poussiéreux. Plusieurs cadavres morts depuis longtemps -gnomes et orcs d'après leur apparence- sont étalés sur le sol.
 
-### Trésor #🔎découverte 
+### Trésor #🔎Découverte 
 Derrière le comptoir se trouve un coffre-fort en fer verrouillé, nécessitant des outils de voleur et un test de Dextérité DC 20 réussi pour l'ouvrir. Ce coffre a été oublié pendant le combat et contient 600 cp, 180 sp, 90 ep, et 60 gp.
 
 ## 6 - Baraquements Suds
-### Ecouter à la porte #🎲épreuve 
+### Ecouter à la porte #🎲Epreuve 
 
 Tout personnage qui écoute à la porte partiellement ouverte entend de faibles bruits de craquement et d'éclatement en réussissant un test de Sagesse (Perception) DC 10.
 
 > [!QUOTE] Description
 > De vieilles couchettes en pierre disposées en rangs ordonnés bordent les murs de cette chambre, et un brasero en fer corrodé rempli de vieux charbons se trouve près du milieu de la pièce. Les os d'une demi-douzaine de nains et d'orcs sont éparpillés, vêtus de débris d'armure. Trois silhouettes grises et voûtées sont accroupies parmi les restes, tripotant les restes et rongeant les os.
 
-### Ghoules #🎲épreuve 
+### Ghoules #🎲Epreuve 
 ```encounter
 name: Ghoules
 creatures:
@@ -133,7 +133,7 @@ Ce n'est pas confortable, mais la réserve est un lieu de repos sûr. Aucun mons
 > [!QUOTE] Description
 > Des tapis denses de champignons étranges couvrent de grandes sections du sol de cette caverne. On y trouve des boules d'un pied de diamètre, d'étranges champignons d'étagère poussant sur les stalagmites, ainsi que de grandes tiges et des chapeaux d'un bon mètre cinquante de haut. Certaines de ces boules brillent d'une étrange phosphorescence verte.
 
-### Gaz Empoisonné #🎲épreuve 
+### Gaz Empoisonné #🎲Epreuve 
 
 Chaque fois qu'une créature tente de traverser la caverne, les tapis de champignons qui recouvrent la majeure partie du sol libèrent un gaz toxique dans l'air. Chaque créature dans la caverne doit réussir un jet de sauvegarde de **Constitution DC 11** ou subir** 3d6 dégâts de poison** et être [Empoisonné [Poisoned]](../../../Règles/Etats.md#Empoisonné%20[Poisoned]) pendant 10 minutes. Le gaz se disperse après 1 minute, mais d'ici là, toute créature vivante qui termine son tour dans la caverne doit répéter le jet de sauvegarde.
 
@@ -142,7 +142,7 @@ Chaque fois qu'une créature tente de traverser la caverne, les tapis de champig
 > [!QUOTE] Description
 > Des escarpements abrupts divisent cette grande caverne en trois sections - des corniches élevées à chaque extrémité, et une section plus basse au milieu. Des escaliers en pierre sculptée montent jusqu'aux corniches. Deux grandes tables se trouvent dans la section centrale, ainsi qu'une paire de vieux braseros. Une table plus petite se trouve sur le rebord oriental. Les restes squelettiques de dizaines de guerriers morts - nains, gnomes, orcs et ogres - témoignent de la férocité des combats qui ont eu lieu ici il y a longtemps.
 
-### Goules #🎲épreuve 
+### Goules #🎲Epreuve 
 ```encounter
 name: Ghoules
 creatures:
@@ -159,15 +159,15 @@ Les escarpements font 3 mètres de haut et il faut réussir un test de **Force (
 > 
 > A passage leads south from this area, and a set of steps climbs up to the east. A sluggish stream flows out of the cave to the northeast.
 
-### Passage vers [18 - La Caverne Effondrée](#18%20-%20La%20Caverne%20Effondrée) #🔎découverte 
+### Passage vers [18 - La Caverne Effondrée](#18%20-%20La%20Caverne%20Effondrée) #🔎Découverte 
 Le bassin est profond de 20 pieds au milieu. Le ruisseau au nord-est est profond de 3 pieds, et le plafond du passage est à 2 ou 3 pieds au-dessus de l'eau. Les personnages peuvent facilement traverser le ruisseau jusqu'à la zone 18.
 
-### Trésor #🔎découverte 
+### Trésor #🔎Découverte 
 Un personnage qui explore le bassin trouve un vieux squelette couché au fond, à trois mètres du rivage et sous trois mètres d'eau. Il s'agit des restes d'un sorcier humain de l'ancienne Phandalin qui est mort en défendant les mines contre les attaquants orcs. Plusieurs flèches orques sont encore logées dans la cage thoracique du squelette.
 Le squelette porte deux anneaux de platine (75 gp chacun) et serre une baguette de missiles magiques dans ses doigts osseux.
 
 ## 11 - Baraquements Nords
-### Porte Est barricadée #🎲épreuve 
+### Porte Est barricadée #🎲Epreuve 
 La porte Est est barricadée de l'intérieur de la pièce et nécessite un test de **Force DC 20** réussi pour la forcer. Un personnage qui écoute à l'une ou l'autre des portes et qui réussit un test de **Sagesse (Perception) DC 10** entend des voix bourrues parlant le gobelin et disant à quel point ils ont faim.
 
 
@@ -176,13 +176,13 @@ La porte Est est barricadée de l'intérieur de la pièce et nécessite un test 
 > 
 > +Si personnages arrivent du couloir: De l'autre côté de la pièce se trouve une autre porte, celle-ci étant bloquée par une barricade faite des restes d'une table en bois.
 
-### Gobelours #🎲épreuve 
+### Gobelours #🎲Epreuve 
 ```encounter
 creatures:
   - 5: Bugbear
 ```
 
-### Trésor #🔎découverte 
+### Trésor #🔎Découverte 
 Le plus grand bugbear porte une pochette contenant 15 cp. 13ep, et une [potion de vitalité](https://www.dndbeyond.com/magic-items/5360-potion-of-vitality).
 
 ## 12 - La Fonderie
@@ -212,20 +212,20 @@ Le fond du canal est à 1,5 m sous le niveau du sol, et aucun test d'aptitude n'
 > 
 > Des passages mènent de cette zone vers le nord, le sud et l'ouest.
 
-### Les cristaux #🔎découverte 
+### Les cristaux #🔎Découverte 
 Les bâtiments endommagés sont décrits dans les zones 14 et 15. Les minéraux dans le plafond sont jolis, mais ils ne sont ni magiques ni précieux.
 
 Tout personnage **compétent en Arcane** peut sentir une subtile aura de magie dans cette caverne. (Un sort de détection de la magie révèle la même chose.) L'aura devient plus forte à mesure que l'on s'approche du bâtiment nord (zone 15).
 
 ## 14 - Quartiers des Magiciens
 
-### Porte verouillée #🎲épreuve 
+### Porte verouillée #🎲Epreuve 
 Les portes menant à cette zone sont fissurées, leurs charnières en fer ayant partiellement fondu. Pour ouvrir les portes, il faut réussir un test de Force DC 15.
 
 > [!QUOTE] Description
 > La poussière, la cendre, les murs noircis par le feu et les amas de débris sous le plafond affaissé montrent que cette pièce a été endommagée par une explosion destructrice. Le mobilier - tables, chaises, étagères, lits - est carbonisé ou éclaté, mais bien conservé. Un coffre en fer brûlé se trouve près du pied de l'un des lits.
 
-### Mormesk le spectre #🎲épreuve 
+### Mormesk le spectre #🎲Epreuve 
 - Sort du sol lorsque les PJ entrent dans la pièce
 > [!QUOTE] Mormesk
 > Un spectre d'humain mais en décomposition, portant une longue robe déchirée et un baton.
@@ -235,7 +235,7 @@ Les portes menant à cette zone sont fissurées, leurs charnières en fer ayant 
 	- Si les PJ parlent, il écoute ce qu'ils ont à dire et leur suggèrent une offrande. Il accepte les objets magiques et en particulier les parchemin avec test de Charisme (Persuasion) DC 10 pour convaincre le spectre de sa valeur.
 	- Si les PJ volent ses biens: il attaque
 
-### Trésor #🔎découverte 
+### Trésor #🔎Découverte 
 
 
 

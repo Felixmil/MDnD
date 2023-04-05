@@ -5,24 +5,24 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#👤PJ",
       "color": {
         "a": 1,
-        "rgb": 14606418
+        "rgb": 16774912
       }
     },
     {
       "query": "tag:#📍Lieu",
       "color": {
         "a": 1,
-        "rgb": 7426784
+        "rgb": 1720
       }
     },
     {
-      "query": "tag:#🎲épreuve",
+      "query": "tag:#🎲Epreuve",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -32,14 +32,21 @@
       "query": "tag:#👥PNJ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 9481214
       }
     },
     {
       "query": "tag:#📜Lore",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 8846996
+      }
+    },
+    {
+      "query": "tag:#session",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225858186,
+  "scale": 0.5087618855792657,
   "close": true
 }
