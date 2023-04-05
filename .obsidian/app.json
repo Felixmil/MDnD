@@ -34,9 +34,10 @@
   "showUnsupportedFiles": true,
   "defaultViewMode": "preview",
   "livePreview": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": false,
   "showFrontmatter": false,
   "foldIndent": false,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "foldHeading": true
 }

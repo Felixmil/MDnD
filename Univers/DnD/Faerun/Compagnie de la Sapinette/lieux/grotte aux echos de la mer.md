@@ -2,6 +2,7 @@
 
 ```leaflet
 id: grotte-aux-echos-de-la-mer
+height: 1000px
 image: ../../../../../assets/Pasted%20image%2020230208165202.jpg
 ```
 # Général
@@ -47,110 +48,115 @@ Partie 3 : Vous atteignez finalement la source du son, et vos yeux s'élargissen
 > 
 > La section nord-est de la caverne s'est effondrée, formant une fosse de dix pieds de large et de vingt pieds de profondeur. Une solide corde de chanvre est attachée à une stalagmite voisine et pend sur le côté du puits, au fond duquel se trouve un tunnel grossièrement taillé qui se dirige vers le nord-ouest et l'est.
 
+>[!DANGER] Gouffre #🎲Epreuve/⚡Environnement 
+> - Profond de 6m
+> - Test de Force (Athletisme) DC 15.
+>	- Si échoué de 5: chute de 3m (`dice: 1d6` dgts)
+>	- Si échoué de 10 +: chute de 6m (`dice: 2d6` dgts)
 
-### Gouffre #🎲Epreuve 
 
-- Profond de 6m
-- Test de Force (Athletisme) DC 15.
-	- Si échoué de 5: chute de 3m (`dice: 1d6` dgts)
-	- Si échoué de 10 +: chute de 6m (`dice: 2d6` dgts)
-### Trésor
-- Dans le campement abandonné, on peu trouver un paire de [Bottes de Rebond](https://www.dndbeyond.com/magic-items/4590-boots-of-striding-and-springing)
+>[!SUCCESS] Bottes de Rebond #✨Objet 
+>-**Investigation DD 14** Dans le campement abandonné, on peu trouver un paire de [Bottes de Rebond](https://www.dndbeyond.com/magic-items/4590-boots-of-striding-and-springing) au fond d'un duvet.
+
 
 ## 2 - Tunnels
 
 > [!QUOTE] Description
-> This area consists of numerous intersecting passages. The ceilings here are only six feet high, and several of the passages end in partially excavated rock faces.
+> Cette zone est constituée de nombreux passages qui se croisent. Les plafonds n'ont que 2m de haut et plusieurs passages se terminent par des parois rocheuses partiellement excavées.
 
-### Gelée Ochre #🎲Epreuve 
+>[!DANGER] Gelée Ochre #🎲Epreuve/⚔️Combat  
+>```encounter
+>creatures:
+>  - 1: Ochre Jelly
+>```
 
-```encounter
-name: Gelée Ochre
-creatures:
-  - 1: Ochre Jelly
-```
 
 ## 3 - Ancienne Entrée
 
 > [!QUOTE] Description
 > De nombreux tunnels se croisent dans cette caverne naturelle de trente pieds de haut. Les murs sont sculptés de simples reliefs représentant des mineurs nains et gnomes au travail. En dessous d'eux, près de deux douzaines de squelettes portant des débris d'armures rouillées sont éparpillés sur le sol de la caverne. Certains sont des squelettes de nains, d'autres des restes d'orcs. Une demi-douzaine de grandes lanternes en cuivre se trouvent dans des niches ou sur des rebords autour de la caverne, mais aucune n'est allumée.
 
-### Stirges #🎲Epreuve 
+>[!WARNING] Stirges Cachées
+>**Perception DD 16**: Surprise des PJ
 
-```encounter
-name: Stirges
-creatures:
-  - 10: Stirge
-```
 
-Surprise des PJ. Stirge Discretion: DC 16
+>[!DANGER] Stirges #🎲Epreuve/⚔️Combat  
+>```encounter
+>creatures:
+>  - 10: Stirge
+>```
+
+
+
+
 
 ## 4 - Salle des Gardes
 
 > [!QUOTE] Description
 >  Des bancs de pierre éclatés et des tas de gravats provenant d'un plafond partiellement effondré remplissent cette pièce. Les ossements de plusieurs nains et orcs se trouvent parmi les lits de pierre en ruine et les supports d'armes renversés.
 
-### Squelettes #🎲Epreuve 
-```encounter
-name: Squelettes
-creatures:
-  - 9: Skeleton
-```
+
+>[!DANGER] Squelettes #🎲Epreuve   
+>```encounter
+>creatures:
+>  - 9: Skeleton
+>```
 
 ## 5 - Bureau des intendant de la mine
 
 > [!QUOTE] Description
 > Cette pièce était autrefois un bureau ou un entrepôt. Un grand comptoir en pierre divise la pièce en deux, avec trois balances poussiéreuses en fer. Des renfoncements creusés dans le mur nord sont remplis de bouts de papier poussiéreux. Plusieurs cadavres morts depuis longtemps -gnomes et orcs d'après leur apparence- sont étalés sur le sol.
 
-### Trésor #🔎Découverte 
-Derrière le comptoir se trouve un coffre-fort en fer verrouillé, nécessitant des outils de voleur et un test de Dextérité DC 20 réussi pour l'ouvrir. Ce coffre a été oublié pendant le combat et contient 600 cp, 180 sp, 90 ep, et 60 gp.
+>[!SUCCESS] Trésor 
+> Derrière le comptoir se trouve un coffre-fort en fer verrouillé, nécessitant des outils de voleur et un test de Dextérité DC 20 réussi pour l'ouvrir. Ce coffre a été oublié pendant le combat et contient 600 cp, 180 sp, 90 ep, et 60 gp.
 
 ## 6 - Baraquements Suds
-### Ecouter à la porte #🎲Epreuve 
 
-Tout personnage qui écoute à la porte partiellement ouverte entend de faibles bruits de craquement et d'éclatement en réussissant un test de Sagesse (Perception) DC 10.
+> [!WARNING] Ecouter à la porte #🎲Epreuve/⚡Environnement 
+> Tout personnage qui écoute à la porte partiellement ouverte entend de faibles bruits de craquement et d'éclatement en réussissant un test de Sagesse (Perception) DC 10.
 
 > [!QUOTE] Description
 > De vieilles couchettes en pierre disposées en rangs ordonnés bordent les murs de cette chambre, et un brasero en fer corrodé rempli de vieux charbons se trouve près du milieu de la pièce. Les os d'une demi-douzaine de nains et d'orcs sont éparpillés, vêtus de débris d'armure. Trois silhouettes grises et voûtées sont accroupies parmi les restes, tripotant les restes et rongeant les os.
 
-### Ghoules #🎲Epreuve 
-```encounter
-name: Ghoules
-creatures:
-  - 3: Ghoul
-```
+>[!DANGER] Ghoules #🎲Epreuve/⚔️Combat  
+> ```encounter
+> creatures:
+>   - 3: Ghoul
+> ```
+### 
 
 ## 7 - Entrepôt en ruine
 
 > [!QUOTE] Description
 > Le mur est de cette chambre s'est effondré en un amas de gravats. Au nord, une porte est entrouverte et mène à une réserve de bonne taille. Des fûts poussiéreux sont soigneusement rangés contre les murs, tous fendus et ouverts par l'âge.
 
-### Possibilité de repos
-Ce n'est pas confortable, mais la réserve est un lieu de repos sûr. Aucun monstre ne passe par ici. De plus, la porte de la réserve est en bon état et peut facilement être bloquée ou barrée de l'intérieur.
+>[!TIP] Possibilité de repos
+>Ce n'est pas confortable, mais la réserve est un lieu de repos sûr. Aucun monstre ne passe par ici. De plus, la porte de la réserve est en bon état et peut facilement être bloquée ou barrée de l'intérieur.
+
 
 ## 8 - Caverne aux Champignons
 
 > [!QUOTE] Description
 > Des tapis denses de champignons étranges couvrent de grandes sections du sol de cette caverne. On y trouve des boules d'un pied de diamètre, d'étranges champignons d'étagère poussant sur les stalagmites, ainsi que de grandes tiges et des chapeaux d'un bon mètre cinquante de haut. Certaines de ces boules brillent d'une étrange phosphorescence verte.
 
-### Gaz Empoisonné #🎲Epreuve 
 
-Chaque fois qu'une créature tente de traverser la caverne, les tapis de champignons qui recouvrent la majeure partie du sol libèrent un gaz toxique dans l'air. Chaque créature dans la caverne doit réussir un jet de sauvegarde de **Constitution DC 11** ou subir** 3d6 dégâts de poison** et être [Empoisonné [Poisoned]](../../../Règles/Etats.md#Empoisonné%20[Poisoned]) pendant 10 minutes. Le gaz se disperse après 1 minute, mais d'ici là, toute créature vivante qui termine son tour dans la caverne doit répéter le jet de sauvegarde.
+>[!DANGER] Gaz Empoisonné #🎲Epreuve/⚡Environnement   
+> Chaque fois qu'une créature tente de traverser la caverne, les tapis de champignons qui recouvrent la majeure partie du sol libèrent un gaz toxique dans l'air. Chaque créature dans la caverne doit réussir un jet de sauvegarde de **Constitution DC 11** ou subir** 3d6 dégâts de poison** et être [Empoisonné [Poisoned]](../../../Règles/Etats.md#Empoisonné%20[Poisoned]) pendant 10 minutes. Le gaz se disperse après 1 minute, mais d'ici là, toute créature vivante qui termine son tour dans la caverne doit répéter le jet de sauvegarde.
 
 ## 9 - Grande Caverne
 
 > [!QUOTE] Description
 > Des escarpements abrupts divisent cette grande caverne en trois sections - des corniches élevées à chaque extrémité, et une section plus basse au milieu. Des escaliers en pierre sculptée montent jusqu'aux corniches. Deux grandes tables se trouvent dans la section centrale, ainsi qu'une paire de vieux braseros. Une table plus petite se trouve sur le rebord oriental. Les restes squelettiques de dizaines de guerriers morts - nains, gnomes, orcs et ogres - témoignent de la férocité des combats qui ont eu lieu ici il y a longtemps.
 
-### Goules #🎲Epreuve 
-```encounter
-name: Ghoules
-creatures:
-  - 7: Ghoul
-```
 
-### Restanques
-Les escarpements font 3 mètres de haut et il faut réussir un test de **Force (athlétisme) DC 12** pour les escalader. Une créature qui tombe ou est renversée du haut d'une corniche subit **1d6 points de dégâts** de contendants et tombe à plat ventre.
+>[!DANGER] Goules #🎲Epreuve/⚔️Combat   
+> ```encounter
+> creatures:
+>   - 7: Ghoul
+> ```
+
+>[!WARNING] Restanques
+> Les escarpements font 3 mètres de haut et il faut réussir un test de **Force (athlétisme) DC 12** pour les escalader. Une créature qui tombe ou est renversée du haut d'une corniche subit **1d6 points de dégâts** de contendants et tombe à plat ventre.
 
 ## 10 - Le Bassin sombre
 
@@ -159,31 +165,33 @@ Les escarpements font 3 mètres de haut et il faut réussir un test de **Force (
 > 
 > A passage leads south from this area, and a set of steps climbs up to the east. A sluggish stream flows out of the cave to the northeast.
 
-### Passage vers [18 - La Caverne Effondrée](#18%20-%20La%20Caverne%20Effondrée) #🔎Découverte 
-Le bassin est profond de 20 pieds au milieu. Le ruisseau au nord-est est profond de 3 pieds, et le plafond du passage est à 2 ou 3 pieds au-dessus de l'eau. Les personnages peuvent facilement traverser le ruisseau jusqu'à la zone 18.
+> [!HINT] Passage vers [18 - La Caverne Effondrée](#18%20-%20La%20Caverne%20Effondrée)  
+> Le bassin est profond de 20 pieds au milieu. Le ruisseau au nord-est est profond de 3 pieds, et le plafond du passage est à 2 ou 3 pieds au-dessus de l'eau. Les personnages peuvent facilement traverser le ruisseau jusqu'à la zone 18.
 
-### Trésor #🔎Découverte 
+>[!SUCCESS] Trésor #✨Objet 
 Un personnage qui explore le bassin trouve un vieux squelette couché au fond, à trois mètres du rivage et sous trois mètres d'eau. Il s'agit des restes d'un sorcier humain de l'ancienne Phandalin qui est mort en défendant les mines contre les attaquants orcs. Plusieurs flèches orques sont encore logées dans la cage thoracique du squelette.
-Le squelette porte deux anneaux de platine (75 gp chacun) et serre une baguette de missiles magiques dans ses doigts osseux.
+Le squelette porte deux anneaux de platine (75 gp chacun) et serre une [baguette de missiles magiques](https://www.dndbeyond.com/magic-items/4794-wand-of-magic-missiles) dans ses doigts osseux.
+
 
 ## 11 - Baraquements Nords
-### Porte Est barricadée #🎲Epreuve 
-La porte Est est barricadée de l'intérieur de la pièce et nécessite un test de **Force DC 20** réussi pour la forcer. Un personnage qui écoute à l'une ou l'autre des portes et qui réussit un test de **Sagesse (Perception) DC 10** entend des voix bourrues parlant le gobelin et disant à quel point ils ont faim.
 
+>[!WARNING] Porte Est barricadée #🎲Epreuve/⚡Environnement 
+>La porte Est est barricadée de l'intérieur de la pièce et nécessite un test de **Force DC 20** réussi pour la forcer. Un personnage qui écoute à l'une ou l'autre des portes et qui réussit un test de **Sagesse (Perception) DC 10** entend des voix bourrues parlant le gobelin et disant à quel point ils ont faim.
 
 > [!QUOTE] Description
 > De vieilles couchettes en pierre bordent les murs de cette caserne, qui est éclairée et chauffée par un brasero en fer rougeoyant au milieu de la pièce.
 > 
-> +Si personnages arrivent du couloir: De l'autre côté de la pièce se trouve une autre porte, celle-ci étant bloquée par une barricade faite des restes d'une table en bois.
+> Si personnages arrivent du couloir: De l'autre côté de la pièce se trouve une autre porte, celle-ci étant bloquée par une barricade faite des restes d'une table en bois.
 
-### Gobelours #🎲Epreuve 
-```encounter
-creatures:
-  - 5: Bugbear
-```
+>[!DANGER] Gobelours #🎲Epreuve 
+> ```encounter
+> creatures:
+>   - 5: Bugbear
+> ```
+> 
 
-### Trésor #🔎Découverte 
-Le plus grand bugbear porte une pochette contenant 15 cp. 13ep, et une [potion de vitalité](https://www.dndbeyond.com/magic-items/5360-potion-of-vitality).
+>[!SUCCESS] Trésor #✨Objet 
+> Le plus grand bugbear porte une pochette contenant 15 cp. 13ep, et une [potion de vitalité](https://www.dndbeyond.com/magic-items/5360-potion-of-vitality).
 
 ## 12 - La Fonderie
 

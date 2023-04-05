@@ -11,7 +11,7 @@
       "query": "tag:#👤PJ",
       "color": {
         "a": 1,
-        "rgb": 16774912
+        "rgb": 2031360
       }
     },
     {
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "tag:#✨Objet",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792657,
-  "close": true
+  "scale": 0.5087618855792683,
+  "close": false
 }

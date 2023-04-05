@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "grotte-aux-echos-de-la-mer",
-      "lastAccessed": 1679425113935,
+      "lastAccessed": 1680723184383,
       "markers": [
         {
           "id": "ID_18e9eaeae96b",
@@ -280,22 +280,6 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_093a798bba3b",
-          "type": "default",
-          "loc": [
-            -3.65087890625,
-            6.172268475278736
-          ],
-          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
           "id": "ID_a818c8ab8a6a",
           "type": "default",
           "loc": [
@@ -303,23 +287,6 @@
             3.5635941421983546
           ],
           "link": "📍Grotte aux echos de la mer#18 - La Caverne Effondrée",
-          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7bbbe9f939da",
-          "type": "default",
-          "loc": [
-            -1.671875,
-            5.843452111668904
-          ],
-          "link": "📍Grotte aux echos de la mer#17 - Ancien lit de ruisseau",
           "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
           "mutable": true,
           "command": false,
@@ -364,70 +331,6 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_d8c98978c908",
-          "type": "default",
-          "loc": [
-            -10.30712890625,
-            6.391043648940519
-          ],
-          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c9090b9b0a98",
-          "type": "default",
-          "loc": [
-            -10.19775390625,
-            7.172083868425663
-          ],
-          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_8a7a78883bea",
-          "type": "default",
-          "loc": [
-            -8.401611328125,
-            6.246454095424748
-          ],
-          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3b095b89d84a",
-          "type": "default",
-          "loc": [
-            -2.651611328125,
-            1.635558516929108
-          ],
-          "layer": "..%2F..%2F..%2F..%2F..%2Fassets%2FPasted%20image%2020230208165202.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
           "id": "ID_39cb99e86978",
           "type": "default",
           "loc": [
@@ -447,7 +350,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/📍grotte aux echos de la mer.md"
+        "Univers/DnD/Faerun/Compagnie de la Sapinette/lieux/Grotte aux Echos de la Mer.md"
       ]
     }
   ],

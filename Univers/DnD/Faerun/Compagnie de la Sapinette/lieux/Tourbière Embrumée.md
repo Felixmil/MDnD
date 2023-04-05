@@ -9,7 +9,7 @@
 
 - [Etang aux croco](../épreuves/Etang%20aux%20croco.md)
 - [La Corruption des marais](../épreuves/La%20Corruption%20des%20marais.md)
-- [Tablette Ancienne](../objets/Tablette%20Ancienne.md)
+- [Tablette de la monstruosité](../objets/Tablette%20de%20la%20monstruosité.md)
 - [Camping dans la tourbière](../épreuves/Camping%20dans%20la%20tourbière.md)
 
 ## Lore

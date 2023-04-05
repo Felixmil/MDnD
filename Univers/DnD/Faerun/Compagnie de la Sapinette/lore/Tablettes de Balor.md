@@ -19,9 +19,8 @@ Ce sont des tablettes en obsidienne mat sur laquelle des inscriptions en [Abyssa
 En réunissant au moins 3 tablettes, un mage spécialiste de  l'école de [Conjuration](../../../../../DM%20Corner/Magic%20Schools.md#Conjuration) aura assez d'information pour effectuer un rituel appelant [Balor](../PNJ/Balor.md).
 
 ## Tablettes
-### Tablette de la monstruosité 
+### [Tablette de la monstruosité](../objets/Tablette%20de%20la%20monstruosité.md)
 - Histoire: Tablette offerte a gazog pour defendre son royaume et son trône.
-- Localisation : [La Corruption des marais](../épreuves/La%20Corruption%20des%20marais.md) dans la [Tourbière Embrumée](../lieux/Tourbière%20Embrumée.md)
 - signification des Inscriptions:
 	>Blabla
 

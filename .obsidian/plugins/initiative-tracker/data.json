@@ -56,8 +56,8 @@
       "marker": "default"
     },
     {
-      "note": "👤Boltror",
-      "path": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/👤Boltror.md",
+      "note": "Boltror",
+      "path": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Boltror.md",
       "name": "Boltror",
       "level": 3,
       "hp": 28,
@@ -67,8 +67,8 @@
       "marker": "default"
     },
     {
-      "note": "👤Pohw",
-      "path": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/👤Pohw.md",
+      "note": "Pohw",
+      "path": "Univers/DnD/Faerun/Compagnie de la Sapinette/PJ/Pohw.md",
       "name": "Pohw",
       "level": 5,
       "ac": 16,
@@ -220,7 +220,7 @@
   "condense": true,
   "clamp": true,
   "autoStatus": true,
-  "beginnerTips": true,
+  "beginnerTips": false,
   "displayDifficulty": true,
   "encounters": {
     "Corruption des marais": {
