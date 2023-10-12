@@ -6,6 +6,6 @@
 
 ## Commandes
 
-- Déploiement: enial (maison) 
-- Camouflage: lani (beau)
+- Déploiement: *enial* (maison) 
+- Camouflage: *lani* (beau)
 

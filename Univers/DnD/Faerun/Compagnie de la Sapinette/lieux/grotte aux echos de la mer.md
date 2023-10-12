@@ -49,13 +49,13 @@ Partie 3 : Vous atteignez finalement la source du son, et vos yeux s'élargissen
 
 >[!DANGER] Gouffre #🎲Epreuve/⚡Environnement 
 > - Profond de 6m
-> - Test de Force (Athletisme) DC 15.
+> - Test de Force (Athletisme) DC 14.
 >	- Si échoué de 5: chute de 3m (`dice: 1d6` dgts)
 >	- Si échoué de 10 +: chute de 6m (`dice: 2d6` dgts)
 
 
 >[!SUCCESS] Bottes de Rebond #✨Objet 
->-**Investigation DD 14** Dans le campement abandonné, on peu trouver un paire de [Bottes de Rebond](https://www.dndbeyond.com/magic-items/4590-boots-of-striding-and-springing) au fond d'un duvet.
+>**Investigation DD 14** Dans le campement abandonné, on peu trouver un paire de [Bottes de Rebond](https://www.dndbeyond.com/magic-items/4590-boots-of-striding-and-springing) au fond d'un duvet.
 
 
 ## 2 - Tunnels
@@ -200,11 +200,15 @@ Le squelette porte deux anneaux de platine (75 gp chacun) et serre une [baguette
 > 
 > Plus d'une douzaine de cadavres desséchés sont éparpillés dans la pièce. Ces nains et orcs tués portent encore les restes de leur armure. Au-dessus d'eux flotte un crâne englouti dans des flammes vertes.
 
-```encounter
-creatures:
-  - 8: Zombie
-  - 1: Flameskull
-```
+
+>[!DANGER] Zombies & Flameskull #🎲Epreuve 
+>```encounter
+>creatures:
+>  - 8: Zombie
+>  - 1: Flameskull
+>```
+> 
+
 
 ### Passage vers [18 - La Caverne Effondrée](#18%20-%20La%20Caverne%20Effondrée)
 Le fond du canal est à 1,5 m sous le niveau du sol, et aucun test d'aptitude n'est nécessaire pour y entrer ou en sortir. Les personnages dans le canal peuvent le suivre hors de cette pièce au nord ou à l'est, bien que le plafond ne soit plus qu'à 1,5 m de hauteur après la sortie du canal de cette pièce.
@@ -242,17 +246,72 @@ Les portes menant à cette zone sont fissurées, leurs charnières en fer ayant 
 	- Si les PJ parlent, il écoute ce qu'ils ont à dire et leur suggèrent une offrande. Il accepte les objets magiques et en particulier les parchemin avec test de Charisme (Persuasion) DC 10 pour convaincre le spectre de sa valeur.
 	- Si les PJ volent ses biens: il attaque
 
-### Trésor #🔎Découverte 
-
-
+>[!SUCCESS] Trésor #✨Objet 
+> Le coffre brûlé est déverrouillé et contient 1 100 cp, 160 sp, 50 ep, trois diamants (100 gp chacun) et une pipe en bois ornée de filigrane de platine (150 gp).
+> Une poignée de tomes magiquement préservés restent sur les étagères. La plupart ne sont que des histoires, mais l'un d'entre eux comporte une carte cousue dans sa couverture. La présence de la carte peut être discernée en réussissant un test d'Intelligence (Investigation) DC 12. La carte indique l'emplacement d'un donjon de votre création. Lorsque les personnages auront terminé leurs explorations ici, cette vieille carte pourra les mener à leur prochaine aventure.
 
 ## 15 - La Forge aux Sortilèges
 
+C'est ici que les sorciers alliés aux nains et aux gnomes du Pacte de Phandelver ont canalisé la magie de ces cavernes pour enchanter les armes des nains et les gadgets des gnomes.
+
+>[!WARNING] Porte Est barricadée #🎲Epreuve/⚡Environnement 
+> La porte la plus au nord est brûlée et fissurée, ses gonds en fer partiellement fondus ; la forcer à s'ouvrir nécessite un test de Force DC 15 réussi. Les doubles portes de l'ouest sont tout aussi endommagées mais restent légèrement entrouvertes.
+
+> [!QUOTE] Description 
+> Ce grand atelier a été gravement endommagé par l'ancienne bataille de sortilèges qui a ravagé la mine. Les tables de travail qui occupent deux coins de la pièce sont roussies, et le plâtre a été brûlé sur les murs en maçonnerie. Au milieu de la pièce, un piédestal de pierre supporte un petit brasero dans lequel danse et crépite une flamme d'un vert inquiétant. Le brasero et son socle semblent avoir été épargnés par les forces qui ont détruit cette région.
+> Derrière le brasero de flammes vertes flotte une créature sphérique mesurant environ un mètre cinquante de diamètre. Quatre yeux sortent de sa masse centrale, deux de chaque côté. Au centre du corps se trouve un grand œil qui vous fixe. "Bonjour", dit une voix épaisse et bouillonnante à l'intérieur de votre tête.
+
+
+>[!DANGER] Spectateur #🎲Epreuve 
+> ```encounter
+> creatures:
+>   - 1: Spectator
+> ```
+> Si le groupe tente de retirer quoi que ce soit de cette zone, le spectateur attaque. 
+> 
+> Si le spectateur est aveuglé d'une manière ou d'une autre, il disparaît dans son plan d'origine, convaincu qu'il ne peut plus accomplir la tâche pour laquelle il a été convoqué.
+> 
+> En réussissant un test de Charisme (Tromperie) DC 15, le personnage peut faire croire au spectateur qu'un ou plusieurs membres du groupe sont des sorciers ou des mineurs travaillant pour les propriétaires de la Grotte de l'Écho des Vagues, envoyés pour mettre fin à l'emploi du spectateur. Si la tromperie réussit, le spectateur croit être libéré de ses obligations, et il disparaît pour retourner dans son plan d'origine.
+
+>[!TIP] Brasero de flammes vertes #🔎Découverte 
+>Un test d'Intelligence (Arcanes) DC 15 réussi permet d'identifier le brasero comme la source de la magie qui imprègne les cavernes environnantes. Cette magie s'est affaiblie au fil des ans, au point qu'elle ne peut plus être exploitée pour enchanter des objets magiques de façon permanente. Cependant, toute arme ou armure non magique baignant dans la flamme verte pendant au moins 1 minute devient une arme +1 ou une armure +1, respectivement, pendant 1d12 heures. Le brasero ne peut être retiré de la Forge des sorts.
+
+>[!TIP] Salle du Nord
+>Cette petite pièce est un espace de travail séparé, où les objets préparés pour l'enchantement étaient polis, laqués et finis. Comme l'atelier principal, elle a été presque entièrement détruite.
+
+>[!SUCCESS] Trésor #✨Objet 
+> Sur la table de travail dans le coin sud-est de la pièce se trouvent les derniers objets que le spectateur a été chargé de protéger : [Porteuse de Lumière](https://5e.tools/items.html#lightbringer_lmop) et [Garde Dragon](https://5e.tools/items.html#dragonguard_lmop).
+
 ## 16 - La Caverne aux Echos
+
+C'est à cette caverne remplie d'eau que l'on doit le bruit du ressac qui a donné son nom à la grotte de l'Écho des vagues.
+Le rebord qui épouse le mur sud se trouve à 15 pieds au-dessus du niveau de l'eau. Cependant, lorsque l'eau pénètre dans la grotte toutes les deux minutes, elle fait monter le niveau de l'eau de 3 m. Après une minute, le niveau de l'eau redescend. Au bout d'une minute, le niveau de l'eau revient à sa profondeur normale de 10 mètres.
+
+> [!QUOTE] Description 
+> Une étroite corniche surplombe une grande caverne qui abrite une masse d'eau bouillonnante. Le grondement rythmique que l'on entend dans toutes les mines est plus fort ici. À intervalles réguliers, une nouvelle vague d'eau s'engouffre dans cette chambre et se heurte au mur juste en dessous de la corniche. L'écho suggère que cette grotte pourrait être un bras d'une caverne beaucoup plus grande au nord-est.
 
 ## 17 - Ancien lit de ruisseau
 
+Le ruisseau qui s'écoulait de la zone 10 à la zone 18 traversait ce passage bas pour se déverser dans la zone 16.
+
+> [!QUOTE] Description 
+> Ce passage mesure à peine un mètre de haut et est obstrué par des blocs arrondis et des cailloux. Il aurait pu être le lit d'un ruisseau, mais l'eau n'y coule plus.
+
+Les nains ont détourné le cours d'eau dans le canal menant à la zone 12 pour faire tourner la roue à aubes de la fonderie. Puis les tremblements de terre qui ont secoué la grotte de l'Écho des vagues lors de la dernière bataille de sorts de l'invasion orque ont fait s'effondrer le sol de la zone 18, détournant une fois de plus le cours d'eau. L'ancien lit du ruisseau reste un passage utilisable pour contourner les morts-vivants de la zone 12, bien que Nezznar ne l'ait pas encore découvert.
+
 ## 18 - La Caverne Effondrée
+
+Les serviteurs de Nezznar occupent cette caverne, veillant sur les incursions de morts-vivants et fouillant soigneusement les décombres. Les divinations de l'Araignée noire suggèrent qu'un précieux trésor est caché au fond de la faille créée lors de la destruction de cette zone.
+
+> [!QUOTE] Description 
+> Une large faille remplit la moitié est de cette caverne. Un ruisseau s'écoule de la paroi ouest, puis dégringole dans la faille avant de ressortir au nord. Plusieurs cordes sont attachées à des piquets de fer le long du bord ouest de la faille, menant au fond du gouffre.
+
+>[!DANGER] Gobelours #🎲Epreuve 
+>```encounter
+>creatures:
+>  - 3: Bugbear
+>```
+>  Deux d'entre eux déblayent la roche au fond de la brèche, tandis qu'un autre monte la garde dans la moitié ouest de la caverne. Un double nommé Vhalak supervise les opérations sous l'apparence d'un drow. Si un combat éclate dans la caverne principale, les deux bugbears de la faille grimpent le long des cordes pour se joindre à la mêlée.
 
 ## 19 - Le Temple de Dumathoin
 
